@@ -5,11 +5,14 @@
 
 ### Practice GitHub PR workflow
 
+
 - Follow instructions from your tutor to complete this exercise.
 
 <br><br>
 
 Additional topics TBD
+
+Consider the scenario
 
 <!--
 
