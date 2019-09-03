@@ -7,3 +7,6 @@
 - Achieve `Project Milestone v1.0`
 
 -->
+
+* You will start moving towards the team project this week.
+* Please pay attention to the instructions regarding the team tasks.
