@@ -1,4 +1,63 @@
-2019-08-21T14:17:05.182Z - info: Website generation started at 10:17:03 PM
-2019-08-21T14:17:06.776Z - info: Building assets...
-2019-08-21T14:17:08.505Z - info: Assets built
-2019-08-21T14:17:08.506Z - info: Generating pages...
+2019-08-21T05:10:17.422Z - info: Website generation started at 1:10:16 PM
+2019-08-21T05:10:18.525Z - info: Building assets...
+2019-08-21T05:10:19.514Z - info: Assets built
+2019-08-21T05:10:19.515Z - info: Generating pages...
+2019-08-21T05:11:27.471Z - info: Pages built
+2019-08-21T05:11:43.738Z - info: Website generation complete! Total build time: 87.356s
+2019-08-21T05:11:44.084Z - info: Serving "E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-08-21T05:11:44.084Z - info: Press CTRL+C to stop ...
+2019-08-21T05:11:44.111Z - info: Site data built
+2019-08-21T06:42:42.772Z - info: Website generation started at 2:42:41 PM
+2019-08-21T06:42:43.751Z - info: Building assets...
+2019-08-21T06:42:44.636Z - info: Assets built
+2019-08-21T06:42:44.636Z - info: Generating pages...
+2019-08-21T06:43:47.146Z - info: Pages built
+2019-08-21T06:43:59.395Z - info: Website generation complete! Total build time: 77.557s
+2019-08-21T06:43:59.686Z - info: Serving "E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-08-21T06:43:59.686Z - info: Press CTRL+C to stop ...
+2019-08-21T06:43:59.711Z - info: Site data built
+2019-08-21T07:17:38.877Z - info: [3:17:38 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w03-inception.md
+2019-08-21T07:17:39.879Z - info: Rebuilding affected source files
+2019-08-21T07:17:39.880Z - info: Rebuilding 3 pages
+2019-08-21T07:17:40.907Z - info: Pages rebuilt
+2019-08-21T07:17:40.915Z - info: Site data built
+2019-08-21T07:18:16.190Z - info: [3:18:16 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w03-inception.md
+2019-08-21T07:18:17.191Z - info: Rebuilding affected source files
+2019-08-21T07:18:17.195Z - info: Rebuilding 3 pages
+2019-08-21T07:18:18.195Z - info: Pages rebuilt
+2019-08-21T07:18:18.206Z - info: Site data built
+2019-08-21T07:18:59.824Z - info: [3:18:59 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w03-inception.md
+2019-08-21T07:19:00.826Z - info: Rebuilding affected source files
+2019-08-21T07:19:00.827Z - info: Rebuilding 3 pages
+2019-08-21T07:19:01.861Z - info: Pages rebuilt
+2019-08-21T07:19:01.870Z - info: Site data built
+2019-08-21T07:19:37.265Z - info: [3:19:37 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w03-inception.md
+2019-08-21T07:19:38.265Z - info: Rebuilding affected source files
+2019-08-21T07:19:38.267Z - info: Rebuilding 3 pages
+2019-08-21T07:19:39.188Z - info: Pages rebuilt
+2019-08-21T07:19:39.198Z - info: Site data built
+2019-08-21T07:20:06.021Z - info: [3:20:06 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w03-inception.md
+2019-08-21T07:20:07.025Z - info: Rebuilding affected source files
+2019-08-21T07:20:07.029Z - info: Rebuilding 3 pages
+2019-08-21T07:20:07.982Z - info: Pages rebuilt
+2019-08-21T07:20:07.991Z - info: Site data built
+2019-08-21T07:20:15.428Z - info: [3:20:15 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w03-inception.md
+2019-08-21T07:20:16.430Z - info: Rebuilding affected source files
+2019-08-21T07:20:16.432Z - info: Rebuilding 3 pages
+2019-08-21T07:20:17.364Z - info: Pages rebuilt
+2019-08-21T07:20:17.378Z - info: Site data built
+2019-08-21T07:20:28.116Z - info: [3:20:28 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w03-inception.md
+2019-08-21T07:20:29.118Z - info: Rebuilding affected source files
+2019-08-21T07:20:29.119Z - info: Rebuilding 3 pages
+2019-08-21T07:20:30.027Z - info: Pages rebuilt
+2019-08-21T07:20:30.040Z - info: Site data built
+2019-08-21T07:21:02.262Z - info: [3:21:02 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w03-inception.md
+2019-08-21T07:21:03.265Z - info: Rebuilding affected source files
+2019-08-21T07:21:03.269Z - info: Rebuilding 3 pages
+2019-08-21T07:21:04.264Z - info: Pages rebuilt
+2019-08-21T07:21:04.273Z - info: Site data built
+2019-08-21T07:21:38.855Z - info: [3:21:38 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w03-inception.md
+2019-08-21T07:21:39.857Z - info: Rebuilding affected source files
+2019-08-21T07:21:39.858Z - info: Rebuilding 3 pages
+2019-08-21T07:21:40.799Z - info: Pages rebuilt
+2019-08-21T07:21:40.812Z - info: Site data built
