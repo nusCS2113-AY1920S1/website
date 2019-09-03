@@ -5,14 +5,30 @@
 
 ### Practice GitHub PR workflow
 
-Fork the [sample repo for PR practise](https://github.com/nusCS2113-AY1920S1/samplerepo-things) and clone it to your laptop.
-Follow instructions from your tutor to complete this exercise.
+- Fork the [sample repo for PR practise](https://github.com/nusCS2113-AY1920S1/samplerepo-things) and clone it to your laptop.
+- Follow instructions from your tutor to complete this exercise.
 
-<br><br>
+<br>
 
-Additional topics TBD
+### Polymorphism
 
-Consider the scenario
+<box>
+Consider the two scenarios below:
+
+1. You are building the back-end software for an online library that loans e-magazines, music and movies. You decide to implement each of these items as classes.
+As you can expect, there are a few common aspects of loaning e-magazine, music or movies. Identify these common aspects (attributes and methods).
+
+
+2. You are working for a company that specialize in data persistence and storage for software. The current version of your library allows the users to store data in various formats.
+E.g., into a SQL database for warehousing and analysis, excel sheets for managers and csv files  for ease of data transportation. Each part of the client software can use some aspects of your library. Your task is to provide a consistent view of the library features to the users. 
+</box>
+
+- In both the scenarios above, discuss with your peers what mechanism you would use to achieve the objective? 
+- Explain your solution to your peers using a class diagram.
+
+### Regression testing
+
+- Show to your tutor how you achieved regression testing of Duke.
 
 <!--
 
