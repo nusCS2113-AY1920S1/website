@@ -5,8 +5,8 @@
 
 ### Practice GitHub PR workflow
 
-
-- Follow instructions from your tutor to complete this exercise.
+Fork the [sample repo for PR practise](https://github.com/nusCS2113-AY1920S1/samplerepo-things) and clone it to your laptop.
+Follow instructions from your tutor to complete this exercise.
 
 <br><br>
 
