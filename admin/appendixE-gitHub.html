@@ -42,8 +42,8 @@
           <li><a href="/website/schedule/week1/index.html" class="dropdown-item"> <span><strong>Week 1</strong> [Aug 12] </span></a></li>
           <li><a href="/website/schedule/week2/index.html" class="dropdown-item"> <span><strong>Week 2</strong> [Aug 19] </span></a></li>
           <li><a href="/website/schedule/week3/index.html" class="dropdown-item"> <span><strong>Week 3</strong> [Aug 26] </span></a></li>
-          <li><a href="/website/schedule/week4/index.html" class="dropdown-item"> <span><strong>Week 4</strong> [Sep 2] <span aria-hidden="true" class="fas fa-arrow-circle-left"></span></span></a></li>
-          <li><a href="/website/schedule/week5/index.html" class="dropdown-item"> <span><strong>Week 5</strong> [Sep 9] </span></a></li>
+          <li><a href="/website/schedule/week4/index.html" class="dropdown-item"> <span><strong>Week 4</strong> [Sep 2] </span></a></li>
+          <li><a href="/website/schedule/week5/index.html" class="dropdown-item"> <span><strong>Week 5</strong> [Sep 9] <span aria-hidden="true" class="fas fa-arrow-circle-left"></span></span></a></li>
           <li><a href="/website/schedule/week6/index.html" class="dropdown-item"> <span><strong>Week 6</strong> [Sep 16] </span></a></li>
         </dropdown>
         <li><a href="/website/se-book-adapted/index.html" class="nav-link"><span><strong>Textbook</strong></span></a></li>
@@ -64,6 +64,7 @@
           <li><a href="https://github.com/nusCS2113-AY1920S1/samplerepo-things" target="_blank" class="dropdown-item"><span><span aria-hidden="true" class="fas fa-code-branch"></span></span> samplerepo-things</a></li>
           <li><a href="/website/admin/projectList.html" class="dropdown-item"><span><span aria-hidden="true" class="fas fa-th-list"></span></span> Projects List</a></li>
           <li><a href="/website/admin/reposenseConfigTemplates.html" class="dropdown-item"><span><span aria-hidden="true" class="fas fa-th-list"></span></span> config.json templates for Reposense</a></li>
+          <li><a href="https://github.com/nuscs2113-AY1920S1/PersonalAssistant-Duke" target="_blank" class="dropdown-item"><span><span aria-hidden="true" class="fas fa-code-branch"></span></span> PersonalAssistant-Duke </a></li>
           <li><a href="https://nuscs2113-ay1920s1.github.io/dashboard-beta" target="_blank" class="dropdown-item"><span><span aria-hidden="true" class="fas fa-chart-area"></span></span> Project Phase2 Dashboard </a></li>
           <li><a href="https://repl.it/classroom/invite/cuFCDgh" target="_blank" class="dropdown-item"><span><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span></span> Repl.it classroom</a></li>
         </dropdown>
@@ -216,13 +217,13 @@
               <h2 id="repo-setup">Repo setup<a class="fa fa-anchor" href="#repo-setup"></a></h2>
               <p>Only one team member:</p>
               <ol>
-                <li><strong>Fork</strong> <a href="https://github.com/nusCS2113-AY1920S1/duke-team">nuscs2113-AY1920S1/duke-team</a> to your team org.</li>
+                <li><strong>Fork</strong> <a href="https://github.com/nusCS2113-AY1920S1/PersonalAssistant-Duke">nuscs2113-AY1920S1/PersonalAssistant-Duke</a> to your team org.</li>
                 <li><mark><strong>Rename</strong> the forked repo as <code>main</code></mark>. This repo (let's call it the <em>team repo</em>) is to be used as the repo for your project.</li>
                 <li><mark>Ensure the issue tracker of your team repo is enabled.</mark> <span class="dimmed">Reason: our bots will be posting your weekly progress reports on the issue tracker of your team repo.</span></li>
                 <li>Ensure your team members have the desired level of access to your team repo.</li>
-                <li><a href="https://github.com/nusCS2113-AY1920S1/addressbook-level3/blob/master/docs/UsingTravis.adoc#setting-up-travis-ci"><strong>Enable Travis CI for the team repo</strong></a>.</li>
-                <li><strong>create a <em>team PR</em></strong> for us to track your project progress: i.e., create a PR from your <mark>team repo <code>master</code> branch</mark> to [<a href="https://github.com/nusCS2113-AY1920S1/duke-team">nuscs2113-AY1920S1/duke-team</a>] <code>master</code> branch. PR name: <code>[Team ID] Product Name</code> e.g., <code>[CS2113T-T09-2] Contact List Pro</code>. <span class="dimmed"> As you merge code to your team repo's <code>master</code> branch, this PR will auto-update to reflect how much your team's product has progressed.</span> In the PR description <tooltip content="use @githubUserName">@mention</tooltip> the other team members so that they get notified when the tutor adds comments to the PR.</li>
+                <li><strong>create a <em>team PR</em></strong> for us to track your project progress: i.e., create a PR from your <mark>team repo <code>master</code> branch</mark> to [<a href="https://github.com/nusCS2113-AY1920S1/PersonalAssistant-Duke">nuscs2113-AY1920S1/PersonalAssistant-Duke</a>] <code>master</code> branch. PR name: <code>[Team ID] Product Name</code> e.g., <code>[AY1920S1-CS2113-T13-1] Contact List Pro</code>. <span class="dimmed"> As you merge code to your team repo's <code>master</code> branch, this PR will auto-update to reflect how much your team's product has progressed.</span> In the PR description <tooltip content="use @githubUserName">@mention</tooltip> the other team members so that they get notified when the tutor adds comments to the PR.</li>
               </ol>
+
               <p>All team members:</p>
               <ol>
                 <li><strong>Watch</strong>the <code>main</code> repo (created above) i.e., go to the repo and click on the <code>watch</code> button to subscribe to activities of the repo</li>
@@ -230,7 +231,7 @@
                 <li><strong>Clone</strong> the fork to your Computer.</li>
                 <li><em>Recommended</em>: Set it up as an Intellij project.</li>
               </ol>
-              <p>Note that some of our download scripts depend on the following folder paths. Please do not alter those paths in your project.</p>
+              <p>Note that some of our download scripts depend on the following folder paths. Please set up the these paths in your project carefully.</p>
               <ul>
                 <li><code>/src/main</code></li>
                 <li><code>/src/test</code></li>
@@ -811,7 +812,7 @@ method 2 ...
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Tue, 03 Sep 2019 06:43:06 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Fri, 06 Sep 2019 06:43:54 GMT</small></div>
     </footer>
   </div>
 </body>

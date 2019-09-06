@@ -3,7 +3,7 @@
   "pages": [
     {
       "headings": {
-        "week-4-sep-2": "Week 4 [Sep 2]"
+        "week-5-sep-9": "Week 5 [Sep 9]"
       },
       "title": "Home",
       "header": "header.md",
@@ -434,7 +434,17 @@
     },
     {
       "headings": {
-        "project-v1-0-week-5": "Project: v1.0 [week 5] "
+        "project-v1-0-week-5": "Project: v1.0 [week 5] ",
+        "duke-tasks-individual": "Duke tasks ( individual)",
+        "implement-the-following-increments-while-committing-code-incrementally": "Implement the following increments while committing code incrementally",
+        "duke-tasks-team": "Duke tasks ( team)",
+        "project-setup": "Project Setup",
+        "create-your-team-organization": "Create your team organization.",
+        "set-up-the-team-repo": "Set up the team repo",
+        "setup-the-issue-tracker-in-the-team-repo": "Setup the issue tracker in the team repo",
+        "port-the-phase-1-code-to-your-team-repo": "Port the phase 1 code to your team repo",
+        "implement-the-following-increments-in-the-team-repo": "Implement the following increments in the team repo",
+        "project-phase-2": "Project Phase 2"
       },
       "title": "Admin: Project: v1.0 [week 5]",
       "header": "header.md",

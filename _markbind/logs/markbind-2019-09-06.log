@@ -1,0 +1,805 @@
+2019-09-06T03:03:51.467Z - info: Website generation started at 11:03:50 AM
+2019-09-06T03:03:52.576Z - info: Building assets...
+2019-09-06T03:03:53.616Z - info: Assets built
+2019-09-06T03:03:53.617Z - info: Generating pages...
+2019-09-06T03:04:52.679Z - info: Pages built
+2019-09-06T03:05:04.681Z - info: Website generation complete! Total build time: 74.276s
+2019-09-06T03:05:04.960Z - info: Serving "E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-09-06T03:05:04.960Z - info: Press CTRL+C to stop ...
+2019-09-06T03:05:04.983Z - info: Site data built
+2019-09-06T03:07:13.183Z - info: [11:07:13 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:07:14.186Z - info: Rebuilding affected source files
+2019-09-06T03:07:14.188Z - info: Rebuilding 3 pages
+2019-09-06T03:07:17.855Z - info: Pages rebuilt
+2019-09-06T03:07:17.867Z - info: Site data built
+2019-09-06T03:07:51.702Z - info: [11:07:51 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:07:52.705Z - info: Rebuilding affected source files
+2019-09-06T03:07:52.709Z - info: Rebuilding 3 pages
+2019-09-06T03:07:53.898Z - info: Pages rebuilt
+2019-09-06T03:07:53.911Z - info: Site data built
+2019-09-06T03:09:09.358Z - info: [11:09:09 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:09:10.361Z - info: Rebuilding affected source files
+2019-09-06T03:09:10.365Z - info: Rebuilding 3 pages
+2019-09-06T03:09:11.267Z - info: Pages rebuilt
+2019-09-06T03:09:11.276Z - info: Site data built
+2019-09-06T03:10:11.281Z - info: [11:10:11 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:10:11.298Z - info: [11:10:11 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w04-mid-v10.md
+2019-09-06T03:10:12.283Z - info: Rebuilding affected source files
+2019-09-06T03:10:12.284Z - info: Rebuilding 5 pages
+2019-09-06T03:10:13.664Z - info: Pages rebuilt
+2019-09-06T03:10:13.686Z - info: Site data built
+2019-09-06T03:10:40.503Z - info: [11:10:40 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\project.md
+2019-09-06T03:10:41.505Z - info: Rebuilding affected source files
+2019-09-06T03:10:41.508Z - info: Rebuilding 1 pages
+2019-09-06T03:10:41.774Z - info: Pages rebuilt
+2019-09-06T03:10:41.782Z - info: Site data built
+2019-09-06T03:11:13.419Z - info: [11:11:13 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\project.md
+2019-09-06T03:11:14.420Z - info: Rebuilding affected source files
+2019-09-06T03:11:14.422Z - info: Rebuilding 1 pages
+2019-09-06T03:11:14.637Z - info: Pages rebuilt
+2019-09-06T03:11:14.646Z - info: Site data built
+2019-09-06T03:11:31.504Z - info: [11:11:31 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\project.md
+2019-09-06T03:11:32.505Z - info: Rebuilding affected source files
+2019-09-06T03:11:32.506Z - info: Rebuilding 1 pages
+2019-09-06T03:11:32.724Z - info: Pages rebuilt
+2019-09-06T03:11:32.730Z - info: Site data built
+2019-09-06T03:11:36.947Z - info: [11:11:36 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\project.md
+2019-09-06T03:11:37.949Z - info: Rebuilding affected source files
+2019-09-06T03:11:37.953Z - info: Rebuilding 1 pages
+2019-09-06T03:11:38.184Z - info: Pages rebuilt
+2019-09-06T03:11:38.192Z - info: Site data built
+2019-09-06T03:13:43.287Z - info: [11:13:43 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:13:43.301Z - info: [11:13:43 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w04-mid-v10.md
+2019-09-06T03:13:44.289Z - info: Rebuilding affected source files
+2019-09-06T03:13:44.290Z - info: Rebuilding 5 pages
+2019-09-06T03:13:46.112Z - info: Pages rebuilt
+2019-09-06T03:13:46.122Z - info: Site data built
+2019-09-06T03:14:23.494Z - info: [11:14:23 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:14:23.505Z - info: [11:14:23 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w04-mid-v10.md
+2019-09-06T03:14:24.496Z - info: Rebuilding affected source files
+2019-09-06T03:14:24.498Z - info: Rebuilding 5 pages
+2019-09-06T03:14:26.161Z - info: Pages rebuilt
+2019-09-06T03:14:26.172Z - info: Site data built
+2019-09-06T03:15:10.122Z - info: [11:15:10 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:15:10.130Z - info: [11:15:10 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w04-mid-v10.md
+2019-09-06T03:15:11.123Z - info: Rebuilding affected source files
+2019-09-06T03:15:11.125Z - info: Rebuilding 5 pages
+2019-09-06T03:15:12.916Z - info: Pages rebuilt
+2019-09-06T03:15:12.926Z - info: Site data built
+2019-09-06T03:16:28.157Z - info: [11:16:28 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:16:29.159Z - info: Rebuilding affected source files
+2019-09-06T03:16:29.163Z - info: Rebuilding 3 pages
+2019-09-06T03:16:30.403Z - info: Pages rebuilt
+2019-09-06T03:16:30.420Z - info: Site data built
+2019-09-06T03:18:02.894Z - info: [11:18:02 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-timeline.md
+2019-09-06T03:18:03.896Z - info: Rebuilding affected source files
+2019-09-06T03:18:03.906Z - info: Rebuilding 36 pages
+2019-09-06T03:18:10.219Z - info: Pages rebuilt
+2019-09-06T03:18:10.233Z - info: Site data built
+2019-09-06T03:19:19.590Z - info: [11:19:19 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:19:20.592Z - info: Rebuilding affected source files
+2019-09-06T03:19:20.596Z - info: Rebuilding 3 pages
+2019-09-06T03:19:21.761Z - info: Pages rebuilt
+2019-09-06T03:19:21.772Z - info: Site data built
+2019-09-06T03:19:46.212Z - info: [11:19:46 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:19:47.214Z - info: Rebuilding affected source files
+2019-09-06T03:19:47.215Z - info: Rebuilding 3 pages
+2019-09-06T03:19:48.208Z - info: Pages rebuilt
+2019-09-06T03:19:48.221Z - info: Site data built
+2019-09-06T03:20:12.503Z - info: [11:20:12 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:20:13.505Z - info: Rebuilding affected source files
+2019-09-06T03:20:13.509Z - info: Rebuilding 3 pages
+2019-09-06T03:20:14.678Z - info: Pages rebuilt
+2019-09-06T03:20:14.698Z - info: Site data built
+2019-09-06T03:20:28.757Z - info: [11:20:28 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:20:29.758Z - info: Rebuilding affected source files
+2019-09-06T03:20:29.759Z - info: Rebuilding 3 pages
+2019-09-06T03:20:31.022Z - info: Pages rebuilt
+2019-09-06T03:20:31.039Z - info: Site data built
+2019-09-06T03:21:04.021Z - info: [11:21:04 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:21:05.025Z - info: Rebuilding affected source files
+2019-09-06T03:21:05.028Z - info: Rebuilding 3 pages
+2019-09-06T03:21:06.392Z - info: Pages rebuilt
+2019-09-06T03:21:06.419Z - info: Site data built
+2019-09-06T03:21:07.674Z - info: [11:21:07 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:21:08.675Z - info: Rebuilding affected source files
+2019-09-06T03:21:08.677Z - info: Rebuilding 3 pages
+2019-09-06T03:21:09.759Z - info: Pages rebuilt
+2019-09-06T03:21:09.767Z - info: Site data built
+2019-09-06T03:22:15.029Z - info: [11:22:15 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:22:16.030Z - info: Rebuilding affected source files
+2019-09-06T03:22:16.032Z - info: Rebuilding 3 pages
+2019-09-06T03:22:17.275Z - info: Pages rebuilt
+2019-09-06T03:22:17.286Z - info: Site data built
+2019-09-06T03:22:28.991Z - info: [11:22:28 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:22:29.993Z - info: Rebuilding affected source files
+2019-09-06T03:22:29.997Z - info: Rebuilding 3 pages
+2019-09-06T03:22:31.271Z - info: Pages rebuilt
+2019-09-06T03:22:31.283Z - info: Site data built
+2019-09-06T03:22:48.770Z - info: [11:22:48 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:22:49.773Z - info: Rebuilding affected source files
+2019-09-06T03:22:49.775Z - info: Rebuilding 3 pages
+2019-09-06T03:22:50.953Z - info: Pages rebuilt
+2019-09-06T03:22:50.978Z - info: Site data built
+2019-09-06T03:23:03.974Z - info: [11:23:03 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:23:04.974Z - info: Rebuilding affected source files
+2019-09-06T03:23:04.975Z - info: Rebuilding 3 pages
+2019-09-06T03:23:06.254Z - info: Pages rebuilt
+2019-09-06T03:23:06.266Z - info: Site data built
+2019-09-06T03:23:16.156Z - info: [11:23:16 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:23:17.156Z - info: Rebuilding affected source files
+2019-09-06T03:23:17.159Z - info: Rebuilding 3 pages
+2019-09-06T03:23:18.285Z - info: Pages rebuilt
+2019-09-06T03:23:18.295Z - info: Site data built
+2019-09-06T03:26:17.052Z - info: [11:26:17 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_markbind\variables.md
+2019-09-06T03:26:18.055Z - info: Rebuilding affected source files
+2019-09-06T03:26:18.113Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-09-06T03:26:18.184Z - info: Rebuilding 781 pages
+2019-09-06T03:26:59.939Z - info: [11:26:59 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:27:16.495Z - info: Website generation started at 11:27:14 AM
+2019-09-06T03:27:17.435Z - info: Building assets...
+2019-09-06T03:27:18.321Z - info: Assets built
+2019-09-06T03:27:18.322Z - info: Generating pages...
+2019-09-06T03:28:17.383Z - info: Pages built
+2019-09-06T03:28:29.485Z - info: Website generation complete! Total build time: 74.564s
+2019-09-06T03:28:29.761Z - info: Serving "E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-09-06T03:28:29.761Z - info: Press CTRL+C to stop ...
+2019-09-06T03:28:29.780Z - info: Site data built
+2019-09-06T03:28:30.337Z - info: [11:28:30 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:28:31.419Z - info: Rebuilding affected source files
+2019-09-06T03:28:31.420Z - info: Rebuilding 3 pages
+2019-09-06T03:28:31.682Z - error:  Template render error: (E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md) [Line 17, Column 1]
+  expected variable end
+Error while preprocessing 'E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\project.md'
+    at Object._prettifyError (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:542:21)
+    at Environment.renderString (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:380:17)
+    at Object.renderString (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\index.js:99:14)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:297:28)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at dom.map (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+2019-09-06T03:28:31.731Z - error: uncaughtException: (E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md) [Line 17, Column 1]
+  expected variable end date=Fri Sep 06 2019 11:28:31 GMT+0800 (Singapore Standard Time), pid=19792, uid=null, gid=null, cwd=E:\Teaching\CS2113\CS2113-AY1920Sem1\website, execPath=C:\Program Files\nodejs\node.exe, version=v10.16.1, argv=[C:\Program Files\nodejs\node.exe, C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\index.js, serve], rss=334483456, heapTotal=291229696, heapUsed=195080960, external=1282849, loadavg=[0, 0, 0], uptime=1887701
+Template render error: (E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md) [Line 17, Column 1]
+  expected variable end
+    at Object._prettifyError (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:542:21)
+    at Environment.renderString (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:380:17)
+    at Object.renderString (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\index.js:99:14)
+    at fs.readFile (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:600:36)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-09-06T03:28:33.764Z - error: uncaughtException: (E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md) [Line 17, Column 1]
+  expected variable end date=Fri Sep 06 2019 11:28:33 GMT+0800 (Singapore Standard Time), pid=19792, uid=null, gid=null, cwd=E:\Teaching\CS2113\CS2113-AY1920Sem1\website, execPath=C:\Program Files\nodejs\node.exe, version=v10.16.1, argv=[C:\Program Files\nodejs\node.exe, C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\index.js, serve], rss=327094272, heapTotal=270921728, heapUsed=147865040, external=243660, loadavg=[0, 0, 0], uptime=1887703
+Template render error: (E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md) [Line 17, Column 1]
+  expected variable end
+    at Object._prettifyError (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:542:21)
+    at Environment.renderString (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:380:17)
+    at Object.renderString (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\index.js:99:14)
+    at fs.readFile (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:600:36)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-09-06T03:29:56.922Z - info: [11:29:56 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:30:48.459Z - info: [11:30:48 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_markbind\variables.md
+2019-09-06T03:31:01.317Z - info: Website generation started at 11:31:00 AM
+2019-09-06T03:31:02.267Z - info: Building assets...
+2019-09-06T03:31:03.116Z - info: Assets built
+2019-09-06T03:31:03.117Z - info: Generating pages...
+2019-09-06T03:32:02.468Z - info: Pages built
+2019-09-06T03:32:16.412Z - info: Website generation complete! Total build time: 76.033s
+2019-09-06T03:32:16.679Z - info: Serving "E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-09-06T03:32:16.679Z - info: Press CTRL+C to stop ...
+2019-09-06T03:32:16.698Z - info: Site data built
+2019-09-06T03:40:34.537Z - info: [11:40:34 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_markbind\variables.md
+2019-09-06T03:40:35.539Z - info: Rebuilding affected source files
+2019-09-06T03:40:35.608Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2019-09-06T03:40:35.695Z - info: Rebuilding 781 pages
+2019-09-06T03:41:12.506Z - info: Website generation started at 11:41:10 AM
+2019-09-06T03:41:13.459Z - info: Building assets...
+2019-09-06T03:41:14.294Z - info: Assets built
+2019-09-06T03:41:14.294Z - info: Generating pages...
+2019-09-06T03:42:15.624Z - info: Pages built
+2019-09-06T03:42:27.460Z - info: Website generation complete! Total build time: 76.56s
+2019-09-06T03:42:27.730Z - info: Serving "E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-09-06T03:42:27.730Z - info: Press CTRL+C to stop ...
+2019-09-06T03:42:27.757Z - info: Site data built
+2019-09-06T03:42:28.289Z - info: [11:42:28 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:42:29.346Z - info: Rebuilding affected source files
+2019-09-06T03:42:29.348Z - info: Rebuilding 3 pages
+2019-09-06T03:42:32.079Z - info: Pages rebuilt
+2019-09-06T03:42:32.211Z - info: Site data built
+2019-09-06T03:43:26.049Z - info: [11:43:26 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-timeline.md
+2019-09-06T03:43:27.051Z - info: Rebuilding affected source files
+2019-09-06T03:43:27.058Z - info: Rebuilding 36 pages
+2019-09-06T03:43:33.179Z - info: Pages rebuilt
+2019-09-06T03:43:33.190Z - info: Site data built
+2019-09-06T03:43:40.220Z - info: [11:43:40 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-timeline.md
+2019-09-06T03:43:41.222Z - info: Rebuilding affected source files
+2019-09-06T03:43:41.226Z - info: Rebuilding 36 pages
+2019-09-06T03:43:47.112Z - info: Pages rebuilt
+2019-09-06T03:43:47.124Z - info: Site data built
+2019-09-06T03:44:07.757Z - info: [11:44:07 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\project.md
+2019-09-06T03:44:08.760Z - info: Rebuilding affected source files
+2019-09-06T03:44:08.762Z - info: Rebuilding 1 pages
+2019-09-06T03:44:08.872Z - info: [11:44:08 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\project.md
+2019-09-06T03:44:09.051Z - info: Pages rebuilt
+2019-09-06T03:44:09.062Z - info: Site data built
+2019-09-06T03:44:09.875Z - info: Rebuilding affected source files
+2019-09-06T03:44:09.876Z - info: Rebuilding 1 pages
+2019-09-06T03:44:10.110Z - info: Pages rebuilt
+2019-09-06T03:44:10.117Z - info: Site data built
+2019-09-06T03:44:26.113Z - info: [11:44:26 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\project.md
+2019-09-06T03:44:27.115Z - info: Rebuilding affected source files
+2019-09-06T03:44:27.116Z - info: Rebuilding 1 pages
+2019-09-06T03:44:27.289Z - info: Pages rebuilt
+2019-09-06T03:44:27.296Z - info: Site data built
+2019-09-06T03:45:12.741Z - info: [11:45:12 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:45:13.741Z - info: Rebuilding affected source files
+2019-09-06T03:45:13.743Z - info: Rebuilding 3 pages
+2019-09-06T03:45:15.134Z - info: Pages rebuilt
+2019-09-06T03:45:15.143Z - info: Site data built
+2019-09-06T03:46:37.202Z - info: [11:46:37 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:46:38.204Z - info: Rebuilding affected source files
+2019-09-06T03:46:38.205Z - info: Rebuilding 3 pages
+2019-09-06T03:46:39.387Z - info: Pages rebuilt
+2019-09-06T03:46:39.397Z - info: Site data built
+2019-09-06T03:48:23.817Z - info: [11:48:23 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:48:23.827Z - info: [11:48:23 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w04-mid-v10.md
+2019-09-06T03:48:24.820Z - info: Rebuilding affected source files
+2019-09-06T03:48:24.824Z - info: Rebuilding 5 pages
+2019-09-06T03:48:26.560Z - info: Pages rebuilt
+2019-09-06T03:48:26.571Z - info: Site data built
+2019-09-06T03:49:05.264Z - info: [11:49:05 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:49:06.267Z - info: Rebuilding affected source files
+2019-09-06T03:49:06.269Z - info: Rebuilding 3 pages
+2019-09-06T03:49:07.486Z - info: Pages rebuilt
+2019-09-06T03:49:07.504Z - info: Site data built
+2019-09-06T03:51:40.411Z - info: [11:51:40 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:51:41.413Z - info: Rebuilding affected source files
+2019-09-06T03:51:41.419Z - info: Rebuilding 3 pages
+2019-09-06T03:51:42.763Z - info: Pages rebuilt
+2019-09-06T03:51:42.772Z - info: Site data built
+2019-09-06T03:53:40.649Z - info: [11:53:40 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:53:41.650Z - info: Rebuilding affected source files
+2019-09-06T03:53:41.652Z - info: Rebuilding 3 pages
+2019-09-06T03:53:43.018Z - info: Pages rebuilt
+2019-09-06T03:53:43.033Z - info: Site data built
+2019-09-06T03:54:22.300Z - info: [11:54:22 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:54:23.302Z - info: Rebuilding affected source files
+2019-09-06T03:54:23.304Z - info: Rebuilding 3 pages
+2019-09-06T03:54:24.519Z - info: Pages rebuilt
+2019-09-06T03:54:24.534Z - info: Site data built
+2019-09-06T03:57:27.405Z - info: [11:57:27 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:57:28.407Z - info: Rebuilding affected source files
+2019-09-06T03:57:28.408Z - info: Rebuilding 3 pages
+2019-09-06T03:57:29.660Z - info: Pages rebuilt
+2019-09-06T03:57:29.675Z - info: Site data built
+2019-09-06T03:58:38.113Z - info: [11:58:38 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:58:38.126Z - info: [11:58:38 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w04-mid-v10.md
+2019-09-06T03:58:39.114Z - info: Rebuilding affected source files
+2019-09-06T03:58:39.116Z - info: Rebuilding 5 pages
+2019-09-06T03:58:40.869Z - info: Pages rebuilt
+2019-09-06T03:58:40.879Z - info: Site data built
+2019-09-06T03:59:43.333Z - info: [11:59:43 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T03:59:44.334Z - info: Rebuilding affected source files
+2019-09-06T03:59:44.336Z - info: Rebuilding 3 pages
+2019-09-06T03:59:45.653Z - info: Pages rebuilt
+2019-09-06T03:59:45.675Z - info: Site data built
+2019-09-06T04:28:49.181Z - info: Website generation started at 12:28:48 PM
+2019-09-06T04:28:50.107Z - info: Building assets...
+2019-09-06T04:28:51.004Z - info: Assets built
+2019-09-06T04:28:51.005Z - info: Generating pages...
+2019-09-06T04:29:51.383Z - info: Pages built
+2019-09-06T04:30:04.931Z - info: Website generation complete! Total build time: 76.81s
+2019-09-06T04:30:05.229Z - info: Serving "E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-09-06T04:30:05.230Z - info: Press CTRL+C to stop ...
+2019-09-06T04:30:05.256Z - info: Site data built
+2019-09-06T04:39:18.224Z - info: [12:39:18 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T04:39:19.226Z - info: Rebuilding affected source files
+2019-09-06T04:39:19.227Z - info: Rebuilding 3 pages
+2019-09-06T04:39:20.739Z - info: Pages rebuilt
+2019-09-06T04:39:20.758Z - info: Site data built
+2019-09-06T04:39:36.313Z - info: [12:39:36 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T04:39:37.315Z - info: Rebuilding affected source files
+2019-09-06T04:39:37.317Z - info: Rebuilding 3 pages
+2019-09-06T04:39:38.655Z - info: Pages rebuilt
+2019-09-06T04:39:38.666Z - info: Site data built
+2019-09-06T04:54:18.866Z - info: [12:54:18 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_markbind\headers\header.md
+2019-09-06T04:54:19.868Z - info: Rebuilding affected source files
+2019-09-06T04:54:19.886Z - info: Rebuilding 147 pages
+2019-09-06T04:54:57.685Z - info: Pages rebuilt
+2019-09-06T04:54:57.704Z - info: Site data built
+2019-09-06T04:58:15.543Z - info: [12:58:15 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T04:58:16.546Z - info: Rebuilding affected source files
+2019-09-06T04:58:16.547Z - info: Rebuilding 3 pages
+2019-09-06T04:58:18.036Z - info: Pages rebuilt
+2019-09-06T04:58:18.048Z - info: Site data built
+2019-09-06T04:59:27.267Z - info: [12:59:27 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T04:59:28.269Z - info: Rebuilding affected source files
+2019-09-06T04:59:28.270Z - info: Rebuilding 3 pages
+2019-09-06T04:59:29.705Z - info: Pages rebuilt
+2019-09-06T04:59:29.719Z - info: Site data built
+2019-09-06T05:00:15.310Z - info: [1:00:15 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:00:15.313Z - info: [1:00:15 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w04-mid-v10.md
+2019-09-06T05:00:16.312Z - info: Rebuilding affected source files
+2019-09-06T05:00:16.314Z - info: Rebuilding 5 pages
+2019-09-06T05:00:18.226Z - info: Pages rebuilt
+2019-09-06T05:00:18.237Z - info: Site data built
+2019-09-06T05:00:34.622Z - info: [1:00:34 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:00:35.625Z - info: Rebuilding affected source files
+2019-09-06T05:00:35.626Z - info: Rebuilding 3 pages
+2019-09-06T05:00:36.981Z - info: Pages rebuilt
+2019-09-06T05:00:36.995Z - info: Site data built
+2019-09-06T05:24:07.912Z - info: [1:24:07 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:24:08.914Z - info: Rebuilding affected source files
+2019-09-06T05:24:08.915Z - info: Rebuilding 3 pages
+2019-09-06T05:24:10.929Z - info: Pages rebuilt
+2019-09-06T05:24:10.945Z - info: Site data built
+2019-09-06T05:25:05.801Z - info: [1:25:05 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:25:06.803Z - info: Rebuilding affected source files
+2019-09-06T05:25:06.804Z - info: Rebuilding 3 pages
+2019-09-06T05:25:08.122Z - info: Pages rebuilt
+2019-09-06T05:25:08.150Z - info: Site data built
+2019-09-06T05:25:32.110Z - info: [1:25:32 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:25:33.115Z - info: Rebuilding affected source files
+2019-09-06T05:25:33.119Z - info: Rebuilding 3 pages
+2019-09-06T05:25:34.438Z - info: Pages rebuilt
+2019-09-06T05:25:34.459Z - info: Site data built
+2019-09-06T05:25:44.036Z - info: [1:25:44 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:25:45.036Z - info: Rebuilding affected source files
+2019-09-06T05:25:45.037Z - info: Rebuilding 3 pages
+2019-09-06T05:25:46.461Z - info: Pages rebuilt
+2019-09-06T05:25:46.472Z - info: Site data built
+2019-09-06T05:25:50.485Z - info: [1:25:50 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:25:51.487Z - info: Rebuilding affected source files
+2019-09-06T05:25:51.490Z - info: Rebuilding 3 pages
+2019-09-06T05:25:52.871Z - info: Pages rebuilt
+2019-09-06T05:25:52.881Z - info: Site data built
+2019-09-06T05:27:10.056Z - info: [1:27:10 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\appendixE-gitHub.md
+2019-09-06T05:27:11.057Z - info: Rebuilding affected source files
+2019-09-06T05:27:11.062Z - info: Rebuilding 12 pages
+2019-09-06T05:27:14.930Z - info: Pages rebuilt
+2019-09-06T05:27:14.940Z - info: Site data built
+2019-09-06T05:27:59.845Z - info: [1:27:59 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:28:00.847Z - info: Rebuilding affected source files
+2019-09-06T05:28:00.848Z - info: Rebuilding 3 pages
+2019-09-06T05:28:02.392Z - info: Pages rebuilt
+2019-09-06T05:28:02.405Z - info: Site data built
+2019-09-06T05:29:24.332Z - info: [1:29:24 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\appendixE-gitHub.md
+2019-09-06T05:29:25.334Z - info: Rebuilding affected source files
+2019-09-06T05:29:25.336Z - info: Rebuilding 11 pages
+2019-09-06T05:29:29.321Z - info: Pages rebuilt
+2019-09-06T05:29:29.330Z - info: Site data built
+2019-09-06T05:30:20.566Z - info: [1:30:20 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:30:21.566Z - info: Rebuilding affected source files
+2019-09-06T05:30:21.567Z - info: Rebuilding 3 pages
+2019-09-06T05:30:23.112Z - info: Pages rebuilt
+2019-09-06T05:30:23.126Z - info: Site data built
+2019-09-06T05:30:46.227Z - info: [1:30:46 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:30:47.230Z - info: Rebuilding affected source files
+2019-09-06T05:30:47.231Z - info: Rebuilding 3 pages
+2019-09-06T05:30:48.685Z - info: Pages rebuilt
+2019-09-06T05:30:48.698Z - info: Site data built
+2019-09-06T05:30:53.866Z - info: [1:30:53 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:30:54.867Z - info: Rebuilding affected source files
+2019-09-06T05:30:54.869Z - info: Rebuilding 3 pages
+2019-09-06T05:30:56.210Z - info: Pages rebuilt
+2019-09-06T05:30:56.219Z - info: Site data built
+2019-09-06T05:31:53.292Z - info: [1:31:53 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:31:54.295Z - info: Rebuilding affected source files
+2019-09-06T05:31:54.300Z - info: Rebuilding 3 pages
+2019-09-06T05:31:55.770Z - info: Pages rebuilt
+2019-09-06T05:31:55.780Z - info: Site data built
+2019-09-06T05:32:38.215Z - info: [1:32:38 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:32:39.216Z - info: Rebuilding affected source files
+2019-09-06T05:32:39.218Z - info: Rebuilding 3 pages
+2019-09-06T05:32:40.752Z - info: Pages rebuilt
+2019-09-06T05:32:40.761Z - info: Site data built
+2019-09-06T05:32:47.876Z - info: [1:32:47 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:32:48.877Z - info: Rebuilding affected source files
+2019-09-06T05:32:48.879Z - info: Rebuilding 3 pages
+2019-09-06T05:32:50.275Z - info: Pages rebuilt
+2019-09-06T05:32:50.287Z - info: Site data built
+2019-09-06T05:33:35.407Z - info: [1:33:35 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:33:36.408Z - info: Rebuilding affected source files
+2019-09-06T05:33:36.409Z - info: Rebuilding 3 pages
+2019-09-06T05:33:37.878Z - info: Pages rebuilt
+2019-09-06T05:33:37.903Z - info: Site data built
+2019-09-06T05:34:51.938Z - info: [1:34:51 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:34:52.940Z - info: Rebuilding affected source files
+2019-09-06T05:34:52.944Z - info: Rebuilding 3 pages
+2019-09-06T05:34:54.483Z - info: Pages rebuilt
+2019-09-06T05:34:54.494Z - info: Site data built
+2019-09-06T05:35:22.653Z - info: [1:35:22 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:35:23.655Z - info: Rebuilding affected source files
+2019-09-06T05:35:23.656Z - info: Rebuilding 3 pages
+2019-09-06T05:35:25.176Z - info: Pages rebuilt
+2019-09-06T05:35:25.186Z - info: Site data built
+2019-09-06T05:36:16.913Z - info: [1:36:16 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:36:17.914Z - info: Rebuilding affected source files
+2019-09-06T05:36:17.916Z - info: Rebuilding 3 pages
+2019-09-06T05:36:19.472Z - info: Pages rebuilt
+2019-09-06T05:36:19.484Z - info: Site data built
+2019-09-06T05:37:16.932Z - info: [1:37:16 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:37:17.934Z - info: Rebuilding affected source files
+2019-09-06T05:37:17.935Z - info: Rebuilding 3 pages
+2019-09-06T05:37:19.521Z - info: Pages rebuilt
+2019-09-06T05:37:19.531Z - info: Site data built
+2019-09-06T05:38:17.394Z - info: [1:38:17 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:38:18.395Z - info: Rebuilding affected source files
+2019-09-06T05:38:18.397Z - info: Rebuilding 3 pages
+2019-09-06T05:38:19.937Z - info: Pages rebuilt
+2019-09-06T05:38:19.948Z - info: Site data built
+2019-09-06T05:38:45.622Z - info: [1:38:45 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\appendixE-gitHub.md
+2019-09-06T05:38:46.624Z - info: Rebuilding affected source files
+2019-09-06T05:38:46.626Z - info: Rebuilding 11 pages
+2019-09-06T05:38:50.557Z - info: Pages rebuilt
+2019-09-06T05:38:50.567Z - info: Site data built
+2019-09-06T05:39:21.074Z - info: [1:39:21 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\appendixE-gitHub.md
+2019-09-06T05:39:22.075Z - info: Rebuilding affected source files
+2019-09-06T05:39:22.077Z - info: Rebuilding 11 pages
+2019-09-06T05:39:26.036Z - info: Pages rebuilt
+2019-09-06T05:39:26.049Z - info: Site data built
+2019-09-06T05:41:36.260Z - info: [1:41:36 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:41:37.262Z - info: Rebuilding affected source files
+2019-09-06T05:41:37.266Z - info: Rebuilding 3 pages
+2019-09-06T05:41:38.827Z - info: Pages rebuilt
+2019-09-06T05:41:38.842Z - info: Site data built
+2019-09-06T05:41:56.224Z - info: [1:41:56 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:41:57.227Z - info: Rebuilding affected source files
+2019-09-06T05:41:57.228Z - info: Rebuilding 3 pages
+2019-09-06T05:41:58.813Z - info: Pages rebuilt
+2019-09-06T05:41:58.822Z - info: Site data built
+2019-09-06T05:42:49.284Z - info: [1:42:49 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:42:50.285Z - info: Rebuilding affected source files
+2019-09-06T05:42:50.289Z - info: Rebuilding 3 pages
+2019-09-06T05:42:51.842Z - info: Pages rebuilt
+2019-09-06T05:42:51.851Z - info: Site data built
+2019-09-06T05:42:59.629Z - info: [1:42:59 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:43:00.630Z - info: Rebuilding affected source files
+2019-09-06T05:43:00.632Z - info: Rebuilding 3 pages
+2019-09-06T05:43:02.132Z - info: Pages rebuilt
+2019-09-06T05:43:02.148Z - info: Site data built
+2019-09-06T05:44:47.761Z - info: [1:44:47 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:44:48.763Z - info: Rebuilding affected source files
+2019-09-06T05:44:48.767Z - info: Rebuilding 3 pages
+2019-09-06T05:44:50.335Z - info: Pages rebuilt
+2019-09-06T05:44:50.348Z - info: Site data built
+2019-09-06T05:44:59.177Z - info: [1:44:59 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:45:00.178Z - info: Rebuilding affected source files
+2019-09-06T05:45:00.180Z - info: Rebuilding 3 pages
+2019-09-06T05:45:01.803Z - info: Pages rebuilt
+2019-09-06T05:45:01.814Z - info: Site data built
+2019-09-06T05:46:20.889Z - info: [1:46:20 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:46:21.891Z - info: Rebuilding affected source files
+2019-09-06T05:46:21.895Z - info: Rebuilding 3 pages
+2019-09-06T05:46:23.507Z - info: Pages rebuilt
+2019-09-06T05:46:23.519Z - info: Site data built
+2019-09-06T05:49:29.459Z - info: [1:49:29 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:49:30.463Z - info: Rebuilding affected source files
+2019-09-06T05:49:30.467Z - info: Rebuilding 3 pages
+2019-09-06T05:49:32.021Z - info: Pages rebuilt
+2019-09-06T05:49:32.032Z - info: Site data built
+2019-09-06T05:50:10.030Z - info: [1:50:10 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:50:11.031Z - info: Rebuilding affected source files
+2019-09-06T05:50:11.034Z - info: Rebuilding 3 pages
+2019-09-06T05:50:12.582Z - info: Pages rebuilt
+2019-09-06T05:50:12.594Z - info: Site data built
+2019-09-06T05:50:37.982Z - info: [1:50:37 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:50:38.984Z - info: Rebuilding affected source files
+2019-09-06T05:50:38.985Z - info: Rebuilding 3 pages
+2019-09-06T05:50:40.604Z - info: Pages rebuilt
+2019-09-06T05:50:40.621Z - info: Site data built
+2019-09-06T05:50:43.276Z - info: [1:50:43 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:50:44.278Z - info: Rebuilding affected source files
+2019-09-06T05:50:44.279Z - info: Rebuilding 3 pages
+2019-09-06T05:50:45.705Z - info: Pages rebuilt
+2019-09-06T05:50:45.736Z - info: Site data built
+2019-09-06T05:52:32.265Z - info: [1:52:32 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:52:33.267Z - info: Rebuilding affected source files
+2019-09-06T05:52:33.269Z - info: Rebuilding 3 pages
+2019-09-06T05:52:35.020Z - info: Pages rebuilt
+2019-09-06T05:52:35.041Z - info: Site data built
+2019-09-06T05:52:43.439Z - info: [1:52:43 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:52:44.438Z - info: Rebuilding affected source files
+2019-09-06T05:52:44.439Z - info: Rebuilding 3 pages
+2019-09-06T05:52:46.119Z - info: Pages rebuilt
+2019-09-06T05:52:46.130Z - info: Site data built
+2019-09-06T05:53:40.241Z - info: [1:53:40 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:53:41.243Z - info: Rebuilding affected source files
+2019-09-06T05:53:41.248Z - info: Rebuilding 3 pages
+2019-09-06T05:53:42.974Z - info: Pages rebuilt
+2019-09-06T05:53:42.987Z - info: Site data built
+2019-09-06T05:55:56.212Z - info: [1:55:56 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:55:56.217Z - info: [1:55:56 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w06-mid-v11.md
+2019-09-06T05:55:57.214Z - info: Rebuilding affected source files
+2019-09-06T05:55:57.216Z - info: Rebuilding 7 pages
+2019-09-06T05:55:59.607Z - info: Pages rebuilt
+2019-09-06T05:55:59.625Z - info: Site data built
+2019-09-06T05:56:02.248Z - info: [1:56:02 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:56:03.249Z - info: Rebuilding affected source files
+2019-09-06T05:56:03.250Z - info: Rebuilding 3 pages
+2019-09-06T05:56:04.700Z - info: Pages rebuilt
+2019-09-06T05:56:04.710Z - info: Site data built
+2019-09-06T05:58:34.158Z - info: [1:58:34 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:58:35.160Z - info: Rebuilding affected source files
+2019-09-06T05:58:35.161Z - info: Rebuilding 3 pages
+2019-09-06T05:58:36.736Z - info: Pages rebuilt
+2019-09-06T05:58:36.749Z - info: Site data built
+2019-09-06T05:59:06.108Z - info: [1:59:06 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:59:07.110Z - info: Rebuilding affected source files
+2019-09-06T05:59:07.111Z - info: Rebuilding 3 pages
+2019-09-06T05:59:08.701Z - info: Pages rebuilt
+2019-09-06T05:59:08.714Z - info: Site data built
+2019-09-06T05:59:49.255Z - info: [1:59:49 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T05:59:50.256Z - info: Rebuilding affected source files
+2019-09-06T05:59:50.258Z - info: Rebuilding 3 pages
+2019-09-06T05:59:51.898Z - info: Pages rebuilt
+2019-09-06T05:59:51.910Z - info: Site data built
+2019-09-06T06:00:55.382Z - info: [2:00:55 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:00:56.383Z - info: Rebuilding affected source files
+2019-09-06T06:00:56.385Z - info: Rebuilding 3 pages
+2019-09-06T06:00:58.018Z - info: Pages rebuilt
+2019-09-06T06:00:58.029Z - info: Site data built
+2019-09-06T06:01:18.746Z - info: [2:01:18 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:01:19.748Z - info: Rebuilding affected source files
+2019-09-06T06:01:19.750Z - info: Rebuilding 3 pages
+2019-09-06T06:01:21.268Z - info: Pages rebuilt
+2019-09-06T06:01:21.279Z - info: Site data built
+2019-09-06T06:03:15.091Z - info: [2:03:15 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:03:16.092Z - info: Rebuilding affected source files
+2019-09-06T06:03:16.096Z - info: Rebuilding 3 pages
+2019-09-06T06:03:17.982Z - info: Pages rebuilt
+2019-09-06T06:03:17.994Z - info: Site data built
+2019-09-06T06:03:39.365Z - info: [2:03:39 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:03:40.366Z - info: Rebuilding affected source files
+2019-09-06T06:03:40.368Z - info: Rebuilding 3 pages
+2019-09-06T06:03:42.150Z - info: Pages rebuilt
+2019-09-06T06:03:42.165Z - info: Site data built
+2019-09-06T06:05:25.061Z - info: [2:05:25 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:05:26.061Z - info: Rebuilding affected source files
+2019-09-06T06:05:26.062Z - info: Rebuilding 3 pages
+2019-09-06T06:05:27.946Z - info: Pages rebuilt
+2019-09-06T06:05:27.958Z - info: Site data built
+2019-09-06T06:06:08.960Z - info: [2:06:08 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:06:09.962Z - info: Rebuilding affected source files
+2019-09-06T06:06:09.966Z - info: Rebuilding 3 pages
+2019-09-06T06:06:11.825Z - info: Pages rebuilt
+2019-09-06T06:06:11.834Z - info: Site data built
+2019-09-06T06:06:32.981Z - info: [2:06:32 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:06:33.982Z - info: Rebuilding affected source files
+2019-09-06T06:06:33.984Z - info: Rebuilding 3 pages
+2019-09-06T06:06:35.822Z - info: Pages rebuilt
+2019-09-06T06:06:35.833Z - info: Site data built
+2019-09-06T06:07:10.099Z - info: [2:07:10 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:07:11.106Z - info: Rebuilding affected source files
+2019-09-06T06:07:11.111Z - info: Rebuilding 3 pages
+2019-09-06T06:07:12.948Z - info: Pages rebuilt
+2019-09-06T06:07:12.963Z - info: Site data built
+2019-09-06T06:07:48.327Z - info: [2:07:48 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:07:49.329Z - info: Rebuilding affected source files
+2019-09-06T06:07:49.331Z - info: Rebuilding 3 pages
+2019-09-06T06:07:51.165Z - info: Pages rebuilt
+2019-09-06T06:07:51.176Z - info: Site data built
+2019-09-06T06:09:03.305Z - info: [2:09:03 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:09:04.307Z - info: Rebuilding affected source files
+2019-09-06T06:09:04.313Z - info: Rebuilding 3 pages
+2019-09-06T06:09:06.091Z - info: Pages rebuilt
+2019-09-06T06:09:06.105Z - info: Site data built
+2019-09-06T06:10:48.524Z - info: [2:10:48 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:10:49.526Z - info: Rebuilding affected source files
+2019-09-06T06:10:49.527Z - info: Rebuilding 3 pages
+2019-09-06T06:10:51.299Z - info: Pages rebuilt
+2019-09-06T06:10:51.311Z - info: Site data built
+2019-09-06T06:11:53.613Z - info: [2:11:53 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:11:54.614Z - info: Rebuilding affected source files
+2019-09-06T06:11:54.615Z - info: Rebuilding 3 pages
+2019-09-06T06:11:56.426Z - info: Pages rebuilt
+2019-09-06T06:11:56.436Z - info: Site data built
+2019-09-06T06:12:07.464Z - info: [2:12:07 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:12:08.467Z - info: Rebuilding affected source files
+2019-09-06T06:12:08.468Z - info: Rebuilding 3 pages
+2019-09-06T06:12:10.202Z - info: Pages rebuilt
+2019-09-06T06:12:10.213Z - info: Site data built
+2019-09-06T06:12:13.655Z - info: [2:12:13 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:12:14.657Z - info: Rebuilding affected source files
+2019-09-06T06:12:14.657Z - info: Rebuilding 3 pages
+2019-09-06T06:12:16.120Z - info: Pages rebuilt
+2019-09-06T06:12:16.127Z - info: Site data built
+2019-09-06T06:13:24.104Z - info: [2:13:24 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:13:25.105Z - info: Rebuilding affected source files
+2019-09-06T06:13:25.107Z - info: Rebuilding 3 pages
+2019-09-06T06:13:26.904Z - info: Pages rebuilt
+2019-09-06T06:13:26.916Z - info: Site data built
+2019-09-06T06:29:18.988Z - info: [2:29:18 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:29:19.992Z - info: Rebuilding affected source files
+2019-09-06T06:29:19.997Z - info: Rebuilding 3 pages
+2019-09-06T06:29:21.932Z - info: Pages rebuilt
+2019-09-06T06:29:21.942Z - info: Site data built
+2019-09-06T06:29:31.821Z - info: [2:29:31 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w05-v10.md
+2019-09-06T06:29:32.822Z - info: Rebuilding affected source files
+2019-09-06T06:29:32.824Z - info: Rebuilding 3 pages
+2019-09-06T06:29:34.556Z - info: Pages rebuilt
+2019-09-06T06:29:34.566Z - info: Site data built
+2019-09-06T06:34:53.360Z - info: [2:34:53 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+2019-09-06T06:34:54.363Z - info: Rebuilding affected source files
+2019-09-06T06:34:54.364Z - info: Rebuilding 1 pages
+2019-09-06T06:34:54.372Z - error:  Error: No such file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\appendixE-gitHub.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at dom.map (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+2019-09-06T06:34:54.373Z - error:  Error: No such file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\appendixE-gitHub.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at dom.map (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+2019-09-06T06:34:54.374Z - error:  Error: No such file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\appendixE-gitHub.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at dom.map (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+2019-09-06T06:34:54.375Z - error:  Error: No such file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\appendixE-gitHub.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at dom.map (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+2019-09-06T06:34:54.477Z - info: Pages rebuilt
+2019-09-06T06:34:54.485Z - info: Site data built
+2019-09-06T06:35:12.610Z - info: [2:35:12 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+2019-09-06T06:35:13.611Z - info: Rebuilding affected source files
+2019-09-06T06:35:13.612Z - info: Rebuilding 1 pages
+2019-09-06T06:35:13.688Z - info: Pages rebuilt
+2019-09-06T06:35:13.694Z - info: Site data built
+2019-09-06T06:35:32.517Z - info: [2:35:32 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+2019-09-06T06:35:33.518Z - info: Rebuilding affected source files
+2019-09-06T06:35:33.520Z - info: Rebuilding 1 pages
+2019-09-06T06:35:33.588Z - info: Pages rebuilt
+2019-09-06T06:35:33.595Z - info: Site data built
+2019-09-06T06:36:18.359Z - info: [2:36:18 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+2019-09-06T06:36:19.359Z - info: Rebuilding affected source files
+2019-09-06T06:36:19.360Z - info: Rebuilding 1 pages
+2019-09-06T06:36:19.419Z - info: Pages rebuilt
+2019-09-06T06:36:19.425Z - info: Site data built
+2019-09-06T06:36:25.874Z - info: [2:36:25 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+2019-09-06T06:36:26.876Z - info: Rebuilding affected source files
+2019-09-06T06:36:26.877Z - info: Rebuilding 1 pages
+2019-09-06T06:36:26.930Z - info: Pages rebuilt
+2019-09-06T06:36:26.936Z - info: Site data built
+2019-09-06T06:38:26.806Z - info: [2:38:26 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+2019-09-06T06:38:27.807Z - info: Rebuilding affected source files
+2019-09-06T06:38:27.808Z - info: Rebuilding 1 pages
+2019-09-06T06:38:27.904Z - info: Pages rebuilt
+2019-09-06T06:38:27.911Z - info: Site data built
+2019-09-06T06:38:32.287Z - info: [2:38:32 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+2019-09-06T06:38:33.287Z - info: Rebuilding affected source files
+2019-09-06T06:38:33.288Z - info: Rebuilding 1 pages
+2019-09-06T06:38:33.362Z - info: Pages rebuilt
+2019-09-06T06:38:33.369Z - info: Site data built
+2019-09-06T06:39:42.855Z - info: [2:39:42 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+2019-09-06T06:39:43.856Z - info: Rebuilding affected source files
+2019-09-06T06:39:43.858Z - info: Rebuilding 1 pages
+2019-09-06T06:39:43.923Z - info: Pages rebuilt
+2019-09-06T06:39:43.929Z - info: Site data built
+2019-09-06T06:40:06.626Z - info: [2:40:06 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+2019-09-06T06:40:07.626Z - info: Rebuilding affected source files
+2019-09-06T06:40:07.629Z - info: Rebuilding 1 pages
+2019-09-06T06:40:07.694Z - info: Pages rebuilt
+2019-09-06T06:40:07.701Z - info: Site data built
+2019-09-06T06:40:23.978Z - info: [2:40:23 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+2019-09-06T06:40:24.979Z - info: Rebuilding affected source files
+2019-09-06T06:40:24.983Z - info: Rebuilding 1 pages
+2019-09-06T06:40:25.045Z - info: Pages rebuilt
+2019-09-06T06:40:25.052Z - info: Site data built
+2019-09-06T06:40:34.556Z - info: [2:40:34 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+2019-09-06T06:40:35.559Z - info: Rebuilding affected source files
+2019-09-06T06:40:35.561Z - info: Rebuilding 1 pages
+2019-09-06T06:40:35.636Z - info: Pages rebuilt
+2019-09-06T06:40:35.643Z - info: Site data built
+2019-09-06T06:41:09.371Z - info: [2:41:09 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+2019-09-06T06:41:10.373Z - info: Rebuilding affected source files
+2019-09-06T06:41:10.376Z - info: Rebuilding 1 pages
+2019-09-06T06:41:10.500Z - info: Pages rebuilt
+2019-09-06T06:41:10.507Z - info: Site data built
+2019-09-06T06:41:42.773Z - info: [2:41:42 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\tutorial-cs2113.md
+2019-09-06T06:41:43.775Z - info: Rebuilding affected source files
+2019-09-06T06:41:43.777Z - info: Rebuilding 1 pages
+2019-09-06T06:41:43.853Z - info: Pages rebuilt
+2019-09-06T06:41:43.859Z - info: Site data built
+2019-09-06T06:42:30.337Z - info: [2:42:30 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\notices-cs2113.md
+2019-09-06T06:42:31.338Z - info: Rebuilding affected source files
+2019-09-06T06:42:31.341Z - info: Rebuilding 3 pages
+2019-09-06T06:42:31.549Z - info: Pages rebuilt
+2019-09-06T06:42:31.558Z - info: Site data built
+2019-09-06T06:42:50.890Z - info: [2:42:50 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\notices-cs2113.md
+2019-09-06T06:42:51.891Z - info: Rebuilding affected source files
+2019-09-06T06:42:51.893Z - info: Rebuilding 3 pages
+2019-09-06T06:42:52.126Z - info: Pages rebuilt
+2019-09-06T06:42:52.137Z - info: Site data built
+2019-09-06T06:42:56.769Z - info: [2:42:56 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\notices-cs2113.md
+2019-09-06T06:42:57.770Z - info: Rebuilding affected source files
+2019-09-06T06:42:57.771Z - info: Rebuilding 3 pages
+2019-09-06T06:42:57.961Z - info: Pages rebuilt
+2019-09-06T06:42:57.972Z - info: Site data built
+2019-09-06T06:43:00.128Z - info: [2:43:00 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\notices-cs2113.md
+2019-09-06T06:43:01.131Z - info: Rebuilding affected source files
+2019-09-06T06:43:01.132Z - info: Rebuilding 3 pages
+2019-09-06T06:43:01.262Z - info: Pages rebuilt
+2019-09-06T06:43:01.269Z - info: Site data built
+2019-09-06T06:43:03.673Z - info: [2:43:03 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\notices-cs2113.md
+2019-09-06T06:43:04.677Z - info: Rebuilding affected source files
+2019-09-06T06:43:04.680Z - info: Rebuilding 3 pages
+2019-09-06T06:43:04.818Z - info: Pages rebuilt
+2019-09-06T06:43:04.825Z - info: Site data built
+2019-09-06T06:43:11.867Z - info: [2:43:11 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\notices-cs2113.md
+2019-09-06T06:43:12.868Z - info: Rebuilding affected source files
+2019-09-06T06:43:12.871Z - info: Rebuilding 3 pages
+2019-09-06T06:43:13.010Z - info: Pages rebuilt
+2019-09-06T06:43:13.018Z - info: Site data built
+2019-09-06T06:43:18.091Z - info: [2:43:18 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5\notices-cs2113.md
+2019-09-06T06:43:19.093Z - info: Rebuilding affected source files
+2019-09-06T06:43:19.094Z - info: Rebuilding 3 pages
+2019-09-06T06:43:19.224Z - info: Pages rebuilt
+2019-09-06T06:43:19.232Z - info: Site data built
+2019-09-06T06:43:52.723Z - info: Website generation started at 2:43:51 PM
+2019-09-06T06:43:53.670Z - info: Building assets...
