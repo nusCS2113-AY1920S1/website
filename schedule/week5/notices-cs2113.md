@@ -9,4 +9,4 @@
 -->
 
 * You will start moving towards the team project this week.
-* Please pay attention to the instructions regarding the team tasks.
+* Please pay attention to the instructions regarding the team tasks and its pre-requisites.
