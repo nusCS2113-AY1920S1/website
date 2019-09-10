@@ -803,3 +803,10 @@ Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\schedule\week5
 2019-09-06T06:43:19.232Z - info: Site data built
 2019-09-06T06:43:52.723Z - info: Website generation started at 2:43:51 PM
 2019-09-06T06:43:53.670Z - info: Building assets...
+2019-09-06T06:43:54.602Z - info: Assets built
+2019-09-06T06:43:54.602Z - info: Generating pages...
+2019-09-06T06:44:57.755Z - info: Pages built
+2019-09-06T06:45:09.766Z - info: Website generation complete! Total build time: 77.98s
+2019-09-06T06:45:09.766Z - info: Build success!
+2019-09-06T06:45:09.774Z - info: Site data built
+2019-09-06T06:45:41.423Z - info: Deployed!
