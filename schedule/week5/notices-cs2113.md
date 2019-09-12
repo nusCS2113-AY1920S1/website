@@ -8,5 +8,10 @@
 
 -->
 
+* **Heads up!** you have both code and documentation aspects to be completed this week.
+  * Refer to the project tab for details.
+  
+<br>
+
 * You will start moving towards the team project this week.
 * Please pay attention to the instructions regarding the team tasks and its pre-requisites.
