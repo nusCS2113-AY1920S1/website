@@ -77,6 +77,7 @@
 <span id="icon_video"><md>:glyphicon-facetime-video:</md></span>
 <span id="icon_windows"><md>:fab-windows:</md></span>
 <span id="icon_x"><md>:fas-times:</md></span>
+<span id="icon_document"><md>:fas-book:</md></span>
 <span id="icon_x_red"><span style="color:red">{{ icon_x | safe }}</span></span>
 <span id="bad"><font color="red"><md>**{{ icon_dislike | safe }} Bad**</md></font></span>
 <span id="good"><font color="green"><md>**{{ icon_like | safe }} Good**</md></font></span>
