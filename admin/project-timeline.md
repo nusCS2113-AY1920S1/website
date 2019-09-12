@@ -14,7 +14,7 @@ Week  | Stage     | Activities
 **2** |warmup    | <span id="warmup-overview">Set up prerequisites. Get started on Duke</span>
 **3** |inception| <span id="inception-overview">Continue Phase 1. Decide on a overall project direction %%(user profile, problem addressed, societal impact, optimize or morph?).%%</span>
 **4** |mid-v1.0 | <span id="mid-v10-overview">Move towards completing individual contributions to Phase 1 of the project.</span>
-**5** |v1.0     | <span id="v10-overview">Setup team repo. Achieve some team tasks in Phase 1. Decide on requirements of Phase 2 %%(user stories, use cases, non-functional requirements).%%</span>
+**5** |v1.0     | <span id="v10-overview">Achieve some team tasks in Phase 1. Decide on a overall project direction. Document the requirements of Phase 2.</span>
 **6** |mid-v1.1 | <span id="mid-v11-overview">Conceptualize product and document it as a user guide(draft), draft a rough project plan.</span>
 **7** |v1.1     | <span id="v11-overview">Start moving documents and continue to code in the team repo. Do local-impact changes to the code base. Submit UG for review.</span>
 **8** |mid-v1.2 | <span id="mid-v12-overview">Attempt to do global-impact changes to the code base. Adjust project schedule/rigor as needed, start proper milestone management.</span>
