@@ -47,12 +47,14 @@ After receiving your team ID, one team member should do the following steps:
 
 Only one team member:
 
-1. **Fork**  [nus{{ module | lower }}-{{ semester }}/duke-team]({{module_org}}/duke-team) to your team org.
+1. **Fork**  [nus{{ module | lower }}-{{ semester }}/PersonalAssistant-Duke]({{module_org}}/PersonalAssistant-Duke) to your team org.
 1. ==**Rename** the forked repo as `main`==. This repo (let's call it the _team repo_) is to be used as the repo for your project.
 1. ==Ensure the issue tracker of your team repo is enabled.== %%Reason: our bots will be posting your weekly progress reports on the issue tracker of your team repo.%%
 1. Ensure your team members have the desired level of access to your team repo.
+1. **create a _team PR_** for us to track your project progress: i.e., create a PR from your ==team repo `master` branch== to [[nus{{ module | lower }}-{{ semester }}/PersonalAssistant-Duke]({{module_org}}/PersonalAssistant-Duke)] `master` branch. PR name: `[Team ID] Product Name` e.g., `[{{ semester }}-{{ module }}-T13-1] Contact List Pro`. %%&nbsp;As you merge code to your team repo's `master` branch, this PR will auto-update to reflect how much your team's product has progressed.%% In the PR description <tooltip content="use @githubUserName">@mention</tooltip> the other team members so that they get notified when the tutor adds comments to the PR.
+<!-- 
 1. [**Enable Travis CI for the team repo**](https://github.com/nus{{ module }}-{{ semester }}/addressbook-level3/blob/master/docs/UsingTravis.adoc#setting-up-travis-ci).
-1. **create a _team PR_** for us to track your project progress: i.e., create a PR from your ==team repo `master` branch== to [[nus{{ module | lower }}-{{ semester }}/duke-team]({{module_org}}/duke-team)] `master` branch. PR name: `[Team ID] Product Name` e.g., `[CS2113T-T09-2] Contact List Pro`. %%&nbsp;As you merge code to your team repo's `master` branch, this PR will auto-update to reflect how much your team's product has progressed.%% In the PR description <tooltip content="use @githubUserName">@mention</tooltip> the other team members so that they get notified when the tutor adds comments to the PR.
+-->
 
 All team members:
 
@@ -61,7 +63,7 @@ All team members:
 1. **Clone** the fork to your Computer.
 1. _Recommended_: Set it up as an Intellij project.
 
-Note that some of our download scripts depend on the following folder paths. Please do not alter those paths in your project. 
+Note that some of our download scripts depend on the following folder paths. Please set up the these paths in your project carefully. 
 * `/src/main`  
 * `/src/test`  
 * `/docs`
