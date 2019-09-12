@@ -10,6 +10,19 @@
 
 <!--
 
+- As a team implement the following increments
+- Create a branch from the base code of your team project
+  - It suffices if you implement one per team member
+  - Ensure you write _some_ unit tests for these increments using JUnit
+  
+<box>
+<include src="dukeFragment.md" boilerplate var-header="**`B-Reminders`: Reminders**" var-fragment="extensions.mbdf#B-Reminders" />
+<include src="dukeFragment.md" boilerplate var-header="**`B-FindFreeTimes`: Free time slots**" var-fragment="extensions.mbdf#B-FindFreeTimes" />
+<include src="dukeFragment.md" boilerplate var-header="**`B-ViewSchedules`: View schedules**" var-fragment="extensions.mbdf#B-ViewSchedules" />
+<include src="dukeFragment.md" boilerplate var-header="**`B-DetectAnomalies`: Reminders**" var-fragment="extensions.mbdf#B-DetectAnomalies" />
+<include src="dukeFragment.md" boilerplate var-header="**`B-Snooze`: Snooze**" var-fragment="extensions.mbdf#B-Snooze" />
+</box>
+
 <div id="product">
 
 **<big>Project Management:</big>**
