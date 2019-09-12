@@ -24,6 +24,7 @@
     <li><a href="{{module_org}}/samplerepo-things" target="_blank" class="dropdown-item">{{ icon_repo }} samplerepo-things</a></li>
     <li><a href="{{baseUrl}}/admin/projectList.html" class="dropdown-item"><md>:fas-th-list:</md> Projects List</a></li>
     <li><a href="{{baseUrl}}/admin/reposenseConfigTemplates.html" class="dropdown-item"><md>:fas-th-list:</md> config.json templates for Reposense</a></li>
+    <li><a href="https://github.com/nus{{ module | lower }}-{{ semester }}/PersonalAssistant-Duke" target="_blank" class="dropdown-item">{{ icon_repo }} PersonalAssistant-Duke </a></li>
     <li><a href="https://nus{{ module | lower }}-{{ semester | lower }}.github.io/dashboard-beta" target="_blank" class="dropdown-item"><md>:fas-chart-area:</md> Project Phase2 Dashboard </a></li>
     <li><a href="https://repl.it/classroom/invite/cuFCDgh" target="_blank" class="dropdown-item"><md>:glyphicon-blackboard:</md> Repl.it classroom</a></li>
   </dropdown>
