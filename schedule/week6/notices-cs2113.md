@@ -22,6 +22,21 @@
 * Tutorials this week will be most effective if you work out the tutorial questions beforehand. You can discuss your answers with your team and your tutor during the tutorial.
 * Some of the tutorial activities may be pushed to the following week.
 
+
+## Using third party libraries
+
+You are allowed to use third-party libraries subject to the constraints below:
+
+- It should be an open-source project, **STRICTLY NO FREEWARE** binaries!
+  - %%There may be some exceptions, decided on a case-to-case basis.%%
+  - Which means you cannot use random code _from your friend_ in the project.
+- Either you or the users should not be required to pay for using the library.
+- The library should be released under a permissive license (MIT/Apache 2.0 are most preferred).
+- You need to seek permission by listing the library here before you can use it.
+- Once the library is approved for one team, it is approved for the entire class.  No need to ask permission again!
+- You need to acknowledge the use of such libraries explicitly in your project documentation that is publicly visible.
+  - E.g., In the landing page of your project (or `README.md` file on GitHub), developer guide, etc. 
+
 <!--
 
 ## Graded coding exercise
