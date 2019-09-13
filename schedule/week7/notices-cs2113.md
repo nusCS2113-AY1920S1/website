@@ -1,9 +1,11 @@
 {% from "schedule/index.md" import show_week_pagetop with context%}
 {{ show_week_pagetop(7, "notices") }}
 
+<!--
 ## Coding exercise
 
 - Complete the coding exercise for 3kLoC enhancement  before the tutorial this week (refer to [Week 6]({{ module_website }}/schedule/week6/index.html) Project tab) for details.
+-->
 
 ## The Project List Page
 
@@ -17,11 +19,11 @@
 
 ## Mid-semester feedback session
 
-* **Peer Evaluation Round 1** will open on TEAMMATES. You will receive the submission link soon. **If you do not submit feedback responses, you will forfeit participation marks that you earned based on feedback ratings received from others**.
+* **Peer Evaluation Round 1** will be open on TEAMMATES. You should have received the submission link. **If you do not submit feedback responses, you will forfeit participation marks that you earned based on feedback ratings received from others**.
   * The expectations are two fold. First, we hope you will give a honest and constructive feedback to your teammates to help them improve. 
   Second, we hope that you will use the feedback you received to be an effective team player.
 
 <br>
 
-* **An anonymous survey to submit feedback about the teaching team** will be open on LumiNUS. Please take a few minutes to give feedback to your tutors and the lecturer.
+* **An anonymous survey to submit feedback about the teaching team** is open on LumiNUS. Please take a few minutes to give feedback to your tutors and the lecturer.
   * We will use your feedback to adapt some teaching strategies so that you will be benefited.
