@@ -16,10 +16,10 @@ Week  | Stage     | Activities
 **4** |mid-v1.0 | <span id="mid-v10-overview">Move towards completing individual contributions to Phase 1 of the project.</span>
 **5** |v1.0     | <span id="v10-overview">Achieve some team tasks in Phase 1. Decide on a overall project direction. Document the requirements of Phase 2.</span>
 **6** |mid-v1.1 | <span id="mid-v11-overview">Conceptualize product and document it as a user guide(draft), draft a rough project plan. Complete Phase 1.</span>
-**7** |v1.1     | <span id="v11-overview">Start moving documents and continue to code in the team repo. Do local-impact changes to the code base. Submit UG for review.</span>
+**7** |v1.1     | <span id="v11-overview">Continue to code in the team repo. Do local-impact changes to the code base. Submit UG for review.</span>
 **8** |mid-v1.2 | <span id="mid-v12-overview">Attempt to do global-impact changes to the code base. Adjust project schedule/rigor as needed, start proper milestone management.</span>
 **9** |v1.2     | <span id="v12-overview">Update UG if necessary. Move code towards v2.0 in small steps, start documenting design/implementation details in DG.</span>
-**10**|mid-v1.3 | <span id="mid-v13-overview">Complete a draft of the DG and seek feedback from your tutor. Continue to enhance features. Make code RepoSense-compatible. Try doing a proper release.</span>
+**10**|mid-v1.3 | <span id="mid-v13-overview">Submit a draft of the DG for review. Continue to enhance features. Make code RepoSense-compatible. Try doing a proper release of your product.</span>
 **11**|v1.3     | <span id="v13-overview">Release as a jar file, release updated user guide, peer-test released products, verify code authorship. Seek code quality comments from your tutor</span>
 **12**|mid-v1.4 | <span id="mid-v14-overview">Tweak as per peer-testing results, draft Project Portfolio Page, practice product demo.</span>
 **13**|v1.4     | <span id="v14-overview">Final tweaks to docs/product, release product, demo product, evaluate peer projects.</span>
