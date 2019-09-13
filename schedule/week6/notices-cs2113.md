@@ -17,12 +17,6 @@
 
 * Do **inform your tutor (or write to the module email) if you are falling behind or cannot cope with the module requirements**. While we try to avoid _hand holding_ or _spoon feeding_ students, we do want to help you keep up with the module pace when necessary.
 
-## Tutorials
-
-* Tutorials this week will be most effective if you work out the tutorial questions beforehand. You can discuss your answers with your team and your tutor during the tutorial.
-* Some of the tutorial activities may be pushed to the following week.
-
-
 ## Using third party libraries
 
 You are allowed to use third-party libraries subject to the constraints below:
