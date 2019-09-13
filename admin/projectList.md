@@ -8,7 +8,7 @@ head: scheduleHead.md
 # CS2113/T Project List
 
 <box type=info>
-Will be populated after v1.2
+Will be populated after v1.1
 </box>
 
 <!--
