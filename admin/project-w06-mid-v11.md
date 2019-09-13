@@ -23,9 +23,9 @@
 * **User Guide**:  
   Start drafting a user guide in a convenient medium (e.g., a GoogleDoc) to describe what the product would be like when it is at v2.0. %%Which means, you can include commands that you may not implement in the project.%%
   * We recommend that you follow the [reference project's User Guide](https://github.com/nusCS2113-AY1920S1/addressbook-level3/blob/master/docs/UserGuide.adoc) in terms of structure and format.
-  * As this is a beginning draft, don't waste time in formatting, copy editing etc. It is fine as long as the tutor can get a rough idea of the features from this draft. You can also do just the 'Features' section and omit the other parts.
-  * Do try to come up with concrete command syntax for feature that you would implement (at least for those that you will implement by v1.4).
-  * Consider including some UI mock-ups too %%(they can be hand-drawn or created using a tool such as PowerPoint or [Balsamiq](https://balsamiq.com/))%%.
+  * As this is a beginning draft, don't waste time in formatting, copy editing, etc. It is fine as long as the tutor can get a rough idea of the features from this draft. You can also do just the 'Features' section and omit the other parts.
+  * However, do try to come up with concrete command syntax for feature that you would implement (at least for those that you will implement by v1.4).
+  * Include a mock-up of how your interface may look (e.g., either GUI or CLI landing screen). %%(GUI mock-up can be hand-drawn or created using a tool such as PowerPoint or [Balsamiq](https://balsamiq.com/))%%.
 
 * **Developer Guide**:  
   Update the developer guide (target user profile, user stories, use cases, and non-functional requirements) based on the feedback from your tutors.
@@ -39,7 +39,7 @@
  
 * Create the **_About Us_ page**:<br>
   Use [this page from the reference project](https://github.com/nusCS2113-AY1920S1/addressbook-level3/blob/master/docs/AboutUs.adoc) as a reference for the format.
-  This page is used for module admin purposes. ==Please follow the format closely== or else our scripts will not be able to give credit for your work.
+  We need this page for module admin purposes. ==Please follow the format closely== or else our scripts will not be able to give credit for your work.
   * You may copy the page and replace info of SE-EDU developers with info of your team, including a ==suitable photo== as described <trigger trigger="click" for="modal:mid-v12-photo">here</trigger>.  
   * Including the name/photo of the supervisor/lecturer is optional. 
   * The photo of a team member should be `doc/images/githbub_username_in_lower_case.png` %%e.g. `docs/images/johndoe.png`%%. ==If you photo is in jpg format, name the file as `.png` anyway==.
@@ -56,8 +56,8 @@
 
 * **README** page: Update it to match your project.
 
-  * Add a UI mockup of your intended final product.   
-    Note that the ==image of the UI should be `docs/images/Ui.png`== so that it can be downloaded by our scripts. Limit the file to contain one screenshot/mockup only and ensure the new image is roughly the same `height x width` proportions as the original one. %%Reason: when we compile these images from all teams into one page ([example](https://nuscs2113-ay1819s2.github.io/website/admin/projectList.html)), yours should not look out of place.%%
+  * Add a UI mock-up of your intended final product.   
+    Note that the ==image of the UI should be `docs/images/Ui.png`== so that it can be downloaded by our scripts. Limit the file to contain one screenshot/mock-up only and ensure the new image is roughly `1280px X 1024px` in size. %%Reason: when we compile these images from all teams into one page ([example](https://nuscs2113-ay1819s2.github.io/website/admin/projectList.html)), yours should not look out of place.%%
 
   * The original `README` file (which doubles as the landing page of your project website) is written to read like a setup instructions page. You should ==restructure this page to look like the home page of a real product== (not a school project) targeting real users. %%&nbsp;e.g. remove the section on feedback and reference to duke issue tracker%% 
 
@@ -144,10 +144,6 @@
 
 
 <!--
-
-
-
-
   * Update the link of the Travis _build status badge_ (<img src="https://travis-ci.org/se-edu/addressbook-level4.svg?branch=master" alt="Build Status">) so that it reflects the build status of your team repo.<br>
     For the other badges,
     * either set up the respective tool for your project (AB-4 Developer Guide has instructions on how to set up AppVeyor and Coveralls) and update the badges accordingly,
