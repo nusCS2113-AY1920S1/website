@@ -5,6 +5,10 @@
 
 * **One part of this week's lecture is not covered in the textbook** and is relevant for your project. You are encouraged to attend this week's lecture even if you don't normally come to lectures.
 
+## Tutorials
+
+* Tutorials this week will be most effective if you work out the tutorial questions beforehand. You can discuss your answers with your team and your tutor during the tutorial.
+* Some of the tutorial activities may be pushed to the following week.
 
 ## Project
 
