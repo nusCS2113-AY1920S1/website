@@ -43,8 +43,10 @@
           <li><a href="/website/schedule/week2/index.html" class="dropdown-item"> <span><strong>Week 2</strong> [Aug 19] </span></a></li>
           <li><a href="/website/schedule/week3/index.html" class="dropdown-item"> <span><strong>Week 3</strong> [Aug 26] </span></a></li>
           <li><a href="/website/schedule/week4/index.html" class="dropdown-item"> <span><strong>Week 4</strong> [Sep 2] </span></a></li>
-          <li><a href="/website/schedule/week5/index.html" class="dropdown-item"> <span><strong>Week 5</strong> [Sep 9] <span aria-hidden="true" class="fas fa-arrow-circle-left"></span></span></a></li>
-          <li><a href="/website/schedule/week6/index.html" class="dropdown-item"> <span><strong>Week 6</strong> [Sep 16] </span></a></li>
+          <li><a href="/website/schedule/week5/index.html" class="dropdown-item"> <span><strong>Week 5</strong> [Sep 9] </span></a></li>
+          <li><a href="/website/schedule/week6/index.html" class="dropdown-item"> <span><strong>Week 6</strong> [Sep 16] <span aria-hidden="true" class="fas fa-arrow-circle-left"></span></span></a></li>
+          <li><a href="/website/schedule/week7/index.html" class="dropdown-item"> <span><strong>Week 7</strong> [Sep 30] </span></a></li>
+          <li><a href="/website/schedule/week8/index.html" class="dropdown-item"> <span><strong>Week 8</strong> [Oct 7] </span></a></li>
         </dropdown>
         <li><a href="/website/se-book-adapted/index.html" class="nav-link"><span><strong>Textbook</strong></span></a></li>
         <li><a href="/website/admin/index.html" class="nav-link"><span><strong>Admin Info</strong></span></a></li>
@@ -66,6 +68,7 @@
           <li><a href="/website/admin/reposenseConfigTemplates.html" class="dropdown-item"><span><span aria-hidden="true" class="fas fa-th-list"></span></span> config.json templates for Reposense</a></li>
           <li><a href="https://github.com/nuscs2113-AY1920S1/PersonalAssistant-Duke" target="_blank" class="dropdown-item"><span><span aria-hidden="true" class="fas fa-code-branch"></span></span> PersonalAssistant-Duke </a></li>
           <li><a href="https://nuscs2113-ay1920s1.github.io/dashboard-beta" target="_blank" class="dropdown-item"><span><span aria-hidden="true" class="fas fa-chart-area"></span></span> Project Phase2 Dashboard </a></li>
+          <li><a href="https://github.com/nuscs2113-AY1920S1/addressbook-level3" target="_blank" class="dropdown-item"><span><span aria-hidden="true" class="fas fa-code-branch"></span></span> Reference project - Addressbook </a></li>
           <li><a href="https://repl.it/classroom/invite/cuFCDgh" target="_blank" class="dropdown-item"><span><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span></span> Repl.it classroom</a></li>
         </dropdown>
         <li slot="right" class="nav-link">
@@ -87,52 +90,132 @@
           <li class="nav-item"><a class="nav-link" href="/website/schedule/week9/admin.html"><span><span aria-hidden="true" class="fas fa-info-circle"></span></span> Admin Info</a></li>
         </ul>
         <p></p>
-        <p><strong>Questions to discuss during tutorial:</strong> Divide these five questions among team members. Be prepared to answer questions allocated to you.</p>
-        <p><strong>Q1</strong></p>
-        <ol>
-          <li>What is abstraction? How is it used in the project?</li>
-          <li>What is coupling?
+        <h2 id="questions-to-discuss-during-tutorial">Questions to discuss during tutorial:<a class="fa fa-anchor" href="#questions-to-discuss-during-tutorial"></a></h2>
+        <panel header="<md>:glyphicon-question-sign:</md> Question set 1">
+          <question>
             <ol>
-              <li><code>Foo</code> depends on <code>Bar</code> if …?</li>
-              <li>Give examples of different ways how a class <code>Foo</code> can be coupled to <code>Bar</code></li>
+              <li>What is <em>unit/integration/system/acceptance</em> testing?</li>
+              <li>How is each one done in AB4?</li>
+              <li>What’s the difference between <em>unit testing</em> and <em>integration testing</em>?</li>
+              <li>What’s the difference between <em>system testing</em> and <em>acceptance testing</em>?</li>
             </ol>
-          </li>
-          <li>What is cohesion?</li>
-          <li>How does cohesion relates to coupling?</li>
-        </ol>
-        <p><strong>Q2</strong></p>
-        <ol>
-          <li>What is the Principle of SoC?</li>
-          <li>How does SoC relate to coupling and cohesion?</li>
-          <li>What is SRP?</li>
-          <li>How does SRP relate to SoC?</li>
-        </ol>
-        <p><strong>Q3</strong></p>
-        <ol>
-          <li>What is OCP?</li>
-          <li>Explain several different ways of achieving OCP</li>
-          <li>Does the project follow OCP? E.g. Can we add a new command or a new storage type without modifying existing code too much?</li>
-        </ol>
-        <p><strong>Q4</strong></p>
-        <ol>
-          <li>What is <em>unit/integration/system/acceptance</em> testing?</li>
-          <li>How is each one done in AB4?</li>
-          <li>What’s the difference between <em>unit testing</em> and <em>integration testing</em>?</li>
-          <li>What’s the difference between <em>system testing</em> and <em>acceptance testing</em>?</li>
-        </ol>
-        <p><strong>Q5</strong></p>
-        <ol>
-          <li>Explain what Gradle is. How is it used in AB4?</li>
-          <li>Explain what Travis is. How is it used in AB4?</li>
-          <li>Which integration approach is used by the project?</li>
-          <li>What’s the difference between <em>buffers</em> and <em>padding/inflating</em> estimates?</li>
-        </ol>
+          </question>
+        </panel>
+        <panel header="<md>:glyphicon-question-sign:</md> Question set 2">
+          <question>
+            <ol>
+              <li>Explain what Gradle is. How is it used in your project?</li>
+              <li>Explain what Travis is. How is it used in your project?</li>
+              <li>Which integration approach is used by the project?</li>
+              <li>What’s the difference between <em>buffers</em> and <em>padding/inflating</em> estimates?</li>
+            </ol>
+          </question>
+        </panel>
+        <h2 id="suggested-tutorial-activity">Suggested tutorial activity<a class="fa fa-anchor" href="#suggested-tutorial-activity"></a></h2>
+        <div>
+          <panel header="<md>:glyphicon-question-sign:</md> Explain Class Diagram">
+            <question>
+              <p>Explain the associations, navigabilities, and multiplicities in the class diagram below:</p>
+              <img src="/website/book/modeling/modelingStructures/classDiagramsBasic/images/typicalClasssStructure.png" width="400">
+              <p></p>
+            </question>
+          </panel>
+        </div>
+        <div>
+          <panel header="<md>:glyphicon-question-sign:</md> Object Diagrams for Class Diagram">
+            <question>
+              <p>Suppose we wrote a program to follow the class structure given in this class diagram:</p>
+              <img src="/website/book/modeling/modelingStructures/classDiagramsBasic/images/typicalClasssStructure.png" width="400">
+              <p></p>
+              <p>Draw object diagrams to represent the object structures after each of these steps below. Assume that we are trying to minimize the number of total objects.</p>
+              <p>i.e. apply step 1 → [diagram 1] → apply step 2 on diagram 1 → [diagram 2] and so on.</p>
+              <ol>
+                <li>
+                  <p>There are no persons.</p>
+                </li>
+                <li>
+                  <p><code>Alfred</code> is the Guardian of <code>Bruce</code>.</p>
+                </li>
+                <li>
+                  <p><code>Bruce</code>'s contact number is the same as <code>Alfred</code>'s.</p>
+                </li>
+                <li>
+                  <p><code>Alfred</code> is also the guardian of another person. That person lists <code>Alfred</code>s home address as his home address as well as office address.</p>
+                </li>
+                <li>
+                  <p><code>Alfred</code> has a an office address at <code>Wayne Industries</code> building which is different from his home address (i.e. <code>Bat Cave</code>).</p>
+                </li>
+              </ol>
+              <div slot="hint">
+                <p>After step 2, the diagram should be like this:</p>
+                <img src="/website/book/uml/classDiagrams/combine/basic/images/objectDiagramsForClassDiagramHint.png" width="600">
+              </div>
+            </question>
+          </panel>
+        </div>
+        <div>
+          <panel header="<md>:glyphicon-question-sign:</md> Draw Sequence Diagram for printing a quote">
+            <question>
+              <p>Draw a sequence diagram to represent this code snippet.</p>
+              <pre><code class="hljs java"><span class="hljs-keyword">if</span> (isFirstPage) {
+    <span class="hljs-keyword">new</span> Quote().print();
+}
+</code></pre>
+              <p>The <code>Quote</code> class:</p>
+              <pre><code class="hljs java"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Quote</span></span>{
+
+    String q;
+
+    Quote(){
+        q = generate();
+    }
+
+    <span class="hljs-function">String <span class="hljs-title">generate</span><span class="hljs-params">()</span></span>{
+        <span class="hljs-comment">// ...</span>
+    }
+
+    <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">print</span><span class="hljs-params">()</span></span>{
+        System.out.println(q);
+    }
+
+}
+</code></pre>
+              <div slot="hint">
+                <ul>
+                  <li>Show <code>new Quote().print();</code> as two method calls.</li>
+                  <li>As the created Quote object is not assigned to a variable, it can be considered as 'deleted' soon after its <code>print()</code> method is called.</li>
+                </ul>
+              </div>
+            </question>
+          </panel>
+        </div>
+        <div>
+          <panel header="<md>:glyphicon-question-sign:</md> Model workflow of Burger shop">
+            <question>
+              <p>Draw an activity diagram to represent the following workflow a burger shop uses when processing an order by a customer.</p>
+              <ul>
+                <li>First, a cashier takes the order.</li>
+                <li>Then, three workers start preparing the order at the same time; one prepares the drinks, one prepares the burgers, and one prepares the desserts.</li>
+                <li>In the meantime, the customer pays for the order. If the customer has a voucher, she pays using the voucher; otherwise she pays using cash.</li>
+                <li>After paying, the customer collects the food after all three parts of the order are ready.</li>
+              </ul>
+              <panel type="seamless" header="Example Activity Diagram" minimized>
+                <p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Activity_conducting.svg"><br>
+                  <sub>[<a href="https://en.wikipedia.org/wiki/Activity_diagram">source:wikipeida</a>]</sub></p>
+              </panel>
+            </question>
+          </panel>
+        </div>
       </div>
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
         <div class="border-left-grey nav-inner position-sticky slim-scroll">
 
           <nav class="nav nav-pills flex-column my-0 small no-flex-wrap">
             <a class="nav-link py-1" href="#week">Week []&#x200E;</a>
+            <nav class="nav nav-pills flex-column my-0 nested no-flex-wrap">
+              <a class="nav-link py-1" href="#questions-to-discuss-during-tutorial">Questions to discuss during tutorial:&#x200E;</a>
+              <a class="nav-link py-1" href="#suggested-tutorial-activity">Suggested tutorial activity&#x200E;</a>
+            </nav>
 
           </nav>
         </div>
@@ -140,7 +223,7 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Tue, 10 Sep 2019 06:15:07 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Fri, 13 Sep 2019 03:02:50 GMT</small></div>
     </footer>
   </div>
 </body>

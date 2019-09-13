@@ -3,7 +3,10 @@
   "pages": [
     {
       "headings": {
-        "week-5-sep-9": "Week 5 [Sep 9]"
+        "week-6-sep-16": "Week 6 [Sep 16]",
+        "a-note-on-participation-points": "💰 A note on participation points",
+        "seeking-help": "🆘 Seeking help",
+        "using-third-party-libraries": "Using third party libraries"
       },
       "title": "Home",
       "header": "header.md",
@@ -456,7 +459,12 @@
     },
     {
       "headings": {
-        "project-mid-v1-1-week-6": "Project: mid-v1.1 [week 6] "
+        "project-mid-v1-1-week-6": "Project: mid-v1.1 [week 6] ",
+        "phase-2-project-tasks": "Phase 2 Project tasks",
+        "pull-requests-to-your-team-organization": " Pull Requests to your team organization",
+        "duke-tasks-team": "Duke tasks ( team)",
+        "a-extensions": "A-* Extensions",
+        "b-extensions": "B-* Extensions"
       },
       "title": "Admin: Project: mid-v1.1 [week 6]",
       "header": "header.md",

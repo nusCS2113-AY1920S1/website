@@ -43,8 +43,10 @@
           <li><a href="/website/schedule/week2/index.html" class="dropdown-item"> <span><strong>Week 2</strong> [Aug 19] </span></a></li>
           <li><a href="/website/schedule/week3/index.html" class="dropdown-item"> <span><strong>Week 3</strong> [Aug 26] </span></a></li>
           <li><a href="/website/schedule/week4/index.html" class="dropdown-item"> <span><strong>Week 4</strong> [Sep 2] </span></a></li>
-          <li><a href="/website/schedule/week5/index.html" class="dropdown-item"> <span><strong>Week 5</strong> [Sep 9] <span aria-hidden="true" class="fas fa-arrow-circle-left"></span></span></a></li>
-          <li><a href="/website/schedule/week6/index.html" class="dropdown-item"> <span><strong>Week 6</strong> [Sep 16] </span></a></li>
+          <li><a href="/website/schedule/week5/index.html" class="dropdown-item"> <span><strong>Week 5</strong> [Sep 9] </span></a></li>
+          <li><a href="/website/schedule/week6/index.html" class="dropdown-item"> <span><strong>Week 6</strong> [Sep 16] <span aria-hidden="true" class="fas fa-arrow-circle-left"></span></span></a></li>
+          <li><a href="/website/schedule/week7/index.html" class="dropdown-item"> <span><strong>Week 7</strong> [Sep 30] </span></a></li>
+          <li><a href="/website/schedule/week8/index.html" class="dropdown-item"> <span><strong>Week 8</strong> [Oct 7] </span></a></li>
         </dropdown>
         <li><a href="/website/se-book-adapted/index.html" class="nav-link"><span><strong>Textbook</strong></span></a></li>
         <li><a href="/website/admin/index.html" class="nav-link"><span><strong>Admin Info</strong></span></a></li>
@@ -66,6 +68,7 @@
           <li><a href="/website/admin/reposenseConfigTemplates.html" class="dropdown-item"><span><span aria-hidden="true" class="fas fa-th-list"></span></span> config.json templates for Reposense</a></li>
           <li><a href="https://github.com/nuscs2113-AY1920S1/PersonalAssistant-Duke" target="_blank" class="dropdown-item"><span><span aria-hidden="true" class="fas fa-code-branch"></span></span> PersonalAssistant-Duke </a></li>
           <li><a href="https://nuscs2113-ay1920s1.github.io/dashboard-beta" target="_blank" class="dropdown-item"><span><span aria-hidden="true" class="fas fa-chart-area"></span></span> Project Phase2 Dashboard </a></li>
+          <li><a href="https://github.com/nuscs2113-AY1920S1/addressbook-level3" target="_blank" class="dropdown-item"><span><span aria-hidden="true" class="fas fa-code-branch"></span></span> Reference project - Addressbook </a></li>
           <li><a href="https://repl.it/classroom/invite/cuFCDgh" target="_blank" class="dropdown-item"><span><span aria-hidden="true" class="glyphicon glyphicon-blackboard"></span></span> Repl.it classroom</a></li>
         </dropdown>
         <li slot="right" class="nav-link">
@@ -89,127 +92,52 @@
         <p></p>
         <p><strong>Suggested tutorial questions</strong><br></p>
         <div>
-          <panel header="<md>:glyphicon-question-sign:</md> Explain Class Diagram">
+          <panel header="<md>:glyphicon-question-sign:</md> Explain Sequence Diagram about Machine">
             <question>
-              <p>Explain the associations, navigabilities, and multiplicities in the class diagram below:</p>
-              <img src="/website/book/modeling/modelingStructures/classDiagramsBasic/images/typicalClasssStructure.png" width="400">
-              <p></p>
+              <p>Explain in your own words the interactions illustrated by this Sequence Diagram:</p>
+              <img src="/website/book/uml/sequenceDiagrams/introduction/images/Machine.png" width="500">
             </question>
           </panel>
         </div>
         <div>
-          <panel header="<md>:glyphicon-question-sign:</md> Object Diagrams for Class Diagram">
-            <question>
-              <p>Suppose we wrote a program to follow the class structure given in this class diagram:</p>
-              <img src="/website/book/modeling/modelingStructures/classDiagramsBasic/images/typicalClasssStructure.png" width="400">
-              <p></p>
-              <p>Draw object diagrams to represent the object structures after each of these steps below. Assume that we are trying to minimize the number of total objects.</p>
-              <p>i.e. apply step 1 → [diagram 1] → apply step 2 on diagram 1 → [diagram 2] and so on.</p>
-              <ol>
-                <li>
-                  <p>There are no persons.</p>
-                </li>
-                <li>
-                  <p><code>Alfred</code> is the Guardian of <code>Bruce</code>.</p>
-                </li>
-                <li>
-                  <p><code>Bruce</code>'s contact number is the same as <code>Alfred</code>'s.</p>
-                </li>
-                <li>
-                  <p><code>Alfred</code> is also the guardian of another person. That person lists <code>Alfred</code>s home address as his home address as well as office address.</p>
-                </li>
-                <li>
-                  <p><code>Alfred</code> has a an office address at <code>Wayne Industries</code> building which is different from his home address (i.e. <code>Bat Cave</code>).</p>
-                </li>
-              </ol>
-              <div slot="hint">
-                <p>After step 2, the diagram should be like this:</p>
-                <img src="/website/book/uml/classDiagrams/combine/basic/images/objectDiagramsForClassDiagramHint.png" width="600">
-              </div>
-            </question>
-          </panel>
-        </div>
-        <div>
-          <panel header="<md>:glyphicon-question-sign:</md> Explain notations in the class diagram">
-            <question>
-              <p>Explain the meaning of various class diagram notations in the following class diagram:</p>
-              <img src="/website/book/uml/classDiagrams/introduction/what/images/classDiagramExample1.png" width="750">
-            </question>
-          </panel>
-        </div>
-        <div>
-          <panel header="<md>:glyphicon-question-sign:</md> Draw a Class Diagram for Item etc.">
+          <panel header="<md>:glyphicon-question-sign:</md> Draw a Sequence Diagram for code snippet">
             <question>
               <p>Consider the code below:</p>
               <div class="row">
-                <div class="col-sm-6">
-                  <pre><code class="hljs java"><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">Billable</span> </span>{
-    <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">bill</span><span class="hljs-params">()</span></span>;
-}
-</code></pre>
-                  <pre><code class="hljs java"><span class="hljs-keyword">public</span> <span class="hljs-keyword">abstract</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Item</span>
-         <span class="hljs-keyword">implements</span> <span class="hljs-title">Billable</span> </span>{
-    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">abstract</span> <span class="hljs-keyword">void</span> <span class="hljs-title">print</span><span class="hljs-params">()</span></span>;
-}
-</code></pre>
-                  <pre><code class="hljs java"><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">StockItem</span> <span class="hljs-keyword">extends</span> <span class="hljs-title">Item</span> </span>{
-    <span class="hljs-keyword">private</span> Review review;
-    <span class="hljs-keyword">private</span> String name;
+                <div class="col-sm-7">
+                  <pre><code class="hljs java"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Person</span></span>{
+    Tag tag;
+    String name;
 
-    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-title">StockItem</span><span class="hljs-params">(
-        String name, Rating rating)</span></span>{
-
-        <span class="hljs-keyword">this</span>.name = name;
-        <span class="hljs-keyword">this</span>.review = <span class="hljs-keyword">new</span> Review(rating);
-    }
-
-    <span class="hljs-meta">@Override</span>
-    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">print</span><span class="hljs-params">()</span> </span>{
-        <span class="hljs-comment">//...</span>
-    }
-
-    <span class="hljs-meta">@Override</span>
-    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">bill</span><span class="hljs-params">()</span> </span>{
-        <span class="hljs-comment">//...</span>
+    Person(String personName, String tagName){
+        name = personName;
+        tag = <span class="hljs-keyword">new</span> Tag(tagName);
     }
 }
 </code></pre>
                 </div>
-                <div class="col-sm-6">
-                  <pre><code class="hljs java"><span class="hljs-keyword">public</span> <span class="hljs-keyword">enum</span> Rating {
-    GOOD, OK, POOR
-}
-</code></pre>
-                  <pre><code class="hljs java"><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Review</span> </span>{
-    <span class="hljs-keyword">private</span> <span class="hljs-keyword">final</span> Rating rating;
-
-    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-title">Review</span><span class="hljs-params">(Rating rating)</span> </span>{
-        <span class="hljs-keyword">this</span>.rating = rating;
+                <div class="col-sm-5">
+                  <pre><code class="hljs java"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Tag</span></span>{
+    Tag(String value){
+        <span class="hljs-comment">//...</span>
     }
 }
-</code></pre>
-                  <pre><code class="hljs java"><span class="hljs-keyword">import</span> java.util.List;
 
-<span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Inventory</span> </span>{
-    <span class="hljs-keyword">private</span> List&lt;Item&gt; items;
-
-    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">int</span> <span class="hljs-title">getItemCount</span><span class="hljs-params">()</span></span>{
-        <span class="hljs-keyword">return</span> items.size();
-    }
-
-    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">generateBill</span><span class="hljs-params">(Billable b)</span></span>{
-        <span class="hljs-comment">// ...</span>
-    }
-
-    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">add</span><span class="hljs-params">(Item s)</span> </span>{
-        items.add(s);
+<span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">PersonList</span></span>{
+    <span class="hljs-function"><span class="hljs-keyword">void</span> <span class="hljs-title">addPerson</span><span class="hljs-params">(Person p)</span></span>{
+        <span class="hljs-comment">//...</span>
     }
 }
 </code></pre>
                 </div>
               </div>
-              <p>(a) Draw a class diagram to represent the code<br>
-                (b) Draw an object diagram to represent the situation where the inventory has one item with a name <code>spanner</code> and a review of <code>POOR</code> rating.</p>
+              <p>Draw a sequence diagram to illustrate the object interactions that happen in the code snippet below:</p>
+              <pre><code class="hljs java">PersonList personList = <span class="hljs-keyword">new</span> PersonList();
+<span class="hljs-keyword">while</span> (hasRoom){
+    Person p = <span class="hljs-keyword">new</span> Person(<span class="hljs-string">"Adam"</span>, <span class="hljs-string">"friend"</span>);
+    personList.addPerson(p);
+}
+</code></pre>
             </question>
           </panel>
         </div>
@@ -296,7 +224,6 @@
             </question>
           </panel>
         </div>
-        <p></p>
       </div>
       <nav id="page-nav" class="navbar navbar-light bg-transparent">
         <div class="border-left-grey nav-inner position-sticky slim-scroll">
@@ -310,7 +237,7 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Tue, 10 Sep 2019 06:15:07 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Fri, 13 Sep 2019 03:02:50 GMT</small></div>
     </footer>
   </div>
 </body>
