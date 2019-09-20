@@ -79,6 +79,7 @@ As earlier, **push these changes to your own fork** of Duke.
 
 - **After** the above increment is completed, tag your codebase with `v1.0`.
 
+<div id="project_phase2">
 
 # Project Phase 2
 
@@ -149,6 +150,7 @@ As earlier, **push these changes to your own fork** of Duke.
     * <trigger trigger="click" for="modal:v10-glossary">**Glossary**</trigger>: Define terms that are worth defining.
     *  [Optional] <trigger trigger="click" for="modal:v10-prodsurveys">**Product survey**</trigger>: Explore a few similar/related products and describe your findings i.e. Pros, cons, (from the target user's point of view). 
   
+</div>
 <!--
 %%Do not spend time on formatting the content nicely; reason: these will be ported to the actual Developer Guide in your project repo later.%%<br>
     :bulb: Some examples of these can be found in the [AB4 Developer Guide]({{module_org}}/addressbook-level4/blob/master/docs/DeveloperGuide.adoc#product-scope).
