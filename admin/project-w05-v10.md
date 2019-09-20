@@ -46,6 +46,8 @@ As earlier, **push these changes to your own fork** of Duke.
 
 # Duke tasks ({{ icon_team }} team)
 
+<div id="project_setup">
+
 ### Project Setup
 
 ##### Create your team organization.
@@ -66,7 +68,7 @@ As earlier, **push these changes to your own fork** of Duke.
   - %%In the interest of the team, you can choose the best code to be the starter codebase.%%
   - **Note:** You will be graded individually for your Phase 1 of the project, so irrespective of your code being used or not used as the base code for the team project, you will have received the due credit for your work. Conversely, since your work is evaluated in Phase 1, you will not receive any additional credits if your code is used as the base code for the team project. 
 - **Push the changes to the team repo.**
-
+</div>
 ## Implement the following increments in the team repo
 
 - Organize code better
