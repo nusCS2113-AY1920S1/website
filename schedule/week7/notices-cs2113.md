@@ -15,8 +15,14 @@
   * Please **follow our guidelines for your photo**. If not, the photo will not serve its intended purpose (i.e., for others to identify you).
   * Please **limit the `Ui.png` to one screenshot only**, so that your UI mockup takes roughly the same amount of space as other teams' in the Teams Page.
 
+## Project v1.1
+
 **v1.1 milestone deadline is coming up soon**: Refer to v1.1 instructions carefully and try to follow as closely as you can. However, there is no lower bar on the code changes you need to do. Even a tiny change is acceptable. Use that flexibility to control your workload.
 
+**Create milestone: `v1.1`** and set the deadline to be the day before your tutorial in week 7. assign some `type.Task` issues and complete them.
+
+**Submission:** Follow the instructions in the project tab to submit your documents for review.
+    
 ## Mid-semester feedback session
 
 * **Peer Evaluation Round 1** will be open on TEAMMATES. You should have received the submission link. **If you do not submit feedback responses, you will forfeit participation marks that you earned based on feedback ratings received from others**.
