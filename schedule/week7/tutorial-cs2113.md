@@ -13,7 +13,7 @@
 
 ### Project management - Scheduling
 
-- Create milestones: `v1.1`, `v1.2`, `v1.3`, `v1.4`, and set the deadline to be the day before your tutorial in weeks  7, 9, 11 and 13.
+- Create milestones: `v1.2`, `v1.3`, `v1.4`, and set the deadline to be the day before your tutorial in weeks 9, 11 and 13.
 - At minimum, assign some `type.Epic` or `type.Story` issues to each milestone.
   - (Preferred) assign all `type.Story`, `type.Epic` and `type.Task` issues to each milestone.
 - Assign at least one owner to each `type.Story` and `type.Task` to all the issues in `v1.2`. 
@@ -29,4 +29,6 @@
 1. What is the design approach you are following in your project?
 
 </question>
+
+<include src="../../book/modeling/modelingBehaviors/activityDiagrams/q-modelWorkflowOfBurgerShop.md" />
     
