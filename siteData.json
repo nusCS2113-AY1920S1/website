@@ -3,10 +3,10 @@
   "pages": [
     {
       "headings": {
-        "week-6-sep-16": "Week 6 [Sep 16]",
-        "a-note-on-participation-points": "💰 A note on participation points",
-        "seeking-help": "🆘 Seeking help",
-        "using-third-party-libraries": "Using third party libraries"
+        "week-7-sep-30": "Week 7 [Sep 30]",
+        "the-project-list-page": "The Project List Page",
+        "project-v1-1": "Project v1.1",
+        "mid-semester-feedback-session": "Mid-semester feedback session"
       },
       "title": "Home",
       "header": "header.md",
@@ -446,7 +446,6 @@
         "set-up-the-team-repo": "Set up the team repo",
         "setup-the-issue-tracker-in-the-team-repo": "Setup the issue tracker in the team repo",
         "port-the-phase-1-code-to-your-team-repo": "Port the phase 1 code to your team repo",
-        "implement-the-following-increments-in-the-team-repo": "Implement the following increments in the team repo",
         "project-phase-2": "Project Phase 2"
       },
       "title": "Admin: Project: v1.0 [week 5]",
@@ -476,7 +475,10 @@
     },
     {
       "headings": {
-        "project-v1-1-week-7": "Project: v1.1 [week 7] "
+        "project-v1-1-week-7": "Project: v1.1 [week 7] ",
+        "v1-1-project-management": "v1.1 Project Management",
+        "v1-1-documentation": "v1.1 Documentation",
+        "v1-1-product": "v1.1 Product"
       },
       "title": "Admin: Project: v1.1 [week 7]",
       "header": "header.md",
