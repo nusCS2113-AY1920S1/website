@@ -1,0 +1,14 @@
+2019-09-03T22:42:43.241Z - info: Website generation started at 6:42:41 AM
+2019-09-03T22:42:44.669Z - info: Building assets...
+2019-09-03T22:42:46.124Z - info: Assets built
+2019-09-03T22:42:46.126Z - info: Generating pages...
+2019-09-03T22:44:27.680Z - info: Pages built
+2019-09-03T22:44:55.312Z - info: Website generation complete! Total build time: 133.712s
+2019-09-03T22:44:55.383Z - info: Serving "D:\Teaching\CS2113\AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-09-03T22:44:55.384Z - info: Press CTRL+C to stop ...
+2019-09-03T22:44:55.416Z - info: Site data built
+2019-09-03T23:04:16.661Z - info: [7:04:16 AM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\schedule\index.md
+2019-09-03T23:04:17.668Z - info: Rebuilding affected source files
+2019-09-03T23:04:17.672Z - info: Rebuilding 2 pages
+2019-09-03T23:04:18.195Z - info: Pages rebuilt
+2019-09-03T23:04:18.211Z - info: Site data built
