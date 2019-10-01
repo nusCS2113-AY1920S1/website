@@ -27,11 +27,12 @@ Milestone | Minimum acceptable performance to consider as 'reached'
 {{ icon_team }} Team org/repo set up | as stated in <trigger trigger="click" for="modal:v10setup-v10">Week 5</trigger>
 {{ icon_individual }} Some code enhancements done | created PRs to do local/global changes
 {{ icon_individual }} Photo uploaded | a photo complying to <trigger trigger="click" for="modal:v11-photo">our guidelines</trigger> is in the master branch of your team repo
-{{ icon_team }} Project docs updated | updated docs are merged to the master branch
+{{ icon_team }} Project docs updated | updated docs (README and AboutUs) are merged to the master branch
+{{ icon_team }} Project docs submitted | User guide and developer guide are **submitted on LumiNUS**
 {{ icon_team }} Milestone wrapped up | a commit in the master branch tagged as `v1.1`; milestone closed on GitHub
 
 
-<modal large title="Admin {{ icon_embedding }} Project: v1.0 - Setup" id="modal:modal:v10setup-v10">
+<modal large title="Admin {{ icon_embedding }} Project: v1.0 - Setup" id="modal:v10setup-v10">
   <include src="project-w05-v10.md#project_setup"/>
 </modal>
 
