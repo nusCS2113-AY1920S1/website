@@ -62,6 +62,7 @@ Milestone | Minimum acceptable performance to consider as 'reached'
 
   **Submission**:
     * Submit two pdf files on LumiNUS, one for the user guide and the other for the developer guide.
+      * Please name the file using this format: `[Team id]-[Product name]-UG` or `[Team id]-[Product name]-DG` and submit them on LumiNUS.
     * The **user guide** should have the concrete command syntax and explanation for features that you would implement (in v1.4) and the features that are planned for v2.0
     * The **developer guide** should have the <trigger trigger="click" for="modal:v10docs-v10">user profile, value proposition and Appendix A containing user stories, use cases and NFR.</trigger>.
 
