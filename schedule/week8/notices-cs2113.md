@@ -12,6 +12,8 @@
 
 ## Project
 
+* It is good that many of you have started some project planning and tracking leading up to v1.1.
+
 * **You are expected to start proper project planning and tracking after v1.1**. 
 <!--See [mid-v1.2 instructions]({{ module_website }}/admin/project-w08-mid-v12.html) and please follow them carefully.-->
 
