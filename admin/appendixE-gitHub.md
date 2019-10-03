@@ -99,9 +99,11 @@ Note that some of our download scripts depend on the following folder paths. Ple
 
 **After completing v1.1, you can adjust process rigor to suit your team's pace,** as explained below.
 
+<!--
   * **Reduce automated tests** have benefits, but they can be a pain to write/maintain; GUI tests are especially hard to maintain because their behavior can sometimes depend on things such as the OS, resolution etc.<br>
     It is OK to get rid of some of the troublesome tests and rely more on manual testing instead. The less automated tests you have, the higher the risk of regressions; but it may be an acceptable trade-off under the circumstances if tests are slowing you down too much.<br>
     There is no direct penalty for removing GUI tests. Also note <trigger trigger="click" for="modal:appEworkflow-testingExpectations">our expectation on test code</trigger>.
+-->
 
   * **Reduce automated checks**: You can also reduce the rigor of checkstyle checks to expedite PR processing.
 
