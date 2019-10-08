@@ -46,6 +46,7 @@
 1. How is each one done in AB4?
 1. What’s the difference between _unit testing_ and _integration testing_?
 1. What’s the difference between _system testing_ and _acceptance testing_?
+1. Which integration approach is used by the project?
 
 </question>
 </panel>
