@@ -8,7 +8,6 @@
 
 1. Explain what Gradle is. How is it used in your project?
 1. Explain what Travis is. How is it used in your project?
-1. Which integration approach is used by the project?
 1. What’s the difference between _buffers_ and _padding/inflating_ estimates?
 
 </question>
