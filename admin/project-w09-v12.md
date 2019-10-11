@@ -8,15 +8,14 @@
 
 <p class="lead" style="color: purple"><md>:far-calendar-check: <include src="project-timeline.md#v12-overview" inline /></md></p>
 
-<!--
+
 
 **v1.2 Summary of Milestone**
 
 Milestone | Minimum acceptable performance to consider as 'reached'
 --------- | -------------------------------------------------------
 {{ icon_individual }} Contributed code to the product as described in mid-v1.2 progress guide | some code merged
-{{ icon_individual }} Described implementation details in the Developer Guide | some text and some diagrams added to the developer guide (at least in a PR), comprising at least one page worth of content
-{{ icon_team }} Issue tracker set up | As explained in <trigger trigger="click" for="modal:v12-issueTrackerSetup">[Admin {{ icon_embedding }} Appendix E: GitHub: Issue Tracker Setup]</trigger>.
+{{ icon_individual }} Described implementation details in the Developer Guide | some text and some diagrams added to the developer guide, comprising at least one page worth of content
 {{ icon_team }} v1.2 managed using GitHub features (issue tracker, milestones, etc.) | Milestone v1.2 managed as explained in <trigger trigger="click" for="modal:v12-projectTracking">[Admin {{ icon_embedding }} Appendix E: GitHub: Project Schedule Tracking]</trigger>.
 
 <modal large title="Admin {{ icon_embedding }} Appendix E: GitHub: Project Issue Tracker Setup" id="modal:v12-issueTrackerSetup">
@@ -38,10 +37,12 @@ Milestone | Minimum acceptable performance to consider as 'reached'
 ### v1.2 Documentation
 
 * **User Guide**: Update as necessary.
+  * **No submission this week.**
   * If a feature has been released in this version, remove the `Coming in v2.0` annotation from that feature. Also replace UI mock-ups with actual screenshots.
   * If a feature design has changed, update the descriptions accordingly.
 
 * **Developer Guide**:
+  * **No submission this week.** However, do start updating the DG so that you are in a comfortable position to submit it in Week 10.
   * ==Each member should describe the implementation of at least one enhancement she has added== (or planning to add). <br>
     Expected length: 1+ page of technical content per person
   * The description can contain things such as,
@@ -49,14 +50,14 @@ Milestone | Minimum acceptable performance to consider as 'reached'
     * Why it is implemented that way.
     * Alternatives considered.
   * The stated objective is to explain the implementation to a future developer, but a hidden objective is to show evidence that you can document deeply-technical content using prose, examples, diagrams, code snippets, etc. appropriately. To that end, you may also describe features that you plan to implement in the future, even beyond v1.4 (hypothetically).
-  * For an example, see [the description of the undo/redo feature implementation in the AddressBook-Level4 developer guide](https://nus-{{ module | lower }}-{{ semester | lower }}.github.io/addressbook-level4/DeveloperGuide.html#undo-redo-feature).
+  * For an example, see [the description of the undo/redo feature implementation in the reference project's developer guide](https://github.com/nusCS2113-AY1920S1/addressbook-level3/blob/master/docs/DeveloperGuide.adoc#proposed-undoredo-feature).
   
 
 ### v1.2 Demo
 
 Do an informal demo of the new feature during the tutorial. ==To save time, we recommend that one member demos all new features, using the commit tagged as `v1.2` in the `master` branch== %%&nbsp;i.e. only features included in the current release should be demoed%%.
 
--->
+
 
 </div>
 </div>
