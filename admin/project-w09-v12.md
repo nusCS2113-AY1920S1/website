@@ -24,12 +24,17 @@ Milestone | Minimum acceptable performance to consider as 'reached'
 <modal large title="Admin {{ icon_embedding }} Appendix E: GitHub: Project Schedule Tracking" id="modal:v12-projectTracking">
   <include src="appendixE-gitHub.md#project-schedule-tracking"/>
 </modal>
+<modal large title="Admin {{ icon_embedding }} Appendix E: GitHub: Project Schedule Tracking" id="modal:v12-repoSetup">
+  <include src="appendixE-gitHub.md#repo-setup"/>
+</modal>
 
   
 ### v1.2 Project Management
 
 * {{ icon_team }} Manage the milestone v1.2 as explained in <trigger trigger="click" for="modal:v12-projectTracking">[Admin {{ icon_embedding }} Appendix E: GitHub: Project Schedule Tracking]</trigger>.
-
+* To facilitate code review from the teaching team, make a pull request to the upstream organization as described below (extracted from <trigger trigger="click" for="modal:v12-repoSetup">[Admin {{ icon_embedding }} Appendix E: GitHub: Repo Setup]</trigger>):
+  * **create a _team PR_** for us to track your project progress: i.e., create a PR from your ==team repo `master` branch== to [[nus{{ module | lower }}-{{ semester }}/PersonalAssistant-Duke]({{module_org}}/PersonalAssistant-Duke)] `master` branch. PR name: `[Team ID] Product Name` e.g., `[{{ semester }}-{{ module }}-T13-1] Contact List Pro`. %%&nbsp;As you merge code to your team repo's `master` branch, this PR will auto-update to reflect how much your team's product has progressed.%% In the PR description <tooltip content="use @githubUserName">@mention</tooltip> the other team members so that they get notified when the tutor adds comments to the PR.
+  
 ### v1.2 Product
 
 * {{ icon_individual }} Merge some code into the `master` branch of your team repo. ==This is expected to be a user-visible enhancement.==
