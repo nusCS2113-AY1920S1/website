@@ -30,7 +30,7 @@
       </ol>
       <modal large title="Our requirements for the profile photo" id="modal:creatingGitHubAccount-photoCriteria">
           <div>
-          <div data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md">
+          <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md">
             <ul>
               <li>
                 <p>The purpose of the profile photo is for the teaching team to identify you. Therefore, you should choose a recent individual photo showing your face clearly (i.e., not too small) -- somewhat similar to a passport photo. Some examples can be seen in the 'Teaching team' page. Given below are some examples of good and bad profile photos.<br>
@@ -101,7 +101,7 @@
       </ul>
       <modal large title="Admin <md>:glyphicon-log-in:</md> Appendix E → Setting Git Username to Match GitHub Username" id="modal:appE-gitUsername">
           <div>
-          <div data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\appendixE-gitHub.md">
+          <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\admin\appendixE-gitHub.md">
             <h2 id="setting-git-username-to-match-github-username">Setting Git Username to Match GitHub Username</h2>
             <p>We use various tools to analyze your code. <mark>For us to be able to identify your commits, you should use the GitHub username as your Git username as well. If there is a mismatch, or if you use multiple user names for Git,</mark> our tools might miss some of your work and as a result you might not get credit for some of your work.</p>
             <p>In each Computer you use for coding, after installing Git, you should set the Git username as follows.</p>
@@ -116,11 +116,11 @@
       </modal>
       <modal large title="Admin <md>:glyphicon-log-in:</md> Appendix B: Policies → Policy on Reuse" id="modal:appE-reusePolicy">
           <div>
-          <div data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\appendixB-policies.md">
+          <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\admin\appendixB-policies.md">
             <h3 id="policy-on-reuse">Policy on reuse <small><small><span class="badge badge-pill badge-warning"><span style="color:white"><span class="glyphicon glyphicon-star" aria-hidden="true"></span><span class="glyphicon glyphicon-star" aria-hidden="true"></span></span></span></small></small></h3>
             <div class="indented">
               <div>
-                <div data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\policies.fr">
+                <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\admin\policies.fr">
                   <p><strong>Reuse is encouraged. However, note that reuse has its own costs</strong> (such as the learning curve, additional complexity, usage restrictions, and unknown bugs). Furthermore, you will not be given credit for work done by others. Rather, you will be given credit for using work done by others.</p>
                   <ul>
                     <li>You are allowed to reuse work from your classmates, subject to following conditions:
@@ -184,14 +184,15 @@ Collections.sort(persons, <span class="hljs-keyword">new</span> Comparator&lt;Cu
                   </tip-box>
                   <modal large title="Admin <md>:glyphicon-log-in:</md> Project mid-v1.3 (extract) →" id="modal:reusePolicy-authorTags">
                     <div>
-                      <div data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\reposenseAuthorAnnotation.md">
-                        <h4 id="adding-author-tags-indicate-authorship">Adding <code>@@author</code> tags indicate authorship</h4>
-                        <ul>
-                          <li>
-                            <p>Mark your code with a <code>//@@author {yourGithubUsername}</code>. Note the double <code>@</code>.<br>
-                              The <code>//@@author</code> tag should indicates the beginning of the code you wrote. The code up to the next <code>//@@author</code> tag or the end of the file (whichever comes first) will be considered as was written by that author.
-                              Here is a sample code file:</p>
-                            <pre><code class="hljs">//@@author johndoe
+                      <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\admin\reposenseAuthorAnnotation.md">
+                        <div id="author_tags">
+                          <h3 id="adding-author-tags-to-indicate-authorship">Adding <code>@@author</code> tags to indicate authorship</h3>
+                          <ul>
+                            <li>
+                              <p>Mark your code with a <code>//@@author {yourGithubUsername}</code>. Note the double <code>@</code>.<br>
+                                The <code>//@@author</code> tag should indicates the beginning of the code you wrote. The code up to the next <code>//@@author</code> tag or the end of the file (whichever comes first) will be considered as was written by that author.
+                                Here is a sample code file:</p>
+                              <pre><code class="hljs">//@@author johndoe
 method 1 ...
 method 2 ...
 //@@author sarahkhoo
@@ -199,11 +200,11 @@ method 3 ...
 //@@author johndoe
 method 4 ...
 </code></pre>
-                          </li>
-                          <li>
-                            <p><strong>If you don't know who wrote the code segment below yours</strong>, you may put an empty <code>//@@author</code> (i.e. no GitHub username) to indicate the end of the code segment you wrote. The author of code below yours can add the GitHub username to the empty tag later.
-                              Here is a sample code with an empty <code>author</code> tag:</p>
-                            <pre><code class="hljs">method 0 ...
+                            </li>
+                            <li>
+                              <p><strong>If you don't know who wrote the code segment below yours</strong>, you may put an empty <code>//@@author</code> (i.e. no GitHub username) to indicate the end of the code segment you wrote. The author of code below yours can add the GitHub username to the empty tag later.
+                                Here is a sample code with an empty <code>author</code> tag:</p>
+                              <pre><code class="hljs">method 0 ...
 //@@author johndoe
 method 1 ...
 method 2 ...
@@ -211,93 +212,96 @@ method 2 ...
 method 3 ...
 method 4 ...
 </code></pre>
-                          </li>
-                          <li>
-                            <p><strong>The author tag syntax varies based on file type</strong> e.g. for java, css, fxml. Use the corresponding comment syntax for non-Java files.<br>
-                              Here is an example code from an xml/fxml file.</p>
-                            <pre><code class="hljs">&lt;!-- @@author sereneWong --&gt;
+                            </li>
+                            <li>
+                              <p><strong>The author tag syntax varies based on file type</strong> e.g. for java, css, fxml. Use the corresponding comment syntax for non-Java files.<br>
+                                Here is an example code from an xml/fxml file.</p>
+                              <pre><code class="hljs">&lt;!-- @@author sereneWong --&gt;
 &lt;textbox&gt;
   &lt;label&gt;...&lt;/label&gt;
   &lt;input&gt;...&lt;/input&gt;
 &lt;/textbox&gt;
 ...
 </code></pre>
-                          </li>
-                          <li>
-                            <p><strong>Do not put the <code>//@@author</code> inside java header comments</strong>.<br>
-                              👎<span><span aria-hidden="true" class="fas fa-arrow-down"></span></span></p>
-                            <pre><code class="hljs">/**
+                            </li>
+                            <li>
+                              <p><strong>Do not put the <code>//@@author</code> inside java header comments</strong>.<br>
+                                👎<span><span aria-hidden="true" class="fas fa-arrow-down"></span></span></p>
+                              <pre><code class="hljs">/**
   * Returns true if ...
   * @@author johndoe
   */
 </code></pre>
-                            <p>👍<span><span aria-hidden="true" class="fas fa-arrow-down"></span></span></p>
-                            <pre><code class="hljs">//@@author johndoe
+                              <p>👍<span><span aria-hidden="true" class="fas fa-arrow-down"></span></span></p>
+                              <pre><code class="hljs">//@@author johndoe
 /**
   * Returns true if ...
   */
 </code></pre>
-                          </li>
-                        </ul>
-                        <h4 id="what-to-and-what-not-to-annotate">What to and what not to annotate</h4>
-                        <ul>
-                          <li>
-                            <p><strong>Annotate both functional and test code</strong> There is no need to annotate documentation files.</p>
-                          </li>
-                          <li>
-                            <p><strong>Annotate only significant size code blocks that can be reviewed on its own</strong> <span class="dimmed"> e.g., a class, a sequence of methods, a method.</span> <br> <strong>Claiming credit for code blocks smaller than a method is discouraged</strong> but allowed. If you do, do it sparingly and only claim meaningful blocks of code such as a block of statements, a loop, or an if-else statement.</p>
-                            <ul>
-                              <li>If an enhancement required you to do tiny changes in many places, there is no need to annotate all those tiny changes; you can describe those changes in the Project Portfolio page instead.</li>
-                              <li>If a code block was touched by more than one person, either let the person who wrote most of it (e.g. more than 80%) take credit for the entire block, or leave it as 'unclaimed' (i.e., no author tags).</li>
-                              <li>Related to the above point, <mark>if you claim a code block as your own, more than 80% of the code in that block should have been written by yourself</mark>. For example, no more than 20% of it can be code you reused from somewhere.</li>
-                              <li>💡 GitHub has a <a href="https://help.github.com/articles/tracing-changes-in-a-file/"><em>blame</em> feature and a <em>history</em></a> feature that can help you determine who wrote a piece of code.</li>
-                            </ul>
-                          </li>
-                          <li>
-                            <p><strong>Do not try to boost the quantity of your contribution using unethical means</strong> such as duplicating the same code in multiple places. In particular, do not copy-paste test cases to create redundant tests. Even repetitive code blocks within test methods should be extracted out as utility methods to reduce code duplication.
-                              Individual members are responsible for making sure code attributed to them are correct.
-                              If you notice a team member claiming credit for code that he/she did not write or use other questionable tactics, you can email us (after the final submission) to let us know.</p>
-                          </li>
-                          <li>
-                            <p><strong>If you wrote a significant amount of code that was not used in the final product</strong>,</p>
-                            <ul>
-                              <li>Create a folder called <code>{project root}/unused</code></li>
-                              <li>Move unused files (or copies of files containing unused code) to that folder</li>
-                              <li>use <code>//@@author {yourGithubUsername}-unused</code> to mark unused code in those files (note the suffix <code>unused</code>)
-                                e.g.</li>
-                            </ul>
-                            <pre><code class="hljs">//@@author johndoe-unused
+                            </li>
+                          </ul>
+                        </div>
+                        <div id="annotating_guidelines">
+                          <h3 id="what-to-and-what-not-to-annotate">What to and what not to annotate</h3>
+                          <ul>
+                            <li>
+                              <p><strong>Annotate both functional and test code</strong> There is no need to annotate documentation files.</p>
+                            </li>
+                            <li>
+                              <p><strong>Annotate only significant size code blocks that can be reviewed on its own</strong> <span class="dimmed"> e.g., a class, a sequence of methods, a method.</span> <br> <strong>Claiming credit for code blocks smaller than a method is discouraged</strong> but allowed. If you do, do it sparingly and only claim meaningful blocks of code such as a block of statements, a loop, or an if-else statement.</p>
+                              <ul>
+                                <li>If an enhancement required you to do tiny changes in many places, there is no need to annotate all those tiny changes; you can describe those changes in the Project Portfolio page instead.</li>
+                                <li>If a code block was touched by more than one person, either let the person who wrote most of it (e.g. more than 80%) take credit for the entire block, or leave it as 'unclaimed' (i.e., no author tags).</li>
+                                <li>Related to the above point, <mark>if you claim a code block as your own, more than 80% of the code in that block should have been written by yourself</mark>. For example, no more than 20% of it can be code you reused from somewhere.</li>
+                                <li>💡 GitHub has a <a href="https://help.github.com/articles/tracing-changes-in-a-file/"><em>blame</em> feature and a <em>history</em></a> feature that can help you determine who wrote a piece of code.</li>
+                              </ul>
+                            </li>
+                            <li>
+                              <p><strong>Do not try to boost the quantity of your contribution using unethical means</strong> such as duplicating the same code in multiple places. In particular, do not copy-paste test cases to create redundant tests. Even repetitive code blocks within test methods should be extracted out as utility methods to reduce code duplication.
+                                Individual members are responsible for making sure code attributed to them are correct.
+                                If you notice a team member claiming credit for code that he/she did not write or use other questionable tactics, you can email us (after the final submission) to let us know.</p>
+                            </li>
+                            <li>
+                              <p><strong>If you wrote a significant amount of code that was not used in the final product</strong>,</p>
+                              <ul>
+                                <li>Create a folder called <code>{project root}/unused</code></li>
+                                <li>Move unused files (or copies of files containing unused code) to that folder</li>
+                                <li>use <code>//@@author {yourGithubUsername}-unused</code> to mark unused code in those files (note the suffix <code>unused</code>)
+                                  e.g.</li>
+                              </ul>
+                              <pre><code class="hljs">//@@author johndoe-unused
 method 1 ...
 method 2 ...
 </code></pre>
-                            <p>Please put a comment in the code to explain why it was not used.</p>
-                          </li>
-                          <li>
-                            <p><strong>If you reused code from elsewhere,</strong> mark such code as <code>//@@author {yourGithubUsername}-reused</code> (note the suffix <code>reused</code>)
-                              e.g.</p>
-                            <pre><code class="hljs">//@@author johndoe-reused
+                              <p>Please put a comment in the code to explain why it was not used.</p>
+                            </li>
+                            <li>
+                              <p><strong>If you reused code from elsewhere,</strong> mark such code as <code>//@@author {yourGithubUsername}-reused</code> (note the suffix <code>reused</code>)
+                                e.g.</p>
+                              <pre><code class="hljs">//@@author johndoe-reused
 method 1 ...
 method 2 ...
 </code></pre>
-                          </li>
-                          <li>
-                            <p><strong>You can use empty <code>@@author</code> tags to mark code as not yours when RepoSense attribute the to you incorrectly.</strong></p>
-                            <ul>
-                              <li>
-                                <p><strong>Code generated by the IDE/framework,</strong> should not be annotated as your own.</p>
-                              </li>
-                              <li>
-                                <p><strong>Code you modified in minor ways</strong> e.g. adding a parameter. These should not be claimed as yours but you can mention these additional contributions in the Project Portfolio page if you want to claim credit for them.</p>
-                              </li>
-                            </ul>
-                          </li>
-                        </ul>
+                            </li>
+                            <li>
+                              <p><strong>You can use empty <code>@@author</code> tags to mark code as not yours when RepoSense attribute the to you incorrectly.</strong></p>
+                              <ul>
+                                <li>
+                                  <p><strong>Code generated by the IDE/framework,</strong> should not be annotated as your own.</p>
+                                </li>
+                                <li>
+                                  <p><strong>Code you modified in minor ways</strong> e.g. adding a parameter. These should not be claimed as yours but you can mention these additional contributions in the Project Portfolio page if you want to claim credit for them.</p>
+                                </li>
+                              </ul>
+                            </li>
+                          </ul>
+                        </div>
                       </div>
                     </div>
                   </modal>
                   <modal large title="Admin <md>:glyphicon-log-in:</md> Project → Deliverables → Project Portfolio Page" id="modal:reusePolicy-ppp">
                       <div>
-                      <div data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md">
+                      <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md">
                         <p>At the end of the project each student is required to submit a <em>Project Portfolio Page</em>.</p>
                         <ul>
                           <li>
@@ -452,7 +456,7 @@ method 2 ...
         </ul>
         <modal title="Admin <md>:glyphicon-log-in:</md> Project Assessment → Expectation on testing" id="modal:appEworkflow-testingExpectations">
             <div>
-            <div data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-scope.md">
+            <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\admin\project-scope.md">
               <ul>
                 <li>There is no requirement for a minimum coverage level. Note that in a production environment you are often required to have at least 90% of the code covered by tests. In this project, it can be less. The less coverage you have, the higher the risk of regression bugs, which will cost marks if not fixed before the final submission.</li>
                 <li>You <mark>must write <em>some</em> tests</mark> so that we can evaluate your ability to write tests. (Please refer to <em>Expectations on Lines of Code</em> for LoC requirement).</li>
@@ -464,20 +468,20 @@ method 2 ...
       </div>
       <modal large title="TextBook <md>:glyphicon-log-in:</md>" id="modal:appErecommendedWorkflow-forkingworkflow">
           <div>
-          <div data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\book\revisionControl\forkingWorkflow\unit-inElsewhere-asFlat.md">
+          <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\book\revisionControl\forkingWorkflow\unit-inElsewhere-asFlat.md">
             <div>
-              <div data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\book\revisionControl\forkingWorkflow\text.md"></div>
+              <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\book\revisionControl\forkingWorkflow\text.md"></div>
             </div>
             <p></p>
-            <p><span class="dimmed"><strong><span><span data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\book\revisionControl\path.md">Project Management → Revision Control →
+            <p><span class="dimmed"><strong><span><span data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\book\revisionControl\path.md">Project Management → Revision Control →
                     </span></span></strong></span></p>
             <div id="title-and-body">
               <div>
-                <h4 id="forking-flow"><span><span data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\book\revisionControl\forkingWorkflow\text.md">Forking Flow</span></span></h4>
+                <h4 id="forking-flow"><span><span data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\book\revisionControl\forkingWorkflow\text.md">Forking Flow</span></span></h4>
               </div>
               <div id="main">
                 <div>
-                  <div data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\book\revisionControl\forkingWorkflow\text.md">
+                  <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\book\revisionControl\forkingWorkflow\text.md">
                     <img src="/website/book/revisionControl/forkingWorkflow/images/diagram.png" height="330">
                     <p></p>
                     <p><strong>In the <em>forking workflow</em>, the 'official' version of the software is kept in a remote repo designated as the 'main repo'. All team members fork the main repo create pull requests from their fork to the main repo.</strong></p>
@@ -494,9 +498,9 @@ method 2 ...
                   </div>
                 </div>
                 <div>
-                  <div data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\book\revisionControl\forkingWorkflow\text.md">
+                  <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\book\revisionControl\forkingWorkflow\text.md">
                     <div>
-                      <div data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\book\revisionControl\forkingWorkflow\resources.md">
+                      <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\book\revisionControl\forkingWorkflow\resources.md">
                         <panel header="<md>:fas-paperclip:</md> Resources" expanded>
                           <ul>
                             <li><a href="https://www.atlassian.com/git/tutorials/comparing-workflows#forking-workflow">A detailed explanation of the Forking Workflow</a> - From Atlassian</li>

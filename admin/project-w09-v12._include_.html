@@ -9,7 +9,7 @@
   <div id="main">
     <div id="title"></div>
     <div id="body">
-      <p class="lead" style="color: purple"><span><span aria-hidden="true" class="far fa-calendar-check"></span> <span><span data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-timeline.md">Update UG if necessary. Move code towards v2.0 in small steps, start documenting design/implementation details in DG.</span></span></span></p>
+      <p class="lead" style="color: purple"><span><span aria-hidden="true" class="far fa-calendar-check"></span> <span><span data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\admin\project-timeline.md">Update UG if necessary. Move code towards v2.0 in small steps, start documenting design/implementation details in DG.</span></span></span></p>
       <p><strong>v1.2 Summary of Milestone</strong></p>
       <div class="table-responsive">
         <table class="markbind-table table table-bordered table-striped">
@@ -37,7 +37,7 @@
       </div>
       <modal large title="Admin <md>:glyphicon-log-in:</md> Appendix E: GitHub: Project Issue Tracker Setup" id="modal:v12-issueTrackerSetup">
           <div>
-          <div data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\appendixE-gitHub.md">
+          <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\admin\appendixE-gitHub.md">
             <h2 id="issue-tracker-setup">Issue tracker setup</h2>
             <p>We recommend you configure the issue tracker of the <code>main</code> repo as follows:</p>
             <ul>
@@ -93,7 +93,7 @@
       </modal>
       <modal large title="Admin <md>:glyphicon-log-in:</md> Appendix E: GitHub: Project Schedule Tracking" id="modal:v12-projectTracking">
           <div>
-          <div data-included-from="E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\appendixE-gitHub.md">
+          <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\admin\appendixE-gitHub.md">
             <h2 id="project-schedule-tracking">Project Schedule Tracking</h2>
             <p>In general, use the issue tracker (Milestones, Issues, PRs, Tags, Releases, and Labels) for assigning, scheduling, and tracking <em>all</em> noteworthy project tasks, including user stories. Update the issue tracker regularly to reflect the current status of the project. You can also use GitHub's <a href="https://www.youtube.com/watch?v=C6MGKHkNtxU">Projects feature</a> to manage the project, but keep it linked to the issue tracker as much as you can.</p>
             <h3 id="using-issues">Using Issues:</h3>
@@ -186,9 +186,43 @@
           </div>
         </div>
       </modal>
+      <modal large title="Admin <md>:glyphicon-log-in:</md> Appendix E: GitHub: Project Schedule Tracking" id="modal:v12-repoSetup">
+          <div>
+          <div data-included-from="D:\Teaching\CS2113\AY1920Sem1\website\admin\appendixE-gitHub.md">
+            <h2 id="repo-setup">Repo setup</h2>
+            <p>Only one team member:</p>
+            <ol>
+              <li><strong>Fork</strong> <a href="https://github.com/nusCS2113-AY1920S1/PersonalAssistant-Duke">nuscs2113-AY1920S1/PersonalAssistant-Duke</a> to your team org.</li>
+              <li><mark><strong>Rename</strong> the forked repo as <code>main</code></mark>. This repo (let's call it the <em>team repo</em>) is to be used as the repo for your project.</li>
+              <li><mark>Ensure the issue tracker of your team repo is enabled.</mark> <span class="dimmed">Reason: our bots will be posting your weekly progress reports on the issue tracker of your team repo.</span></li>
+              <li>Ensure your team members have the desired level of access to your team repo.</li>
+              <li><strong>create a <em>team PR</em></strong> for us to track your project progress: i.e., create a PR from your <mark>team repo <code>master</code> branch</mark> to [<a href="https://github.com/nusCS2113-AY1920S1/PersonalAssistant-Duke">nuscs2113-AY1920S1/PersonalAssistant-Duke</a>] <code>master</code> branch. PR name: <code>[Team ID] Product Name</code> e.g., <code>[AY1920S1-CS2113-T13-1] Contact List Pro</code>. <span class="dimmed"> As you merge code to your team repo's <code>master</code> branch, this PR will auto-update to reflect how much your team's product has progressed.</span> In the PR description <tooltip content="use @githubUserName">@mention</tooltip> the other team members so that they get notified when the tutor adds comments to the PR.</li>
+            </ol>
+
+            <p>All team members:</p>
+            <ol>
+              <li><strong>Watch</strong>the <code>main</code> repo (created above) i.e., go to the repo and click on the <code>watch</code> button to subscribe to activities of the repo</li>
+              <li><strong>Fork</strong> the <code>main</code> repo to your personal GitHub account.</li>
+              <li><strong>Clone</strong> the fork to your Computer.</li>
+              <li><em>Recommended</em>: Set it up as an Intellij project.</li>
+            </ol>
+            <p>Note that some of our download scripts depend on the following folder paths. Please set up the these paths in your project carefully.</p>
+            <ul>
+              <li><code>/src/main</code></li>
+              <li><code>/src/test</code></li>
+              <li><code>/docs</code></li>
+            </ul>
+          </div>
+        </div>
+      </modal>
       <h3 id="v1-2-project-management">v1.2 Project Management</h3>
       <ul>
         <li><span><span aria-hidden="true" class="fas fa-users"></span></span> Manage the milestone v1.2 as explained in <trigger trigger="click" for="modal:v12-projectTracking">[Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Appendix E: GitHub: Project Schedule Tracking]</trigger>.</li>
+        <li>To facilitate code review from the teaching team, make a pull request to the upstream organization as described below (extracted from <trigger trigger="click" for="modal:v12-repoSetup">[Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Appendix E: GitHub: Repo Setup]</trigger>):
+          <ul>
+            <li><strong>create a <em>team PR</em></strong> for us to track your project progress: i.e., create a PR from your <mark>team repo <code>master</code> branch</mark> to [<a href="https://github.com/nusCS2113-AY1920S1/PersonalAssistant-Duke">nuscs2113-AY1920S1/PersonalAssistant-Duke</a>] <code>master</code> branch. PR name: <code>[Team ID] Product Name</code> e.g., <code>[AY1920S1-CS2113-T13-1] Contact List Pro</code>. <span class="dimmed"> As you merge code to your team repo's <code>master</code> branch, this PR will auto-update to reflect how much your team's product has progressed.</span> In the PR description <tooltip content="use @githubUserName">@mention</tooltip> the other team members so that they get notified when the tutor adds comments to the PR.</li>
+          </ul>
+        </li>
       </ul>
       <h3 id="v1-2-product">v1.2 Product</h3>
       <ul>

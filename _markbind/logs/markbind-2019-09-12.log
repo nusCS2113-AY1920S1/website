@@ -1,0 +1,83 @@
+2019-09-12T14:04:29.225Z - info: Website generation started at 10:04:26 PM
+2019-09-12T14:04:32.156Z - info: Building assets...
+2019-09-12T14:04:33.805Z - info: Assets built
+2019-09-12T14:04:33.806Z - info: Generating pages...
+2019-09-12T14:07:03.980Z - info: Pages built
+2019-09-12T14:07:42.204Z - info: Website generation complete! Total build time: 195.206s
+2019-09-12T14:07:42.303Z - info: Serving "D:\Teaching\CS2113\AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-09-12T14:07:42.304Z - info: Press CTRL+C to stop ...
+2019-09-12T14:07:42.339Z - info: Site data built
+2019-09-12T14:09:58.259Z - info: [10:09:58 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-timeline.md
+2019-09-12T14:09:59.266Z - info: Rebuilding affected source files
+2019-09-12T14:09:59.280Z - info: Rebuilding 36 pages
+2019-09-12T14:10:13.755Z - info: Pages rebuilt
+2019-09-12T14:10:13.777Z - info: Site data built
+2019-09-12T15:04:02.537Z - info: Website generation started at 11:04:00 PM
+2019-09-12T15:04:04.312Z - info: Building assets...
+2019-09-12T15:04:05.868Z - info: Assets built
+2019-09-12T15:04:05.869Z - info: Generating pages...
+2019-09-12T15:06:47.216Z - info: Pages built
+2019-09-12T15:07:27.315Z - info: Website generation complete! Total build time: 206.723s
+2019-09-12T15:07:27.381Z - info: Serving "D:\Teaching\CS2113\AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-09-12T15:07:27.382Z - info: Press CTRL+C to stop ...
+2019-09-12T15:07:27.419Z - info: Site data built
+2019-09-12T15:23:53.034Z - info: [11:23:53 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\schedule\index.md
+2019-09-12T15:23:54.038Z - info: Rebuilding affected source files
+2019-09-12T15:23:54.045Z - info: Rebuilding 2 pages
+2019-09-12T15:23:54.832Z - info: Pages rebuilt
+2019-09-12T15:23:54.861Z - info: Site data built
+2019-09-12T15:24:32.825Z - info: Website generation started at 11:24:31 PM
+2019-09-12T15:24:34.578Z - info: Building assets...
+2019-09-12T15:24:36.214Z - info: Assets built
+2019-09-12T15:24:36.215Z - info: Generating pages...
+2019-09-12T15:27:07.364Z - info: Pages built
+2019-09-12T15:27:50.276Z - info: Website generation complete! Total build time: 199.173s
+2019-09-12T15:27:50.356Z - info: Serving "D:\Teaching\CS2113\AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-09-12T15:27:50.358Z - info: Press CTRL+C to stop ...
+2019-09-12T15:27:50.387Z - info: Site data built
+2019-09-12T15:32:16.321Z - info: [11:32:16 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\schedule\index.md
+2019-09-12T15:32:17.329Z - info: Rebuilding affected source files
+2019-09-12T15:32:17.334Z - info: Rebuilding 2 pages
+2019-09-12T15:32:17.933Z - info: Pages rebuilt
+2019-09-12T15:32:17.955Z - info: Site data built
+2019-09-12T15:34:00.819Z - info: [11:34:00 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\schedule\index.md
+2019-09-12T15:34:01.823Z - info: Rebuilding affected source files
+2019-09-12T15:34:01.825Z - info: Rebuilding 2 pages
+2019-09-12T15:34:01.910Z - error:  Template render error: (D:\Teaching\CS2113\AY1920Sem1\website\schedule\index.md) [Line 337, Column 7]
+  expected name as lookup value, got {
+Error while preprocessing 'D:\Teaching\CS2113\AY1920Sem1\website\index.md'
+    at Object._prettifyError (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:542:21)
+    at Environment.renderString (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:380:17)
+    at Object.renderString (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\index.js:99:14)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:297:28)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at dom.map (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+    at Tokenizer._finish (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:853:12)
+    at Tokenizer.end (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Tokenizer.js:844:25)
+2019-09-12T15:34:02.007Z - error: uncaughtException: (D:\Teaching\CS2113\AY1920Sem1\website\schedule\index.md) [Line 337, Column 7]
+  expected name as lookup value, got { date=Thu Sep 12 2019 23:34:01 GMT+0800 (Singapore Standard Time), pid=7000, uid=null, gid=null, cwd=D:\Teaching\CS2113\AY1920Sem1\website, execPath=C:\Program Files\nodejs\node.exe, version=v10.16.0, argv=[C:\Program Files\nodejs\node.exe, C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\index.js, serve], rss=229195776, heapTotal=171720704, heapUsed=128187424, external=256314, loadavg=[0, 0, 0], uptime=18323
+Template render error: (D:\Teaching\CS2113\AY1920Sem1\website\schedule\index.md) [Line 337, Column 7]
+  expected name as lookup value, got {
+    at Object._prettifyError (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:542:21)
+    at Environment.renderString (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:380:17)
+    at Object.renderString (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\index.js:99:14)
+    at fs.readFile (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:600:36)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-09-12T15:34:49.649Z - info: Website generation started at 11:34:47 PM
+2019-09-12T15:34:51.113Z - info: Building assets...
+2019-09-12T15:34:52.719Z - info: Assets built
+2019-09-12T15:34:52.721Z - info: Generating pages...
+2019-09-12T15:37:31.926Z - info: Pages built
+2019-09-12T15:38:10.103Z - info: Website generation complete! Total build time: 202.146s
+2019-09-12T15:38:10.182Z - info: Serving "D:\Teaching\CS2113\AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-09-12T15:38:10.183Z - info: Press CTRL+C to stop ...
+2019-09-12T15:38:10.216Z - info: Site data built

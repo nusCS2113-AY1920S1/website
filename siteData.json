@@ -4,6 +4,7 @@
     {
       "headings": {
         "week-9-oct-14": "Week 9 [Oct 14]",
+        "prepare-your-repo-for-code-review": "Prepare your repo for code-review",
         "project-demo": "Project demo",
         "tutorials": "Tutorials"
       },
@@ -516,6 +517,9 @@
     },
     {
       "headings": {
+        "ensuring-your-code-is-reposense-compatible": "Ensuring your code is RepoSense-Compatible",
+        "adding-author-tags-to-indicate-authorship": "Adding @@author tags to indicate authorship",
+        "what-to-and-what-not-to-annotate": "What to and what not to annotate",
         "project-mid-v1-3-week-10": "Project: mid-v1.3 [week 10] "
       },
       "title": "Admin: Project: mid-v1.3 [week 10]",
@@ -844,23 +848,33 @@
     },
     {
       "headings": {
-        "adding-author-tags-indicate-authorship": "Adding @@author tags indicate authorship",
+        "adding-author-tags-to-indicate-authorship": "Adding @@author tags to indicate authorship",
         "what-to-and-what-not-to-annotate": "What to and what not to annotate"
       },
+      "title": "config.json File Templates for RepoSense",
+      "header": "header.md",
+      "footer": "footer.md",
+      "head": "scheduleHead.md",
       "src": "admin/reposenseAuthorAnnotation.md",
-      "title": "",
       "layout": "default"
     },
     {
       "headings": {
-        "using-reposense": "Using RepoSense"
+        "using-reposense": "Using RepoSense",
+        "adding-author-tags-to-indicate-authorship": "Adding @@author tags to indicate authorship",
+        "what-to-and-what-not-to-annotate": "What to and what not to annotate"
       },
+      "title": "config.json File Templates for RepoSense",
+      "header": "header.md",
+      "footer": "footer.md",
+      "head": "scheduleHead.md",
       "src": "admin/reposenseCompatibility.md",
-      "title": "",
       "layout": "default"
     },
     {
-      "headings": {},
+      "headings": {
+        "providing-additional-information-to-reposense": "Providing additional information to Reposense"
+      },
       "title": "config.json File Templates for RepoSense",
       "header": "header.md",
       "footer": "footer.md",
@@ -882,7 +896,9 @@
     },
     {
       "headings": {
-        "tools": "Tools "
+        "tools": "Tools ",
+        "adding-author-tags-to-indicate-authorship": "Adding @@author tags to indicate authorship",
+        "what-to-and-what-not-to-annotate": "What to and what not to annotate"
       },
       "title": "Admin: Tools",
       "header": "header.md",

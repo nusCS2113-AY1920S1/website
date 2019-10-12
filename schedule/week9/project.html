@@ -272,9 +272,41 @@
                 </div>
               </div>
             </modal>
+            <modal large title="Admin <md>:glyphicon-log-in:</md> Appendix E: GitHub: Project Schedule Tracking" id="modal:v12-repoSetup">
+                <div>
+                <h2 id="repo-setup">Repo setup<a class="fa fa-anchor" href="#repo-setup"></a></h2>
+                <p>Only one team member:</p>
+                <ol>
+                  <li><strong>Fork</strong> <a href="https://github.com/nusCS2113-AY1920S1/PersonalAssistant-Duke">nuscs2113-AY1920S1/PersonalAssistant-Duke</a> to your team org.</li>
+                  <li><mark><strong>Rename</strong> the forked repo as <code>main</code></mark>. This repo (let's call it the <em>team repo</em>) is to be used as the repo for your project.</li>
+                  <li><mark>Ensure the issue tracker of your team repo is enabled.</mark> <span class="dimmed">Reason: our bots will be posting your weekly progress reports on the issue tracker of your team repo.</span></li>
+                  <li>Ensure your team members have the desired level of access to your team repo.</li>
+                  <li><strong>create a <em>team PR</em></strong> for us to track your project progress: i.e., create a PR from your <mark>team repo <code>master</code> branch</mark> to [<a href="https://github.com/nusCS2113-AY1920S1/PersonalAssistant-Duke">nuscs2113-AY1920S1/PersonalAssistant-Duke</a>] <code>master</code> branch. PR name: <code>[Team ID] Product Name</code> e.g., <code>[AY1920S1-CS2113-T13-1] Contact List Pro</code>. <span class="dimmed"> As you merge code to your team repo's <code>master</code> branch, this PR will auto-update to reflect how much your team's product has progressed.</span> In the PR description <tooltip content="use @githubUserName">@mention</tooltip> the other team members so that they get notified when the tutor adds comments to the PR.</li>
+                </ol>
+
+                <p>All team members:</p>
+                <ol>
+                  <li><strong>Watch</strong>the <code>main</code> repo (created above) i.e., go to the repo and click on the <code>watch</code> button to subscribe to activities of the repo</li>
+                  <li><strong>Fork</strong> the <code>main</code> repo to your personal GitHub account.</li>
+                  <li><strong>Clone</strong> the fork to your Computer.</li>
+                  <li><em>Recommended</em>: Set it up as an Intellij project.</li>
+                </ol>
+                <p>Note that some of our download scripts depend on the following folder paths. Please set up the these paths in your project carefully.</p>
+                <ul>
+                  <li><code>/src/main</code></li>
+                  <li><code>/src/test</code></li>
+                  <li><code>/docs</code></li>
+                </ul>
+              </div>
+            </modal>
             <h3 id="v1-2-project-management">v1.2 Project Management<a class="fa fa-anchor" href="#v1-2-project-management"></a></h3>
             <ul>
               <li><span><span aria-hidden="true" class="fas fa-users"></span></span> Manage the milestone v1.2 as explained in <trigger trigger="click" for="modal:v12-projectTracking">[Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Appendix E: GitHub: Project Schedule Tracking]</trigger>.</li>
+              <li>To facilitate code review from the teaching team, make a pull request to the upstream organization as described below (extracted from <trigger trigger="click" for="modal:v12-repoSetup">[Admin <span><span aria-hidden="true" class="glyphicon glyphicon-log-in"></span></span> Appendix E: GitHub: Repo Setup]</trigger>):
+                <ul>
+                  <li><strong>create a <em>team PR</em></strong> for us to track your project progress: i.e., create a PR from your <mark>team repo <code>master</code> branch</mark> to [<a href="https://github.com/nusCS2113-AY1920S1/PersonalAssistant-Duke">nuscs2113-AY1920S1/PersonalAssistant-Duke</a>] <code>master</code> branch. PR name: <code>[Team ID] Product Name</code> e.g., <code>[AY1920S1-CS2113-T13-1] Contact List Pro</code>. <span class="dimmed"> As you merge code to your team repo's <code>master</code> branch, this PR will auto-update to reflect how much your team's product has progressed.</span> In the PR description <tooltip content="use @githubUserName">@mention</tooltip> the other team members so that they get notified when the tutor adds comments to the PR.</li>
+                </ul>
+              </li>
             </ul>
             <h3 id="v1-2-product">v1.2 Product<a class="fa fa-anchor" href="#v1-2-product"></a></h3>
             <ul>
@@ -332,7 +364,7 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Fri, 11 Oct 2019 06:09:36 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Sat, 12 Oct 2019 05:08:21 GMT</small></div>
     </footer>
   </div>
 </body>
