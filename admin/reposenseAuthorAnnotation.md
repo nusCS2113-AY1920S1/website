@@ -1,4 +1,13 @@
-#### Adding `@@author` tags indicate authorship
+<frontmatter>
+title: "config.json File Templates for RepoSense"
+header: header.md
+footer: footer.md
+head: scheduleHead.md
+</frontmatter>
+
+<div id="author_tags">
+
+### Adding `@@author` tags to indicate authorship
 
 * Mark your code with a `//@@author {yourGithubUsername}`. Note the double `@`.<br>
 The `//@@author` tag should indicates the beginning of the code you wrote. The code up to the next `//@@author` tag or the end of the file (whichever comes first) will be considered as was written by that author.
@@ -52,7 +61,11 @@ The `//@@author` tag should indicates the beginning of the code you wrote. The c
      */
    ```
 
-#### What to and what not to annotate
+</div>
+
+<div id="annotating_guidelines">
+
+### What to and what not to annotate
 
 * **Annotate both functional and test code** There is no need to annotate documentation files.
 
@@ -90,3 +103,4 @@ The `//@@author` tag should indicates the beginning of the code you wrote. The c
 
   * **Code you modified in minor ways** e.g. adding a parameter. These should not be claimed as yours but you can mention these additional contributions in the Project Portfolio page if you want to claim credit for them.
 
+</div>
