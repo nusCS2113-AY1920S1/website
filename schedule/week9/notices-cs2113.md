@@ -1,6 +1,11 @@
 {% from "schedule/index.md" import show_week_pagetop with context%}
 {{ show_week_pagetop(9, "notices") }}
 
+## Prepare your repo for code-review
+
+- Instructions to create a PR to the upstream repo is included in [v1.2 Project Management](https://nuscs2113-ay1920s1.github.io/website/schedule/week9/project.html#v1-2-project-management).
+- The teaching team will provide feedback on the quality of your code using this PR.
+ 
 ## Project demo
 
 - Do an informal and succinct demo to your tutor. One person can demonstrate all the features you have implemented.  
