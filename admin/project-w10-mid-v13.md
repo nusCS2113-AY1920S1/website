@@ -8,7 +8,37 @@
 
 <p class="lead" style="color: purple"><md>:far-calendar-check: <include src="project-timeline.md#mid-v13-overview" inline /></md></p>
 
-<!--
+**<big>Submission</big>**
+
+* Submit the **updated developer guide (pdf)** this week on LumiNUS.
+* Ensure that you follow the proper naming convention.
+  * The file name should be `[Team id]-Product name-DG.pdf` e.g., `[AY1920S1-CS2113T-F10-3]-ProDuke-DG.pdf`
+  * %%While we won't penalize you now, you will be penalized for not adhering to the naming convention in your final submission%%
+
+**<big>Product:</big>**
+
+* {{ icon_important_big_red }} **Do a <tooltip content="resulting in a jar file on GitHub that can be downloaded by potential users">proper product release</tooltip>** [as described in the reference project DevOps page](https://github.com/nusCS2113-AY1920S1/addressbook-level3/blob/master/docs/DevOps.adoc#5-making-a-release). 
+ You can name it something like `v1.2.1`.  
+ ==Ensure that the jar file works as expected== by doing some manual testing.  
+ %%Reason: You are _required_ to do a proper product release for v1.3. Doing a trial at this point will help you iron out any problems in advance.  
+ It may take additional effort to get the jar working especially if you use third party libraries or additional assets such as images.%%
+
+
+**<big>Documentation:</big>**
+
+* **User Guide**: Update where the document does not match the current product.
+* **Developer Guide**:   
+  * ==Each member should describe the implementation of at least one enhancement (s)he has added== (or planning to add). <br>
+      Expected length: 1+ page of technical content per person
+    * The description can contain things such as,
+      * How the feature is implemented.
+      * Why it is implemented that way.
+      * Alternatives considered.
+    * The stated objective is to explain the implementation to a future developer, but a hidden objective is to show evidence that you can document deeply-technical content using prose, examples, diagrams, code snippets, etc. appropriately. To that end, you may also describe features that you plan to implement in the future, even beyond v1.4 (hypothetically).
+    * For an example, see [the description of the undo/redo feature implementation in the reference project's developer guide](https://github.com/nusCS2113-AY1920S1/addressbook-level3/blob/master/docs/DeveloperGuide.adoc#proposed-undoredo-feature).
+  * Move the user stories, use cases and NFR under Appendix: Requirements
+
+
 
 **<big>Project Management:</big>**
 
@@ -22,20 +52,9 @@
   <include src="reposenseCompatibility.md#main" />
 </panel>
 
-**<big>Product:</big>**
-
-* {{ icon_important_big_red }} **Do a <tooltip content="resulting in a jar file on GitHub that can be downloaded by potential users">proper product release</tooltip>** [as described in the Developer Guide](https://nus-{{ module | lower }}-{{ semester }}.github.io/addressbook-level4/DeveloperGuide.html#making-a-release). You can name it something like `v1.2.1`. ==Ensure that the jar file works as expected== by doing some manual testing. %%Reason: You are _required_ to do a proper product release for v1.3. Doing a trial at this point will help you iron out any problems in advance. It may take additional effort to get the jar working especially if you use third party libraries or additional assets such as images.%%
-
-
-**<big>Documentation:</big>**
-
-* **User Guide**: Update where the document does not match the current product.
-* **Developer Guide**: Similar to the User Guide.
-
--->
-
 </div>
 </div>
+
 {% endmacro %}
 
 {% from "common/admin.njk" import show_admin_page with context %}
