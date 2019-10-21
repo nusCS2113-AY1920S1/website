@@ -3,10 +3,8 @@
   "pages": [
     {
       "headings": {
-        "week-9-oct-14": "Week 9 [Oct 14]",
-        "prepare-your-repo-for-code-review": "Prepare your repo for code-review",
-        "project-demo": "Project demo",
-        "tutorials": "Tutorials"
+        "week-10-oct-21": "Week 10 [Oct 21]",
+        "reposense": "RepoSense"
       },
       "title": "Home",
       "header": "header.md",
