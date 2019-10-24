@@ -530,7 +530,13 @@
     },
     {
       "headings": {
-        "project-v1-3-week-11": "Project: v1.3 [week 11] "
+        "project-v1-3-week-11": "Project: v1.3 [week 11] ",
+        "v1-3-project-management": "v1.3 Project Management",
+        "v1-3-product": "v1.3 Product",
+        "v1-3-documentation": "v1.3 Documentation",
+        "project-portfolio-page-ppp": "Project Portfolio Page (PPP)",
+        "v1-3-demo": "v1.3 Demo",
+        "v1-3-testing-aka-practical-exam-dry-run": "v1.3 Testing (aka Practical Exam Dry Run)"
       },
       "title": "Admin: Project: v1.3 [week 11]",
       "header": "header.md",

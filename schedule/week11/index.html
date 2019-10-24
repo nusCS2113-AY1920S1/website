@@ -117,7 +117,7 @@
                 <li>Ensure that the file names are accurate. While there is no penalty now for non-compliance, you will lose marks for making similar mistakes in the final submission.</li>
               </ul>
             </li>
-            <li><mark>The submission folder <code>Project submission v1.3</code> will be open from April 1, 2019 12:00 am to April 2, 2019 11:59 pm</mark></li>
+            <li><mark>The submission folder <code>Project submission v1.3</code> will be open from Oct 29, 2019 00:00 am to Oct 31, 2019 11:59 pm</mark></li>
           </ul>
           <div class="table-responsive">
             <table class="markbind-table table table-bordered table-striped">
@@ -131,24 +131,23 @@
               <tbody>
                 <tr>
                   <td><span><span aria-hidden="true" class="fas fa-users"></span></span> User Guide</td>
-                  <td><code>[TEAM_ID][product Name]UserGuide.pdf</code><br> <span class="dimmed">e.g.[M11-1][Contacts Plus]UserGuide.pdf</span></td>
+                  <td><code>[TEAM_ID]-[product Name]-UG.pdf</code><br> <span class="dimmed">e.g.<code>[AY1920S1-CS2113T-F10-3]-ProDuke-UG.pdf</code></span></td>
                   <td>LumiNUS</td>
                 </tr>
                 <tr>
                   <td><span><span aria-hidden="true" class="fas fa-users"></span></span> Developer Guide</td>
-                  <td><code>[TEAM_ID][product Name]DeveloperGuide.pdf</code><br> <span class="dimmed">e.g. [M11-1][Contacts Plus]DeveloperGuide.pdf</span></td>
+                  <td><code>[TEAM_ID]-[product Name]-DG.pdf</code><br> <span class="dimmed">e.g. <code>[AY1920S1-CS2113T-F10-3]-ProDuke-DG.pd</code>f</span></td>
                   <td>LumiNUS</td>
                 </tr>
                 <tr>
                   <td><span><span aria-hidden="true" class="fas fa-user"></span></span> Project Portfolio Page</td>
-                  <td><code>[TEAM_ID][Your Name]Portfolio.pdf</code><br> <span class="dimmed">e.g.[M11-1][John Doe]Portfolio.pdf</span><br>html version of PPP page on the product website</td>
-                  <td>LumiNUS<br><br><a href="http://github.io">github.io</a></td>
+                  <td><code>[TEAM_ID]-[Your Name]PPP.pdf</code><br> <span class="dimmed">e.g.<code>[AY1920S1-CS2113T-F10-3][John Doe]PPP.pdf</code></span></td>
+                  <td>LumiNUS</td>
                 </tr>
               </tbody>
             </table>
           </div>
           <h2 id="faq-for-reposense">FAQ for Reposense<a class="fa fa-anchor" href="#faq-for-reposense"></a></h2>
-          <p><mark>(Copying over from the announcement last week)</mark></p>
           <ol>
             <li>
               <p>My contributions are not detected in the reposense report, why?</p>
@@ -159,12 +158,7 @@
                     <li>Have you used different git user name while doing the work? Run <code>git log</code> command on the command line/terminal and look for the <code>Author</code> field.</li>
                   </ol>
                 </li>
-                <li>If the above are correct, you may want to provide a config file to give additional details to reposense (check the reposense documentation mentioned above)
-                  <ol>
-                    <li>You need to commit the config file before running reposense, else the config won't be picked up by the tool.</li>
-                  </ol>
-                </li>
-                <li>Do note: <em>if you include a config file, entries pertaining to all members of the team must be in the config file</em>.</li>
+                <li>If the above are correct, you should provide the additional names appearing on <code>git log</code> to the lecturer.</li>
               </ol>
             </li>
             <li>
@@ -172,6 +166,7 @@
               <ol>
                 <li>Use <code>@@author</code> tags to identify your code contribution in the source files.</li>
                 <li>Follow the instructions given in the reposense documentation for this</li>
+                <li>Specifically, don't put <code>@@author</code> tags inside Javadoc comments, it should be placed before the Javadoc comments.</li>
               </ol>
             </li>
             <li>
@@ -184,7 +179,7 @@
             <li>
               <p>How frequently is the reposense report generated?</p>
               <ol>
-                <li>Reposense is configured to run the report every Monday. i.e., the report is generated weekly.</li>
+                <li>Reposense is configured to run the report everyday.</li>
               </ol>
             </li>
             <li>
@@ -221,7 +216,7 @@
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Tue, 22 Oct 2019 05:26:19 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Thu, 24 Oct 2019 23:12:04 GMT</small></div>
     </footer>
   </div>
 </body>
