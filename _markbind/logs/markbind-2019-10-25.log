@@ -224,3 +224,256 @@
 2019-10-24T23:15:56.670Z - info: Deployed!
 2019-10-25T02:22:48.389Z - info: Website generation started at 10:22:47 AM
 2019-10-25T02:22:49.329Z - info: Building assets...
+2019-10-25T02:22:50.244Z - info: Assets built
+2019-10-25T02:22:50.245Z - info: Generating pages...
+2019-10-25T02:24:12.111Z - info: Pages built
+2019-10-25T02:24:36.764Z - info: Website generation complete! Total build time: 109.168s
+2019-10-25T02:24:36.765Z - info: Build success!
+2019-10-25T02:24:36.771Z - info: Site data built
+2019-10-25T02:25:04.369Z - info: Deployed!
+2019-10-25T02:36:42.133Z - info: Website generation started at 10:36:41 AM
+2019-10-25T02:36:43.013Z - info: Building assets...
+2019-10-25T02:36:44.189Z - info: Assets built
+2019-10-25T02:36:44.189Z - info: Generating pages...
+2019-10-25T02:36:44.576Z - error:  Error: No such file: D:\Teaching\CS2113\AY1920Sem1\website\schedule\week11\project-testing.mbdf
+Missing reference in D:\Teaching\CS2113\AY1920Sem1\website\schedule\week11\notices-cs2113.md
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+2019-10-25T02:36:47.115Z - error:  Error: No such file: D:\Teaching\CS2113\AY1920Sem1\website\schedule\week11\project-testing.mbdf
+Missing reference in D:\Teaching\CS2113\AY1920Sem1\website\schedule\week11\notices-cs2113.md
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at dom.map (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+    at DomHandler._handleCallback.DomHandler.onerror (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:52:8)
+    at DomHandler.onend (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\domhandler\index.js:46:7)
+    at Parser.onend (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\htmlparser2\lib\Parser.js:310:32)
+2019-10-25T02:37:19.906Z - error:  Error: No such file: D:\Teaching\CS2113\AY1920Sem1\website\schedule\week11\project-testing.mbdf
+Missing reference in D:\Teaching\CS2113\AY1920Sem1\website\schedule\week11\notices-cs2113.md
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+2019-10-25T02:38:16.701Z - info: Pages built
+2019-10-25T02:38:36.611Z - info: Website generation complete! Total build time: 115.256s
+2019-10-25T02:38:36.664Z - info: Serving "D:\Teaching\CS2113\AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-10-25T02:38:36.664Z - info: Press CTRL+C to stop ...
+2019-10-25T02:38:36.683Z - info: Site data built
+2019-10-25T02:39:16.032Z - info: [10:39:16 AM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-10-25T02:39:17.039Z - info: Rebuilding affected source files
+2019-10-25T02:39:17.051Z - info: Rebuilding 24 pages
+2019-10-25T02:39:17.520Z - error:  Error: No such file: D:\Teaching\CS2113\AY1920Sem1\admin\project-testing.mbdf
+Missing reference in D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-25T02:39:18.110Z - error:  Error: No such file: D:\Teaching\CS2113\AY1920Sem1\admin\project-testing.mbdf
+Missing reference in D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-25T02:39:20.499Z - error:  Error: No such file: D:\Teaching\CS2113\AY1920Sem1\admin\project-testing.mbdf
+Missing reference in D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-25T02:39:21.482Z - error:  Error: No such file: D:\Teaching\CS2113\AY1920Sem1\admin\project-testing.mbdf
+Missing reference in D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at dom.map (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+2019-10-25T02:39:25.577Z - error:  Error: No such file: D:\Teaching\CS2113\AY1920Sem1\admin\project-testing.mbdf
+Missing reference in D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-25T02:39:26.320Z - error:  Error: No such file: D:\Teaching\CS2113\AY1920Sem1\admin\project-testing.mbdf
+Missing reference in D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at dom.map (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:567:28)
+    at Array.map (<anonymous>)
+    at DomHandler.htmlparser.DomHandler [as _callback] (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:564:25)
+2019-10-25T02:39:32.243Z - info: Pages rebuilt
+2019-10-25T02:39:32.289Z - info: Site data built
+2019-10-25T02:39:52.571Z - info: Website generation started at 10:39:51 AM
+2019-10-25T02:39:53.422Z - info: Building assets...
+2019-10-25T02:39:54.236Z - info: Assets built
+2019-10-25T02:39:54.237Z - info: Generating pages...
+2019-10-25T02:39:54.639Z - error:  Error: No such file: D:\Teaching\CS2113\AY1920Sem1\website\schedule\week11\project-testing.mbdf
+Missing reference in D:\Teaching\CS2113\AY1920Sem1\website\schedule\week11\notices-cs2113.md
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+2019-10-25T02:40:12.685Z - info: Website generation started at 10:40:12 AM
+2019-10-25T02:40:13.552Z - info: Building assets...
+2019-10-25T02:40:14.506Z - info: Assets built
+2019-10-25T02:40:14.507Z - info: Generating pages...
+2019-10-25T02:40:15.216Z - error:  Error: No such file: D:\Teaching\CS2113\AY1920Sem1\website\schedule\week11\project-testing.mbdf
+Missing reference in D:\Teaching\CS2113\AY1920Sem1\website\schedule\week11\notices-cs2113.md
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:225:21)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\Users\anarayan\AppData\Roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+2019-10-25T02:41:20.963Z - info: Website generation started at 10:41:20 AM
+2019-10-25T02:41:21.817Z - info: Building assets...
+2019-10-25T02:41:22.652Z - info: Assets built
+2019-10-25T02:41:22.652Z - info: Generating pages...
+2019-10-25T02:42:53.570Z - info: Pages built
+2019-10-25T02:43:11.724Z - info: Website generation complete! Total build time: 111.087s
+2019-10-25T02:43:11.761Z - info: Serving "D:\Teaching\CS2113\AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-10-25T02:43:11.761Z - info: Press CTRL+C to stop ...
+2019-10-25T02:43:11.780Z - info: Site data built
+2019-10-25T02:45:35.810Z - info: [10:45:35 AM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\schedule\week11\notices-cs2113.md
+2019-10-25T02:45:36.820Z - info: Rebuilding affected source files
+2019-10-25T02:45:36.824Z - info: Rebuilding 3 pages
+2019-10-25T02:45:38.277Z - info: Pages rebuilt
+2019-10-25T02:45:38.300Z - info: Site data built
+2019-10-25T02:45:43.123Z - info: [10:45:43 AM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\schedule\week11\notices-cs2113.md
+2019-10-25T02:45:44.128Z - info: Rebuilding affected source files
+2019-10-25T02:45:44.132Z - info: Rebuilding 3 pages
+2019-10-25T02:45:45.123Z - info: Pages rebuilt
+2019-10-25T02:45:45.137Z - info: Site data built
+2019-10-25T02:50:07.401Z - info: [10:50:07 AM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-testing.mbdf
+2019-10-25T02:50:08.410Z - info: Rebuilding affected source files
+2019-10-25T02:50:08.415Z - info: Rebuilding 9 pages
+2019-10-25T02:50:21.906Z - info: Pages rebuilt
+2019-10-25T02:50:21.927Z - info: Site data built
+2019-10-25T02:50:45.460Z - info: Website generation started at 10:50:43 AM
+2019-10-25T02:50:47.932Z - info: Building assets...
