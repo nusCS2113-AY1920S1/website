@@ -128,9 +128,9 @@ At the end of the project each student is required to submit a _Project Portfoli
     * your documentation skills
 
 * **Sections to include:**
-  * **Overview**: A short overview of your product to provide some context to the reader.
+  * **Overview**: A short overview of your product (can use the product introduction you wrote earlier) to provide some context to the reader.
   * **Summary of Contributions**:
-    * **Code contributed**: Give a link to your code on [Project Code Dashboard](https://nus{{ module | lower }}-{{ semester | lower }}.github.io/{{ module | lower }}-dashboard), which should be `https://nus{{ module | lower }}-{{ semester | lower }}.github.io/dashboard-beta/#=undefined&search=github_username_in_lower_case` (==replace `github_username_in_lower_case` with your actual username== in lower case e.g., `johndoe`). This link is also available in the [Project List Page]({{baseUrl}}/admin/projectList.html) -- linked to the :fas-code: icon under your photo.
+    * **Code contributed**: Give a link to your code on [Project Code Dashboard](https://nus{{ module | lower }}-{{ semester | lower }}.github.io/dashboard), which should be `https://nus{{ module | lower }}-{{ semester | lower }}.github.io/dashboard/#=undefined&search=github_username_in_lower_case` (==replace `github_username_in_lower_case` with your actual username== in lower case e.g., `johndoe`). This link is also available in the [Project List Page]({{baseUrl}}/admin/projectList.html) -- linked to the :fas-code: icon under your photo.
     * **Features implemented:** A summary of the features you implemented. If you implemented multiple features, you are recommended to indicate which one is the biggest feature.
     * **Other contributions:**
       * Contributions to project management %%e.g., setting up project tools, managing releases, managing issue tracker etc.%%
@@ -145,31 +145,32 @@ At the end of the project each student is required to submit a _Project Portfoli
   * If you plan to use the PPP in your Resume, you can also include your SE work outside of the module (will not be graded)
 
 * **Format**:
-  * File name: `docs/team/githbub_username_in_lower_case.pdf` e.g., `docs/team/johndoe.pdf`
+  * File name: `[TEAM_ID]-[Your Name]PPP.pdf` e.g., `[AY1920S1-CS2113T-F10-3][John Doe]PPP.pdf`
   
   * **Use one-half spacing between the lines** for legibility
   
-  * {{ icon_example }} Follow the [example in the AddressBook-Level3](https://nus{{ module | lower }}-{{ semester | lower }}.github.io/addressbook-level3/team/johndoe.html)
+  * {{ icon_example }} Follow [this example](https://github.com/nus-cs2103-AY1920S1/addressbook-level3/blob/master/docs/team/johndoe.adoc). A PDF version of the same has been uploaded on LumiNUS.
 
   * :bulb: You are free to choose any (collaborative) software to write the documents. However, try to follow the format of the sample user guide, developer guide and PPP given.
   
   * Do note that **extra effort** is needed in duplicating and maintaining consistency across UG/DG and PPP. This is a cost of not using automated  document generation.
   
-  * =={{ icon_important_big_red }} It is assumed that all contents in the PPP were written primarily by you.== If any section is written by someone else %%&nbsp;e.g. someone else wrote described the feature in the User Guide but you implemented the feature%%, clearly state that the section was written by someone else %%&nbsp;(e.g. `Start of Extract [from: User Guide] written by Jane Doe`)%%. %%&nbsp;Reason: Your writing skills will be evaluated based on the PPP%%
+  * =={{ icon_important_big_red }} It is assumed that all contents in the PPP were written primarily by you.== If any section is written by someone else %%&nbsp;e.g. someone else described the feature in the User Guide but you implemented the feature%%, clearly state that the section was written by someone else %%&nbsp;(e.g. `Start of Extract [from: User Guide] written by Jane Doe`)%%. %%&nbsp;Reason: Your writing skills will be evaluated based on the PPP%%
 
 <!--
-  * :bulb: You can use the [Asciidoc's `include` feature](http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#include-files) to include sections from the developer guide or the user guide in your PPP. Follow the example in the [sample](https://nus{{ module | lower }}-{{ semester | lower }}.github.io/addressbook-level4/team/johndoe.html).
+  * :bulb: You can use the [Asciidoc's `include` feature](http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#include-files) to include sections from the developer guide or the user guide in your PPP. Follow the example in the [sample](https://github.com/nus-cs2103-AY1920S1/addressbook-level3/blob/master/docs/team/johndoe.adoc).
 -->
 
 * **Page limit**:
   Content | Limit
   ------- | -----
   Overview + Summary of contributions | 0.5-1 (soft limit)
-  Contributions to the User Guide | 1-3 (soft limit)
-  Contributions to the Developer Guide | 3-6 (soft limit)
-  Total | 5-10 ==(strict)==
+  Contributions to the User Guide | 2-4 (soft limit)
+  Contributions to the Developer Guide | 3-5 (soft limit)
+  Total | 5-8 ==(strict)==
 
   <!-- * The ==page limits given above are _after_ converting to PDF format==. The actual amount of content you require is actually less than what these numbers suggest because the HTML → PDF conversion adds a lot of spacing around content. -->
+  
   * %%Reason for page limit: These submissions are peer-graded (in the PE) which needs to be done in a limited time span.%%<br>
    
   * If you have more content than the limit given above, you can give a representative samples of UG and DG that showcase your documentation skills. Those samples should be understandable on their own. For the parts left-out, you can give an abbreviated version and refer the reader to the full UG/DG for more details.<br>
