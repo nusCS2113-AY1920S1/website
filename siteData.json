@@ -3,8 +3,11 @@
   "pages": [
     {
       "headings": {
-        "week-10-oct-21": "Week 10 [Oct 21]",
-        "reposense": "RepoSense"
+        "week-11-oct-28": "Week 11 [Oct 28]",
+        "project": "Project",
+        "demo-during-tutorial": "Demo during tutorial",
+        "mock-submissions-this-week": "(Mock) Submissions this week",
+        "faq-for-reposense": "FAQ for Reposense"
       },
       "title": "Home",
       "header": "header.md",
