@@ -6,24 +6,40 @@
 ### Demo
 **Two members together do a quick demo of your v1.3 using the jar file**
 
-### Questions
+### Suggested tutorial activity
+
+**Test case design**
 
 ==Whole team: do this question together, using the whiteboard==
-
-**Q1.**
 
 <div class="indented">
   <include src="../../book/testCaseDesign/combiningTestInputs/mix/q-testCasesForConsumeMethod.md" />
 </div>
 <br>
 
+### Questions
+
 ==Divide the following questions among team members and get ready to answer them.==
+
+**Q1**
+
+1. What is _Liskov Substitution Principle_?<br>
+   Give an example from the project where LSP is followed and explain how to change the code to break LSP.
+1. Explain how _Law of Demeter_ affects coupling<br>
+   a. Add a line to this code that violates LoD
+   ```java
+   void foo(P p){
+       //...
+   }
+   ```
+1. Give an example in the project code that violates the _Law of Demeter_.
 
 **Q2.** Design patterns.
 1. When do you use _MVC_ pattern? Do we have MVC in AB4?
-1. When do you use the Singleton pattern, Facade pattern, Command pattern? 
-1. When do you use the _Observer_ pattern? Do we have the Observer pattern in AB4?
-
+1. When do you use the Singleton pattern, Command pattern? 
+<!--
+1. When do you use the _Facade_ pattern; _Observer_ pattern? Do we have the Observer pattern in AB4?
+-->
 **Q3.** Process models
 
 1. Distinguish between _sequential_ and _iterative_ processes. Which one are we using in the project?
