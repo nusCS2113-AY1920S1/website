@@ -477,3 +477,10 @@ Missing reference in D:\Teaching\CS2113\AY1920Sem1\website\schedule\week11\notic
 2019-10-25T02:50:21.927Z - info: Site data built
 2019-10-25T02:50:45.460Z - info: Website generation started at 10:50:43 AM
 2019-10-25T02:50:47.932Z - info: Building assets...
+2019-10-25T02:50:49.997Z - info: Assets built
+2019-10-25T02:50:49.999Z - info: Generating pages...
+2019-10-25T02:54:35.747Z - info: Pages built
+2019-10-25T02:55:26.571Z - info: Website generation complete! Total build time: 283.283s
+2019-10-25T02:55:26.573Z - info: Build success!
+2019-10-25T02:55:26.585Z - info: Site data built
+2019-10-25T02:56:05.063Z - info: Deployed!
