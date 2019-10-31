@@ -3,12 +3,12 @@
 
 <p class="lead" style="color: purple"><md>:far-calendar-check: <include src="project-timeline.md#mid-v14-overview" inline /></md></p>
 
-<!--
+
 
 **<big>Project Management:</big>**
 
 * **Freeze features** around this time. Ensure the current product have all the features you intend to release at v1.4. Adding major changes after this point is risky. The remaining time is better spent fixing problems discovered late or on fine-tuning the product.
-* {{ icon_important_big_red }} Ensure the code attributed to you by RepoSense is correct, as reported in the [Project Activity Dashboard](https://nus-{{ module | lower }}-{{ semester | lower }}.github.io/{{ module | lower }}-dashboard)
+* {{ icon_important_big_red }} Ensure the code attributed to you by RepoSense is correct, as reported in the [Project Activity Dashboard](https://nus{{ module | lower }}-{{ semester | lower }}.github.io/dashboard)
 
 <div class="indented-level2">
 {{ embed_topic("reposenseCompatibility.md#main", "Admin " + icon_embedding + " Tools → Using RepoSense", "midv14_repoSenseCompatibility", "1") }}
@@ -31,7 +31,7 @@
 
 * Update documentation to match the product.
 
-* Create the first version of your _Project Portfolio Page (PPP)_. Reason: **Each member needs to create a PPP** to describe your contribution to the project. Creating a PPP takes a significant effort; it is ==too risky to leave it to the last week of the project==. 
+* Update your _Project Portfolio Page (PPP)_ appropriately. Reason: **Each member needs to create a PPP** to describe your contribution to the project. Creating a PPP takes a significant effort; it is ==too risky to leave it to the last week of the project==. 
 
 
 <div class="indented-level2">
@@ -50,7 +50,6 @@
   <include src="project-deliverables.md#project-deliverables-demo"/>
 </modal> 
 
--->
 
 </div>
 {% endmacro %}
