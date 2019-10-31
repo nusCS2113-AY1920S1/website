@@ -11,10 +11,8 @@ Here is a list of main deliverables of the project; their details are given in t
   * [Product Website](#deliverable-product-website)
   * [Project Portfolio Page](#deliverable-project-portfolio-page-ppp)
 * [Product Demo](#deliverable-demo)
-* [Practical Exam Dry Run](#deliverable-practical-exam-dry-run)
-* [Practical Exam](#deliverable-practical-exam)
-  * Peer testing results
-  * Peer evaluation
+* [Practical Exam Dry Run (PE-D)](#deliverable-practical-exam-dry-run-pe-d)
+* [Practical Exam (PE)](#deliverable-practical-exam-pe)
 
 
 ### Deliverable: Executable
@@ -218,7 +216,7 @@ At the end of the project each student is required to submit a _Project Portfoli
 
 </span>
 
-### Deliverable: Practical Exam (Dry Run)
+### Deliverable: Practical Exam Dry Run (PE-D)
 
 <span id="project-deliverables-practicalexam-dry-run">
 
@@ -240,6 +238,7 @@ At the end of the project each student is required to submit a _Project Portfoli
 * **To train you** to do manual testing, bug reporting, bug <tooltip content="assigning of priority order">triaging,</tooltip> bug fixing, communicating with users/testers/developers, evaluating products etc.
 * **To help you improve your product** before the final submission.
 
+**Preparation**
 <include src="project-testing.mbdf#testingPreparations" />
 
 **During the session**:
@@ -252,43 +251,87 @@ At the end of the project each student is required to submit a _Project Portfoli
 
 ##### Testing instructions for PE and PE Dry Run
 
-* **What to test**:
-  * PE Dry Run (at **v1.3**):
-    * Test the product ==based on the User Guide== (the UG is most likely accessible using the `help` command).
-    * Do ==_system_ testing first== %%i.e., does the product work as specified by the documentation?%%. If there is time left, you can ==do _acceptance_ testing as well== %%i.e., does the product solve the problem it claims to solve?%%.
-  * PE (at **v1.4**):
-    * Test ==based on the Developer Guide== (Appendix named _Instructions for Manual Testing_) ==and the User Guide==. The testing instructions in the Developer Guide can provide you some guidance but if you follow those instructions strictly, you are unlikely to find many bugs. You can deviate from the instructions to probe areas that are more likely to have bugs.
-    * As before, do both ==system testing and acceptance testing== but give priority to system testing as system testing bugs can earn you more credit.
+**Launching the JAR file**  
 
-* **These are considered _bugs_**:
-  * Behavior differs from the User Guide (or Developer Guide)
-  * A legitimate user behavior is not handled %%e.g. incorrect commands, extra parameters%%
-  * Behavior is not specified and differs from normal expectations %%e.g. error message does not match the error%%
-  * The feature does not solve the stated problem of the intended user i.e., the feature is 'incomplete'
-  * Problems in the User Guide e.g., missing/incorrect info
+* Put the jar file in an empty folder.
+* Open a command window. Run the java -version command to ensure you are using Java 11.
+* Launch the jar file using the java -jar command (do not use double-clicking).
+* **If the product doesn't work at all:** If the product fails catastrophically e.g., cannot even launch, you can test the fallback team allocated to you. But in this case ==you must inform us immediately during/after the session== so that we can send your bug reports to the correct team.
+  * PE-D: Download the JAR file from their GitHub page
+  * PE: 1. Download from LumiNUS all files submitted by the team (i.e. jar file, User Guide, Developer Guide, and Project Portfolio Pages) into an empty folder.
 
-* **Where to report bugs**: Post bug in the following issue trackers (==not in the team's repo==):
-  * PE Dry Run (at **v1.3**): [nus{{ module }}-{{ semester }}/**pe-dry-run**]({{module_org}}/pe-dry-run/issues).
-  * PE (at **v1.4**): [nus{{ module }}-{{ semester }}/**pe**]({{module_org}}/pe/issues).
+**What to test**:
 
-* **Bug report format**:
-  * {{ icon_important_big_red }} Post bugs as you find them %%(i.e., do not wait to post all bugs at the end)%% because the issue tracker will close exactly at the end of the allocated time.
+* PE Dry Run (at **v1.3**):
+  * Test the product ==based on the User Guide== (the UG is most likely accessible using the `help` command).
+  * Do ==_system_ testing first== %%i.e., does the product work as specified by the documentation?%%. If there is time left, you can ==do _acceptance_ testing as well== %%i.e., does the product solve the problem it claims to solve?%%.
+* PE (at **v1.4**):
+  * Test ==based on the Developer Guide== (Appendix named _Instructions for Manual Testing_) ==and the User Guide==. The testing instructions in the Developer Guide can provide you some guidance but if you follow those instructions strictly, you are unlikely to find many bugs. You can deviate from the instructions to probe areas that are more likely to have bugs.
+  * As before, do both ==system testing and acceptance testing== but give priority to system testing as system testing bugs can earn you more credit.
+
+**These are considered _bugs_**:
+
+* Behavior differs from the User Guide (or Developer Guide)
+* A legitimate user behavior is not handled %%e.g. incorrect commands, extra parameters%%
+* Behavior is not specified and differs from normal expectations %%e.g. error message does not match the error%%
+* The feature does not solve the stated problem of the intended user i.e., the feature is 'incomplete'
+* Problems in the User Guide e.g., missing/incorrect info
+
+**About posting _suggestions_:**
+
+* PE Dry Run (at **v1.3**): You can also post suggestions on how to improve the product. :bulb: Be diplomatic when reporting bugs or suggesting improvements. For example, instead of criticising the current behavior, simply suggest alternatives to consider.
+* PE (at **v1.4**): Do not post suggestions. But if a feature is missing a critical functionality that makes the feature less useful to the intended user, it can be reported as a bug.
+  
+**How/where to report bugs**:  
+* {{ icon_important_big_red }} Post bugs as you find them %%(i.e., do not wait to post all bugs at the end)%% because the issue tracker will close exactly at the end of the allocated time.
   * ==Do not use team ID in bug reports==. %%Reason: to prevent others copying your bug reports%%
-  * Each bug should be a separate issue.
-  * Write good quality bug reports; ==poor quality or incorrect bug reports will not earn credit==.
-  * Use a descriptive title.
-  * Give a good description of the bug with ==steps to reproduce and screenshots==.
-  * Assign a severity to the bug report. Bug report without a severity label are considered `severity.Low` (lower severity bugs earn lower credit).
+ 
+<div class="indented-level2">
 
-<div class="indented-level4">
-<include src="appendixE-gitHub.md#bug-severity" />
+<tabs> 
+  <tab header="Using CATcher">
+
+* Launch CATcher, and login to the correct profile:
+  * PE Dry Run: `{{ module }}/T PE Dry run`
+  * PE: `{{ module }}/T PE`
+* Post bugs using CATcher.
+</tab>
+<tab header="Not using CATcher">
+<div class="indented-less">
+
+<markdown>
+* Post bug reports in the following repo you created earlier:
+  * PE Dry Run: `ped`
+  * PE: `pe`
+</markdown>
+</div>
+</tab>
+</tabs>
 </div>
 
-* **About posting _suggestions_:**
-  * PE Dry Run (at **v1.3**): You can also post suggestions on how to improve the product. :bulb: Be diplomatic when reporting bugs or suggesting improvements. For example, instead of criticising the current behavior, simply suggest alternatives to consider.
-  * PE (at **v1.4**): Do not post suggestions. But if a feature is missing a critical functionality that makes the feature less useful to the intended user, it can be reported as a bug.
+<!-- 
+ Post bug in the following issue trackers (==not in the team's repo==):
+  * PE Dry Run (at **v1.3**): [nus{{ module }}-{{ semester }}/**pe-dry-run**]({{module_org}}/pe-dry-run/issues).
+  * PE (at **v1.4**): [nus{{ module }}-{{ semester }}/**pe**]({{module_org}}/pe/issues).
+-->
 
-* **If the product doesn't work at all:** If the product fails catastrophically %%e.g., cannot even launch%%, please ask for the _fallback_ team allocated to you from the instructor.
+**Bug report format**:
+
+* Each bug should be a separate issue.
+* Write good quality bug reports; ==poor quality or incorrect bug reports will not earn credit==.
+* Use a descriptive title.
+* Give a good description of the bug with ==steps to reproduce and screenshots==.
+* Assign exactly one `severity.*` label to the bug report. Bug report without a severity label are considered `severity.Low` (lower severity bugs earn lower credit).
+  
+<div class="indented-level3">
+<include src="appendixE-gitHub.md#bug-severity" />
+</div>
+  
+* Assign exactly one `type.*` label to the bug report. Bug report without a severity label are considered `severity.Low` (lower severity bugs earn lower credit).
+
+<div class="indented-level3">
+<include src="project-deliverables.md#type-labels" />
+</div>
 
 </box>
 </div>
@@ -299,30 +342,44 @@ At the end of the project each student is required to submit a _Project Portfoli
 
 **After the session**:
 * We'll transfer the relevant bug reports to your repo over the weekend. Once you have received the bug reports for your product, it is up to you to decide whether you will act on reported issues before the final submission v1.4. For some issues, the correct decision could be to reject or postpone to a version beyond v1.4.
-* You can post in the issue thread to communicate with the tester %%e.g. to ask for more info%%, etc. However, the tester is not obliged to respond.
+* You can navigate to the original bug report (via the back-link provided in the bug report given to you) and post in that issue thread to communicate with the tester who reported the bug e.g. to ask for more info, etc. However, the tester is not obliged to respond.
   * :bulb: Do not argue with the issue reporter to try to convince that person that your way is correct/better. If at all, you can gently explain the rationale for the current behavior but do not waste time getting involved in long arguments. If you think the suggestion/bug is unreasonable, just thank the reporter for their view and close the issue.
 
 </span>
 
-### Deliverable: Practical Exam
+### Deliverable: Practical Exam (PE)
 
 <span id="project-deliverables-practicalexam">
 
 **Objectives:**
 * Evaluate your manual testing skills, product evaluation skills, effort estimation skills
 * Peer-evaluate your product design %%{{ icon_team }}%%, implementation effort %%{{ icon_individual }}%%, documentation quality %%{{ icon_individual }}%%
-
-**When, where**: Week 13 lecture
+  * Note that significant project components are **not graded solely based on peer ratings**. Rather, PE data are mostly used to cross-validate tutors' grades and identify cases that need further investigation. When peer inputs are used for grading, they are usually combined with tutor evaluations with appropriate weight for each. In some cases ratings from team members are given a higher weight compared to ratings from other peers, if that is appropriate.
+* Do note that the PE is **not a means of pitting you against each other**. Developers and testers play for the same side; they need to push each other to improve the quality of their work -- not bring down each other.
+  
 
 {{ icon_important_big_red }} **Grading**:
 * Your performance in the practical exam will be considered for your final grade (under the _QA_ category and under _Implementation_ category, about 10 marks in total).
 * You will be graded based on your effectiveness as a tester (e.g., the percentage of the bugs you found, the nature of the bugs you found) and how far off your evaluation/estimates are from the evaluator consensus. %%Explanation: we understand that you have limited expertise in this area; hence, we penalize only if your inputs don't seem to be based on a sincere effort to test/evaluate.%%
 * The bugs found in your product by others will affect your v1.4 marks. You will be given a chance to reject false-positive bug reports.
 
+**Preparation**:  
+- Similar to PE-Dry run
+
+<div class="indented-level2">
+
+<panel type="primary" header="PE-D Preparation" minimized>
+
 <include src="project-testing.mbdf#testingPreparations" />
+</panel>
+</div>
 
-**During:** 
+<p/>
 
+#### Phase 1: Testing / bug reporting
+==**When, where**: Week 13 lecture==
+
+##### Testing
 1. **Take note of your team to test**. It will be given to you by the teaching team (distributed via LumiNUS gradebook).
 1. **Download from LumiNUS all files** submitted by the team %%(i.e. jar file, User Guide, Developer Guide, and Project Portfolio Pages)%% ==into an empty folder==.
 1. **[60 minutes] Test the product and report bugs** as described below:
@@ -331,9 +388,13 @@ At the end of the project each student is required to submit a _Project Portfoli
   <include src="project-deliverables.md#project-deliverables-pe-testing-intructions" />
 </div>
 
-1. **[Remainder of the session] Evaluate the following aspects.** Note down your evaluation in a hard copy (as a backup). Submit via TEAMMATES. You are recommended to complete this during the PE session but ==you have until the end of the day to submit (or revise) your submissions==.
+
+##### Product evaluation
+
+**[Remainder of the session] Evaluate the following aspects.** Note down your evaluation in a hard copy (as a backup). Submit via TEAMMATES. You are recommended to complete this during the PE session but ==you have until the end of the day to submit (or revise) your submissions==.
   
-   * **A. Product Design** [{{ icon_team }}]: Evaluate the product design **based on how the product ==V2.0 (not V1.4)== is described in the User Guide**.
+   * **A. Product Design** [{{ icon_team }}]:  
+   Evaluate the product design **based on how the product ==V2.0 (not V1.4)== is described in the User Guide**.
      - [ ] `unable to judge`: You are unable to judge this aspect for some reason e.g., UG is not available or does not have enough information.
      - [ ] `target user specified and appropriate`: The target user is clearly specified, **prefers typing over other modes of input**, and not too general (should be narrowed to a specific user group with certain characteristics).
      - [ ] `value specified and matching`: The value offered by the product is clearly specified and matches the target user.
@@ -345,7 +406,8 @@ At the end of the project each student is required to submit a _Project Portfoli
      - [ ] `feature-fit: high`: All features fit together.
      - [ ] `polished`: The product looks well-designed.
 
-   * **B. Quality of user docs** [{{ icon_individual }}]: Evaluate **based on the parts of the user guide written by the person,** as reproduced in the project portfolio.  ==Evaluate from an end-user perspective.==
+   * **B. Quality of user docs** [{{ icon_individual }}]:  
+   Evaluate **based on the parts of the user guide written by the person,** as reproduced in the project portfolio.  ==Evaluate from an end-user perspective.==
      - [ ] `UG/ unable to judge`: Less than 1 page worth of UG content written by the student or cannot find PPP
      - [ ] `UG/ good use of visuals`: Uses visuals e.g., screenshots.
      - [ ] `UG/ good use of examples`: Uses examples e.g., sample inputs/outputs.
@@ -353,7 +415,8 @@ At the end of the project each student is required to submit a _Project Portfoli
      - [ ] `UG/ easy to understand`: The information is easy to understand for the target audience.
      - [ ] `UG/ polished`: The document looks neat, well-formatted, and professional.
 
-   * **C. Quality of developer docs** [{{ icon_individual }}]: Evaluate **based on the developer docs cited/reproduced in the respective project portfolio page.** ==Evaluate from the perspective of a new developer trying to understand how the features are implemented.==
+   * **C. Quality of developer docs** [{{ icon_individual }}]:  
+   Evaluate **based on the developer docs cited/reproduced in the respective project portfolio page.** ==Evaluate from the perspective of a new developer trying to understand how the features are implemented.==
      - [ ] `DG/ unable to judge`: Less than 0.5 pages worth of content OR other problems in the document %%e.g. looks like included wrong content%%.
      - [ ] `DG/ too little`: 0.5 - 1 page of documentation
      - [ ] `DG/ types of UML diagrams: 1`: Only one type of diagram used (types: Class Diagrams, Object Diagrams, Sequence Diagrams, Activity Diagrams, Use Case Diagrams)
@@ -368,7 +431,8 @@ At the end of the project each student is required to submit a _Project Portfoli
      - [ ] `DG/ just enough information`: Not too much information. All important information is given.
      - [ ] `DG/ polished`: The document looks neat, well-formatted, %%and professional%%.
 
-   * **D. Feature Quality** [{{ icon_individual }}]: Evaluate ==the biggest feature done by the student== for difficulty, completeness, and testability. Note: examples given below assume that AB4 did not have the commands `edit`, `undo`, and `redo`.
+   * **D. Feature Quality** [{{ icon_individual }}]:  
+   Evaluate ==the biggest feature done by the student== for difficulty, completeness, and testability. Note: examples given below assume that AB4 did not have the commands `edit`, `undo`, and `redo`.
      - [ ] `Feature/ difficulty: unable to judge`: You are unable to judge this aspect for some reason.
      - [ ] `Feature/ difficulty: low`: %%e.g. make the existing _find_ command case insensitive%%.
      - [ ] `Feature/ difficulty: medium`: %%e.g. an _edit_ command that requires the user to type _all_ fields, even the ones that are not being edited%%.
@@ -380,14 +444,13 @@ At the end of the project each student is required to submit a _Project Portfoli
      - [ ] `Feature/ not hard to test`: The feature was not too hard to test manually.
      - [ ] `Feature/ polished `: The feature looks _polished_ (as if done by a professional programmer).
 
-   * **E. Amount of work** [{{ icon_individual }}]:  Evaluate the amount of work, on a scale of 0 to 30.
+   * **E. Amount of work** [{{ icon_individual }}]:  
+   Evaluate the amount of work, on a scale of 0 to 30.
      * Consider [this PR (`history` command)](https://github.com/se-edu/addressbook-level4/pull/440/files) as 5 units of effort which means [this PR (`undo/redo` command)](https://github.com/se-edu/addressbook-level4/pull/610/files) is about 15 points of effort. Given that 30 points matches an effort twice as that needed for the `undo/redo` feature (which was given as an example of an `A` grade project), we expect most students to be have efforts lower than 20.
      * Count all implementation/testing/documentation work as mentioned in that person's PPP. Also look at the actual code written by the person.
      * {{ icon_important_big_red }} Do not give a high value just _to be nice_. If your estimate is wildly inaccurate, it means you are unable to estimate the effort required to implement a feature in a project that you are supposed to know well at this point. ==You may lose marks if your estimate is wildly inaccurate==
 
-#### Processing PE Bug Reports:
-
-There will be a review period for you to respond to the [bug reports]({{module_org}}/pe-results/issues) you received.
+#### Phase 2: Developer response phase
 
 Duration: The review period will start around 1 day after the PE (exact time to be announced) and will last until the following **Monday midnight**. However, you are recommended to finish this task ASAP, to minimize cutting into your exam preparation work.
 
@@ -412,10 +475,11 @@ Bug reviewing is recommended to be done as a team as some of the decisions need 
 <div class="indented">
 <box>
 
-Response Labels:
+Response Labels:  
+==Apply exactly one of these. **If the label is missing, we assign `response.Accepted` by default.**==
 * `response.Accepted`: You accept it as a bug.
 * `response.NotInScope`: It is a valid issue but not something the team should be penalized for e.g., it was not related to features delivered in v1.4.
-* `response.Rejected`: What tester treated as a bug is in fact the expected behavior. {{ icon_important_big_red }} The may lose marks for rejecting a bug without an explanation or using an unjustifiable explanation. This penalty is higher than the penalty if the same bug was accepted. You can reject bugs that you inherited from AB4.
+* `response.Rejected`: What tester treated as a bug is in fact the expected behavior. {{ icon_important_big_red }} The may lose marks for rejecting a bug without an explanation or using an unjustifiable explanation.
 * `response.CannotReproduce`: You are unable to reproduce the behavior reported in the bug after multiple tries.
 * `response.IssueUnclear`: The issue description is not clear. Don't post comments asked the tester to give more info. The tester will not be able to see those comments because the bug reports are anonymized.
 
@@ -427,11 +491,22 @@ Response Labels:
 <div class="indented">
 <box>
 
-Bug Type Labels:
+
+==Apply exactly one of these. **If the label is missing, we assign `type.FunctionalityBug` by default.**==
+
+<span id="type-labels">
+
+<tip-box>
+
+**Bug Type** Labels:
 * `type.FeatureFlaw`: some functionality missing from a feature delivered in v1.4 in a way that the feature becomes less useful to the intended target user for normal usage. i.e., the feature is not 'complete'. In other words, an acceptance testing bug that falls within the scope of v1.4 features. These issues are counted against the 'depth and completeness' of the feature.
 * `type.FunctionalityBug`: the bug is a flaw in how the product works.
 * `type.DocTypo`: A minor spelling/grammar error in the documentation. Does not affect the user.
 * `type.DocumentationBug`: A flaw in the documentation that can potentially affect the user %%e.g., a missing step, a wrong instruction%%
+
+</tip-box>
+
+</span>
 
 </box>
 </div>
@@ -443,10 +518,14 @@ Bug Type Labels:
 </div>
 
 * **Decide who should fix the bug**. Use the `Assignees` field to assign the issue to that person(s). There is no need to actually fix the bug though. It's simply an indication/acceptance of responsibility. **If there is no assignee, we will distribute the penalty for that bug (if any) among all team members.**
+  * If it is not easy to decide the assignee(s), we recommend (but not enforce) that the feature owner should be assigned bugs related to the feature, Reason: The feature owner should have defended the feature against bugs using automated tests and defensive coding techniques.
 * **Assign owners for the rejected bugs as well**. If the bug is incorrectly rejected, the penalty will apply to only the owner, if no owner is assigned, the penalty will be distributed to the team.
- * We recommend (but not enforce) that the feature owner should be assigned bugs related to the feature, even if the bug was caused indirectly by someone else. Reason: The feature owner should have defended the feature against bugs using automated tests and defensive coding techniques.
-
-* **Add an explanatory comment** explaining your choice of labels and assignees.
+ 
+* **Add an explanatory comment:** For all of the following cases, you must add a comment justifying your stance. Testers will get to respond to all those cases and will be double-checked by the teaching team in later phases. Indiscriminate/unreasonable dev/tester responses, if deemed as a case of trying to game the system, will be penalized.
+  * downgrading severity
+  * non-acceptance of a bug
+  * changing the bug type
+  * non-obvious duplicate
 
 * We recommend choosing `type.*`, `severity.*` and assignee even for bugs you are not accepting. Reason: your _non-acceptance_ may be rejected by the tutor later, in which case we need to grade it as an accepted bug.
 
@@ -458,6 +537,18 @@ Bug Type Labels:
 <modal large title="Admin {{ icon_embedding }} Project: mid-v1.1" id="modal:deliverables-midv11">
   <include src="project-w06-mid-v11.md#body"/>
 </modal>
+
+#### Phase 3: Tester response
+
+- In this phase you will get to state whether you agree or disagree with the dev response to the bugs you reported.
+- This phase is optional. If you do not respond to a dev response, we'll assume that you agree with it.
+- Deadline: Reading week Wednesday 2359
+
+
+#### Phase 4: Moderation by the teaching team
+
+- In this phase tutors will look through all dev responses you objected to in the previous phase and decide on a final outcome.
+- In the unlikely event that we need your inputs, the tutor will contact you.
 
 </span>
 
