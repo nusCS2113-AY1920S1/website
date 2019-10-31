@@ -35,7 +35,7 @@
 1. Give an example in the project code that violates the _Law of Demeter_.
 
 **Q2.** Design patterns.
-1. When do you use _MVC_ pattern? Do we have MVC in AB4?
+1. When do you use _MVC_ pattern?
 1. When do you use the Singleton pattern, Command pattern? 
 <!--
 1. When do you use the _Facade_ pattern; _Observer_ pattern? Do we have the Observer pattern in AB4?
