@@ -149,7 +149,7 @@ At the end of the project each student is required to submit a _Project Portfoli
   
   * **Use one-half spacing between the lines** for legibility
   
-  * {{ icon_example }} Follow [this example](https://github.com/nus-cs2103-AY1920S1/addressbook-level3/blob/master/docs/team/johndoe.adoc). A PDF version of the same has been uploaded on LumiNUS.
+  * {{ icon_example }} Follow [this example](https://github.com/nuscs2113-AY1920S1/addressbook-level3/blob/master/docs/team/johndoe.adoc). A PDF version of the same has been uploaded on LumiNUS.
 
   * :bulb: You are free to choose any (collaborative) software to write the documents. However, try to follow the format of the sample user guide, developer guide and PPP given.
   
