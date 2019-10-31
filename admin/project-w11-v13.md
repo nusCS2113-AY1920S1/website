@@ -71,9 +71,8 @@ Milestone | Minimum acceptable performance to consider as 'reached'
 
 ### v1.3 Testing (_aka_ Practical Exam Dry Run)
 
-==Do wait for an update announcement regarding a new tool!==
-
-==See info in the panel below:==  
+%%Information updated on 30/10/2019%%  
+See info in the panel below:
 
 <br>
 {{ embed_topic("project-deliverables.md#project-deliverables-practicalexam-dry-run", "Admin " + icon_embedding + " Project Deliverables → **Practical Exam - Dry Run**", "v13-peDryRun", "1") }}
