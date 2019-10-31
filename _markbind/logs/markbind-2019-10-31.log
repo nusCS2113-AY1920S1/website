@@ -921,3 +921,195 @@ Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-
 2019-10-31T06:08:25.854Z - info: Deployed!
 2019-10-31T06:14:01.941Z - info: Website generation started at 2:13:58 PM
 2019-10-31T06:14:03.629Z - info: Building assets...
+2019-10-31T06:14:05.225Z - info: Assets built
+2019-10-31T06:14:05.226Z - info: Generating pages...
+2019-10-31T06:15:12.663Z - info: Pages built
+2019-10-31T06:15:25.859Z - info: Website generation complete! Total build time: 87.053s
+2019-10-31T06:15:25.859Z - info: Build success!
+2019-10-31T06:15:25.871Z - info: Site data built
+2019-10-31T06:15:58.230Z - info: Deployed!
+2019-10-31T06:20:45.691Z - info: Website generation started at 2:20:42 PM
+2019-10-31T06:20:47.356Z - info: Building assets...
+2019-10-31T06:20:49.090Z - info: Assets built
+2019-10-31T06:20:49.091Z - info: Generating pages...
+2019-10-31T06:20:50.846Z - error:  Error: No such segment 'project-deliverables-practicalexam-dry-run' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w11-v13.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T06:20:51.083Z - error:  Error: No such segment 'project-deliverables-practicalexam-dry-run' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w11-v13.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+2019-10-31T06:20:52.088Z - error:  Error: No such segment 'project-deliverables-practicalexam-dry-run' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w11-v13.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+2019-10-31T06:21:20.702Z - error:  Error: No such segment 'project-deliverables-practicalexam' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T06:21:43.172Z - error:  Error: No such segment 'project-deliverables-practicalexam-dry-run' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w11-v13.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T06:21:46.549Z - error:  Error: No such segment 'project-deliverables-practicalexam' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T06:21:56.921Z - info: Pages built
+2019-10-31T06:21:57.598Z - warn:  TypeError: Cannot read property 'parent' of null
+    at Function.exports.update (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\parse.js:55:26)
+    at module.exports (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\parse.js:17:11)
+    at Function.exports.load (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\static.js:22:14)
+    at Page.collectHeadingsAndKeywordsInContent (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\Page.js:348:19)
+    at Object.$.not.each.each (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\Page.js:392:16)
+    at initialize.exports.each (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\Page.js:358:6)
+    at Page.collectHeadingsAndKeywords (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\Page.js:339:8)
+    at pages.forEach (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\Site.js:1043:12)
+    at Array.forEach (<anonymous>)
+    at Site.updateSiteData (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\Site.js:1041:14)
+    at readSiteConfig.then.then.then.then.then.then.then.then.then.then (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\Site.js:709:24)
+    at tryCatcher (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\util.js:16:23)
+    at Promise._settlePromiseFromHandler (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:517:31)
+    at Promise._settlePromise (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:574:18)
+    at Promise._settlePromise0 (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\bluebird\js\release\promise.js:619:10)
+2019-10-31T06:21:58.557Z - error: Cannot read property 'parent' of null
+2019-10-31T06:22:05.430Z - error: The site directory does not exist. Please build the site first before deploy.
+2019-10-31T06:22:41.631Z - info: Website generation started at 2:22:41 PM
+2019-10-31T06:22:43.224Z - info: Building assets...
+2019-10-31T06:22:44.759Z - info: Assets built
+2019-10-31T06:22:55.015Z - info: Website generation started at 2:22:53 PM
+2019-10-31T06:22:56.623Z - info: Building assets...
+2019-10-31T06:22:58.249Z - info: Assets built
+2019-10-31T06:22:58.249Z - info: Generating pages...
+2019-10-31T06:22:59.707Z - error:  Error: No such segment 'project-deliverables-practicalexam-dry-run' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-w11-v13.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T06:24:42.818Z - info: Website generation started at 2:24:41 PM
+2019-10-31T06:24:44.438Z - info: Building assets...
+2019-10-31T06:24:45.878Z - info: Assets built
+2019-10-31T06:24:45.878Z - info: Generating pages...
+2019-10-31T06:24:47.303Z - error:  Error: No such segment 'project-deliverables-practicalexam' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T06:25:35.893Z - info: Website generation started at 2:25:34 PM
+2019-10-31T06:25:37.536Z - info: Building assets...
+2019-10-31T06:25:38.977Z - info: Assets built
+2019-10-31T06:25:38.977Z - info: Generating pages...
+2019-10-31T06:26:33.141Z - info: Website generation started at 2:26:29 PM
+2019-10-31T06:26:34.838Z - info: Building assets...
