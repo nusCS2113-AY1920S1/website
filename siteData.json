@@ -298,8 +298,13 @@
         "deliverable-practical-exam-dry-run": "Deliverable: Practical Exam (Dry Run)",
         "testing-instructions-for-pe-and-pe-dry-run-2": "Testing instructions for PE and PE Dry Run",
         "deliverable-practical-exam": "Deliverable: Practical Exam",
+        "phase-1-testing-bug-reporting-2": "Phase 1: Testing / bug reporting",
+        "testing-2": "Testing",
         "testing-instructions-for-pe-and-pe-dry-run-3": "Testing instructions for PE and PE Dry Run",
-        "processing-pe-bug-reports-2": "Processing PE Bug Reports:"
+        "product-evaluation-2": "Product evaluation",
+        "phase-2-developer-response-phase-2": "Phase 2: Developer response phase",
+        "phase-3-tester-response": "Phase 3: Tester response",
+        "phase-4-moderation-by-the-teaching-team": "Phase 4: Moderation by the teaching team"
       },
       "title": "Admin: Project: Deliverables",
       "header": "header.md",

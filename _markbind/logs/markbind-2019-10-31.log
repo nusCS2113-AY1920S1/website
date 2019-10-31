@@ -1,0 +1,914 @@
+2019-10-31T04:39:18.210Z - info: Website generation started at 12:38:59 PM
+2019-10-31T04:39:20.404Z - info: Building assets...
+2019-10-31T04:39:23.133Z - info: Assets built
+2019-10-31T04:39:23.134Z - info: Generating pages...
+2019-10-31T04:40:29.962Z - info: Pages built
+2019-10-31T04:40:43.602Z - info: Website generation complete! Total build time: 104.034s
+2019-10-31T04:40:43.967Z - info: Serving "E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-10-31T04:40:43.967Z - info: Press CTRL+C to stop ...
+2019-10-31T04:40:43.996Z - info: Site data built
+2019-10-31T04:55:38.138Z - info: [12:55:38 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T04:55:39.143Z - info: Rebuilding affected source files
+2019-10-31T04:55:39.147Z - info: Rebuilding 22 pages
+2019-10-31T04:55:48.381Z - info: Pages rebuilt
+2019-10-31T04:55:48.393Z - info: Site data built
+2019-10-31T04:56:41.513Z - info: [12:56:41 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T04:56:42.515Z - info: Rebuilding affected source files
+2019-10-31T04:56:42.519Z - info: Rebuilding 22 pages
+2019-10-31T04:56:49.387Z - info: [12:56:49 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T04:56:53.663Z - info: Pages rebuilt
+2019-10-31T04:56:53.675Z - info: Site data built
+2019-10-31T04:56:53.711Z - info: Rebuilding affected source files
+2019-10-31T04:56:53.721Z - info: Rebuilding 22 pages
+2019-10-31T04:56:56.086Z - info: [12:56:56 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T04:56:56.129Z - error: uncaughtException: (E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md)
+  expected variable end date=Thu Oct 31 2019 12:56:56 GMT+0800 (Singapore Standard Time), pid=21508, uid=null, gid=null, cwd=E:\Teaching\CS2113\CS2113-AY1920Sem1\website, execPath=C:\Program Files\nodejs\node.exe, version=v10.16.1, argv=[C:\Program Files\nodejs\node.exe, C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\index.js, serve], rss=385220608, heapTotal=322945024, heapUsed=255997688, external=329594, loadavg=[0, 0, 0], uptime=593548
+Template render error: (E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md)
+  expected variable end
+    at Object._prettifyError (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:542:21)
+    at Environment.renderString (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\environment.js:380:17)
+    at Object.renderString (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\index.js:99:14)
+    at fs.readFile (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:600:36)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:53:3)
+2019-10-31T04:57:14.405Z - info: [12:57:14 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T04:58:29.275Z - info: [12:58:29 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T04:58:35.877Z - info: [12:58:35 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T04:59:11.510Z - info: [12:59:11 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:00:04.980Z - info: [1:00:04 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:01:54.009Z - info: Website generation started at 1:01:50 PM
+2019-10-31T05:01:55.634Z - info: Building assets...
+2019-10-31T05:01:57.259Z - info: Assets built
+2019-10-31T05:01:57.260Z - info: Generating pages...
+2019-10-31T05:03:05.050Z - info: Pages built
+2019-10-31T05:03:18.069Z - info: Website generation complete! Total build time: 87.253s
+2019-10-31T05:03:18.431Z - info: Serving "E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-10-31T05:03:18.432Z - info: Press CTRL+C to stop ...
+2019-10-31T05:03:18.458Z - info: Site data built
+2019-10-31T05:03:57.668Z - info: [1:03:57 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:03:58.672Z - info: Rebuilding affected source files
+2019-10-31T05:03:58.679Z - info: Rebuilding 23 pages
+2019-10-31T05:04:07.916Z - info: Pages rebuilt
+2019-10-31T05:04:07.935Z - info: Site data built
+2019-10-31T05:04:14.040Z - info: [1:04:14 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:04:15.042Z - info: Rebuilding affected source files
+2019-10-31T05:04:15.046Z - info: Rebuilding 22 pages
+2019-10-31T05:04:21.794Z - info: [1:04:21 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:04:25.282Z - info: Pages rebuilt
+2019-10-31T05:04:25.304Z - info: Site data built
+2019-10-31T05:04:25.380Z - info: Rebuilding affected source files
+2019-10-31T05:04:25.384Z - info: Rebuilding 22 pages
+2019-10-31T05:04:34.512Z - info: Pages rebuilt
+2019-10-31T05:04:34.537Z - info: Site data built
+2019-10-31T05:06:02.215Z - info: [1:06:02 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:06:03.218Z - info: Rebuilding affected source files
+2019-10-31T05:06:03.224Z - info: Rebuilding 22 pages
+2019-10-31T05:06:12.347Z - info: Pages rebuilt
+2019-10-31T05:06:12.379Z - info: Site data built
+2019-10-31T05:06:18.928Z - info: [1:06:18 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:06:19.930Z - info: Rebuilding affected source files
+2019-10-31T05:06:19.942Z - info: Rebuilding 22 pages
+2019-10-31T05:06:29.354Z - info: Pages rebuilt
+2019-10-31T05:06:29.375Z - info: Site data built
+2019-10-31T05:07:03.222Z - info: [1:07:03 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:07:04.224Z - info: Rebuilding affected source files
+2019-10-31T05:07:04.227Z - info: Rebuilding 22 pages
+2019-10-31T05:07:13.546Z - info: Pages rebuilt
+2019-10-31T05:07:13.571Z - info: Site data built
+2019-10-31T05:07:23.192Z - info: [1:07:23 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:07:24.193Z - info: Rebuilding affected source files
+2019-10-31T05:07:24.196Z - info: Rebuilding 22 pages
+2019-10-31T05:07:33.954Z - info: Pages rebuilt
+2019-10-31T05:07:33.973Z - info: Site data built
+2019-10-31T05:07:41.267Z - info: [1:07:41 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:07:42.269Z - info: Rebuilding affected source files
+2019-10-31T05:07:42.272Z - info: Rebuilding 22 pages
+2019-10-31T05:07:51.454Z - info: Pages rebuilt
+2019-10-31T05:07:51.484Z - info: Site data built
+2019-10-31T05:10:22.469Z - info: [1:10:22 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+2019-10-31T05:10:22.492Z - info: [1:10:22 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:10:23.473Z - info: Rebuilding affected source files
+2019-10-31T05:10:23.485Z - info: Rebuilding 25 pages
+2019-10-31T05:10:32.990Z - info: Pages rebuilt
+2019-10-31T05:10:33.008Z - info: Site data built
+2019-10-31T05:11:57.716Z - info: [1:11:57 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:11:58.720Z - info: Rebuilding affected source files
+2019-10-31T05:11:58.727Z - info: Rebuilding 22 pages
+2019-10-31T05:12:07.862Z - info: Pages rebuilt
+2019-10-31T05:12:07.881Z - info: Site data built
+2019-10-31T05:12:37.988Z - info: [1:12:37 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:12:38.991Z - info: Rebuilding affected source files
+2019-10-31T05:12:38.994Z - info: Rebuilding 22 pages
+2019-10-31T05:12:48.297Z - info: Pages rebuilt
+2019-10-31T05:12:48.312Z - info: Site data built
+2019-10-31T05:12:58.645Z - info: [1:12:58 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:12:59.646Z - info: Rebuilding affected source files
+2019-10-31T05:12:59.650Z - info: Rebuilding 22 pages
+2019-10-31T05:13:09.109Z - info: Pages rebuilt
+2019-10-31T05:13:09.126Z - info: Site data built
+2019-10-31T05:13:33.595Z - info: [1:13:33 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:13:34.596Z - info: Rebuilding affected source files
+2019-10-31T05:13:34.601Z - info: Rebuilding 22 pages
+2019-10-31T05:13:43.978Z - info: Pages rebuilt
+2019-10-31T05:13:43.995Z - info: Site data built
+2019-10-31T05:14:24.522Z - info: [1:14:24 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:14:25.526Z - info: Rebuilding affected source files
+2019-10-31T05:14:25.535Z - info: Rebuilding 22 pages
+2019-10-31T05:14:35.087Z - info: Pages rebuilt
+2019-10-31T05:14:35.105Z - info: Site data built
+2019-10-31T05:14:58.267Z - info: [1:14:58 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:14:59.269Z - info: Rebuilding affected source files
+2019-10-31T05:14:59.282Z - info: Rebuilding 22 pages
+2019-10-31T05:15:07.745Z - info: [1:15:07 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:15:08.880Z - info: Pages rebuilt
+2019-10-31T05:15:08.898Z - info: Site data built
+2019-10-31T05:15:08.951Z - info: Rebuilding affected source files
+2019-10-31T05:15:08.954Z - info: Rebuilding 22 pages
+2019-10-31T05:15:18.264Z - info: Pages rebuilt
+2019-10-31T05:15:18.282Z - info: Site data built
+2019-10-31T05:16:23.031Z - info: [1:16:23 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:16:24.034Z - info: Rebuilding affected source files
+2019-10-31T05:16:24.037Z - info: Rebuilding 22 pages
+2019-10-31T05:16:34.569Z - info: Pages rebuilt
+2019-10-31T05:16:34.593Z - info: Site data built
+2019-10-31T05:17:28.703Z - info: [1:17:28 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:17:29.706Z - info: Rebuilding affected source files
+2019-10-31T05:17:29.709Z - info: Rebuilding 22 pages
+2019-10-31T05:17:39.027Z - info: Pages rebuilt
+2019-10-31T05:17:39.048Z - info: Site data built
+2019-10-31T05:18:17.369Z - info: [1:18:17 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:18:18.371Z - info: Rebuilding affected source files
+2019-10-31T05:18:18.376Z - info: Rebuilding 22 pages
+2019-10-31T05:18:27.885Z - info: Pages rebuilt
+2019-10-31T05:18:27.904Z - info: Site data built
+2019-10-31T05:19:38.492Z - info: [1:19:38 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:19:39.495Z - info: Rebuilding affected source files
+2019-10-31T05:19:39.501Z - info: Rebuilding 22 pages
+2019-10-31T05:19:48.772Z - info: Pages rebuilt
+2019-10-31T05:19:48.794Z - info: Site data built
+2019-10-31T05:21:34.375Z - info: [1:21:34 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:21:35.377Z - info: Rebuilding affected source files
+2019-10-31T05:21:35.380Z - info: Rebuilding 22 pages
+2019-10-31T05:21:44.847Z - info: Pages rebuilt
+2019-10-31T05:21:44.873Z - info: Site data built
+2019-10-31T05:22:40.600Z - info: [1:22:40 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:22:41.604Z - info: Rebuilding affected source files
+2019-10-31T05:22:41.612Z - info: Rebuilding 22 pages
+2019-10-31T05:22:51.098Z - info: Pages rebuilt
+2019-10-31T05:22:51.126Z - info: Site data built
+2019-10-31T05:23:48.928Z - info: [1:23:48 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:23:49.932Z - info: Rebuilding affected source files
+2019-10-31T05:23:49.935Z - info: Rebuilding 22 pages
+2019-10-31T05:23:59.346Z - info: Pages rebuilt
+2019-10-31T05:23:59.370Z - info: Site data built
+2019-10-31T05:24:39.340Z - info: [1:24:39 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:24:40.343Z - info: Rebuilding affected source files
+2019-10-31T05:24:40.346Z - info: Rebuilding 22 pages
+2019-10-31T05:24:49.735Z - info: Pages rebuilt
+2019-10-31T05:24:49.744Z - info: Site data built
+2019-10-31T05:24:59.493Z - info: [1:24:59 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:25:00.495Z - info: Rebuilding affected source files
+2019-10-31T05:25:00.506Z - info: Rebuilding 22 pages
+2019-10-31T05:25:09.606Z - info: Pages rebuilt
+2019-10-31T05:25:09.620Z - info: Site data built
+2019-10-31T05:26:04.399Z - info: [1:26:04 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:26:05.401Z - info: Rebuilding affected source files
+2019-10-31T05:26:05.412Z - info: Rebuilding 22 pages
+2019-10-31T05:26:14.505Z - info: Pages rebuilt
+2019-10-31T05:26:14.517Z - info: Site data built
+2019-10-31T05:27:22.648Z - info: [1:27:22 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:27:23.651Z - info: Rebuilding affected source files
+2019-10-31T05:27:23.654Z - info: Rebuilding 22 pages
+2019-10-31T05:27:34.012Z - info: Pages rebuilt
+2019-10-31T05:27:34.031Z - info: Site data built
+2019-10-31T05:28:30.235Z - info: [1:28:30 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:28:31.237Z - info: Rebuilding affected source files
+2019-10-31T05:28:31.245Z - info: Rebuilding 22 pages
+2019-10-31T05:28:40.649Z - info: Pages rebuilt
+2019-10-31T05:28:40.676Z - info: Site data built
+2019-10-31T05:29:48.225Z - info: [1:29:48 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:29:49.229Z - info: Rebuilding affected source files
+2019-10-31T05:29:49.237Z - info: Rebuilding 22 pages
+2019-10-31T05:29:58.707Z - info: Pages rebuilt
+2019-10-31T05:29:58.735Z - info: Site data built
+2019-10-31T05:30:10.127Z - info: [1:30:10 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:30:11.130Z - info: Rebuilding affected source files
+2019-10-31T05:30:11.133Z - info: Rebuilding 22 pages
+2019-10-31T05:30:20.689Z - info: Pages rebuilt
+2019-10-31T05:30:20.708Z - info: Site data built
+2019-10-31T05:31:34.199Z - info: [1:31:34 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:31:35.201Z - info: Rebuilding affected source files
+2019-10-31T05:31:35.204Z - info: Rebuilding 22 pages
+2019-10-31T05:31:40.500Z - info: [1:31:40 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:31:45.037Z - info: Pages rebuilt
+2019-10-31T05:31:45.056Z - info: Site data built
+2019-10-31T05:31:45.109Z - info: Rebuilding affected source files
+2019-10-31T05:31:45.112Z - info: Rebuilding 22 pages
+2019-10-31T05:31:54.578Z - info: Pages rebuilt
+2019-10-31T05:31:54.595Z - info: Site data built
+2019-10-31T05:33:24.265Z - info: [1:33:24 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:33:25.268Z - info: Rebuilding affected source files
+2019-10-31T05:33:25.278Z - info: Rebuilding 22 pages
+2019-10-31T05:33:31.135Z - info: [1:33:31 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:33:34.788Z - info: Pages rebuilt
+2019-10-31T05:33:34.813Z - info: Site data built
+2019-10-31T05:33:34.883Z - info: Rebuilding affected source files
+2019-10-31T05:33:34.887Z - info: Rebuilding 22 pages
+2019-10-31T05:33:44.346Z - info: Pages rebuilt
+2019-10-31T05:33:44.368Z - info: Site data built
+2019-10-31T05:34:15.306Z - info: [1:34:15 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:34:16.309Z - info: Rebuilding affected source files
+2019-10-31T05:34:16.312Z - info: Rebuilding 22 pages
+2019-10-31T05:34:25.608Z - info: Pages rebuilt
+2019-10-31T05:34:25.618Z - info: Site data built
+2019-10-31T05:37:25.378Z - info: [1:37:25 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:37:26.381Z - info: Rebuilding affected source files
+2019-10-31T05:37:26.385Z - info: Rebuilding 22 pages
+2019-10-31T05:37:36.150Z - info: Pages rebuilt
+2019-10-31T05:37:36.164Z - info: Site data built
+2019-10-31T05:38:18.619Z - info: [1:38:18 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:38:19.621Z - info: Rebuilding affected source files
+2019-10-31T05:38:19.626Z - info: Rebuilding 22 pages
+2019-10-31T05:38:29.085Z - info: Pages rebuilt
+2019-10-31T05:38:29.112Z - info: Site data built
+2019-10-31T05:38:37.077Z - info: [1:38:37 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:38:38.078Z - info: Rebuilding affected source files
+2019-10-31T05:38:38.081Z - info: Rebuilding 22 pages
+2019-10-31T05:38:49.148Z - info: Pages rebuilt
+2019-10-31T05:38:49.169Z - info: Site data built
+2019-10-31T05:39:02.173Z - info: [1:39:02 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:39:03.176Z - info: Rebuilding affected source files
+2019-10-31T05:39:03.179Z - info: Rebuilding 22 pages
+2019-10-31T05:39:13.587Z - info: Pages rebuilt
+2019-10-31T05:39:13.614Z - info: Site data built
+2019-10-31T05:39:16.522Z - info: [1:39:16 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:39:17.522Z - info: Rebuilding affected source files
+2019-10-31T05:39:17.525Z - info: Rebuilding 22 pages
+2019-10-31T05:39:26.935Z - info: Pages rebuilt
+2019-10-31T05:39:26.954Z - info: Site data built
+2019-10-31T05:40:52.713Z - info: [1:40:52 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+2019-10-31T05:40:53.717Z - info: Rebuilding affected source files
+2019-10-31T05:40:53.727Z - info: Rebuilding 9 pages
+2019-10-31T05:40:57.916Z - info: Pages rebuilt
+2019-10-31T05:40:57.931Z - info: Site data built
+2019-10-31T05:41:29.026Z - info: [1:41:29 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+2019-10-31T05:41:30.029Z - info: Rebuilding affected source files
+2019-10-31T05:41:30.035Z - info: Rebuilding 9 pages
+2019-10-31T05:41:34.209Z - info: Pages rebuilt
+2019-10-31T05:41:34.220Z - info: Site data built
+2019-10-31T05:41:54.679Z - info: [1:41:54 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+2019-10-31T05:41:55.681Z - info: Rebuilding affected source files
+2019-10-31T05:41:55.684Z - info: Rebuilding 9 pages
+2019-10-31T05:41:59.833Z - info: Pages rebuilt
+2019-10-31T05:41:59.844Z - info: Site data built
+2019-10-31T05:42:09.837Z - info: [1:42:09 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+2019-10-31T05:42:10.840Z - info: Rebuilding affected source files
+2019-10-31T05:42:10.844Z - info: Rebuilding 9 pages
+2019-10-31T05:42:14.674Z - info: Pages rebuilt
+2019-10-31T05:42:14.685Z - info: Site data built
+2019-10-31T05:42:44.125Z - info: [1:42:44 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+2019-10-31T05:42:45.128Z - info: Rebuilding affected source files
+2019-10-31T05:42:45.130Z - info: Rebuilding 9 pages
+2019-10-31T05:42:45.229Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:45.275Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:45.392Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:45.451Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:45.484Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:45.569Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:45.600Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:45.631Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:45.736Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:45.767Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:45.791Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:45.992Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:46.807Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:46.835Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:47.678Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:47.719Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:47.754Z - error:  Error: No such segment 'type-labels' in file: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:325:25)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:42:49.550Z - info: Pages rebuilt
+2019-10-31T05:42:49.569Z - info: Site data built
+2019-10-31T05:45:13.608Z - info: [1:45:13 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:45:14.609Z - info: Rebuilding affected source files
+2019-10-31T05:45:14.613Z - info: Rebuilding 25 pages
+2019-10-31T05:45:24.794Z - info: Pages rebuilt
+2019-10-31T05:45:24.811Z - info: Site data built
+2019-10-31T05:45:39.672Z - info: [1:45:39 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:45:40.674Z - info: Rebuilding affected source files
+2019-10-31T05:45:40.677Z - info: Rebuilding 25 pages
+2019-10-31T05:45:50.704Z - info: Pages rebuilt
+2019-10-31T05:45:50.722Z - info: Site data built
+2019-10-31T05:46:04.880Z - info: [1:46:04 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:46:05.882Z - info: Rebuilding affected source files
+2019-10-31T05:46:05.893Z - info: Rebuilding 25 pages
+2019-10-31T05:46:16.099Z - info: Pages rebuilt
+2019-10-31T05:46:16.118Z - info: Site data built
+2019-10-31T05:47:44.912Z - info: [1:47:44 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:47:45.914Z - info: Rebuilding affected source files
+2019-10-31T05:47:45.919Z - info: Rebuilding 25 pages
+2019-10-31T05:47:56.081Z - info: Pages rebuilt
+2019-10-31T05:47:56.097Z - info: Site data built
+2019-10-31T05:50:23.560Z - info: [1:50:23 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:50:24.563Z - info: Rebuilding affected source files
+2019-10-31T05:50:24.568Z - info: Rebuilding 25 pages
+2019-10-31T05:50:24.862Z - error:  Error: Empty src attribute in include in: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:196:19)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:50:24.888Z - error:  Error: Empty src attribute in include in: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:196:19)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+2019-10-31T05:50:25.253Z - error:  Error: Empty src attribute in include in: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:196:19)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:50:25.276Z - error:  Error: Empty src attribute in include in: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:196:19)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+2019-10-31T05:50:25.876Z - error:  Error: Empty src attribute in include in: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:196:19)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:50:25.904Z - error:  Error: Empty src attribute in include in: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:196:19)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+2019-10-31T05:50:27.278Z - error:  Error: Empty src attribute in include in: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:196:19)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:50:27.302Z - error:  Error: Empty src attribute in include in: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:196:19)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:50:27.335Z - error:  Error: Empty src attribute in include in: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:196:19)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:50:30.109Z - error:  Error: Empty src attribute in include in: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:196:19)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:50:30.134Z - error:  Error: Empty src attribute in include in: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:196:19)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+2019-10-31T05:50:31.072Z - error:  Error: Empty src attribute in include in: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:196:19)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:50:31.097Z - error:  Error: Empty src attribute in include in: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:196:19)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:50:31.130Z - error:  Error: Empty src attribute in include in: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:196:19)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:382:43)
+    at element.children.element.children.map.e (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:57)
+    at Array.map (<anonymous>)
+    at Parser._preprocess (C:\users\dcsaksh\appdata\roaming\npm\node_modules\markbind-cli\src\lib\markbind\src\parser.js:399:43)
+2019-10-31T05:50:34.872Z - info: Pages rebuilt
+2019-10-31T05:50:34.886Z - info: Site data built
+2019-10-31T05:50:55.396Z - info: [1:50:55 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:50:56.399Z - info: Rebuilding affected source files
+2019-10-31T05:50:56.403Z - info: Rebuilding 25 pages
+2019-10-31T05:51:06.830Z - info: Pages rebuilt
+2019-10-31T05:51:06.843Z - info: Site data built
+2019-10-31T05:53:49.055Z - info: [1:53:49 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:53:50.058Z - info: Rebuilding affected source files
+2019-10-31T05:53:50.061Z - info: Rebuilding 25 pages
+2019-10-31T05:54:00.109Z - info: Pages rebuilt
+2019-10-31T05:54:00.122Z - info: Site data built
+2019-10-31T05:54:15.844Z - info: [1:54:15 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:54:16.847Z - info: Rebuilding affected source files
+2019-10-31T05:54:16.851Z - info: Rebuilding 25 pages
+2019-10-31T05:54:27.112Z - info: Pages rebuilt
+2019-10-31T05:54:27.127Z - info: Site data built
+2019-10-31T05:55:01.848Z - info: [1:55:01 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:55:02.853Z - info: Rebuilding affected source files
+2019-10-31T05:55:02.867Z - info: Rebuilding 25 pages
+2019-10-31T05:55:13.080Z - info: Pages rebuilt
+2019-10-31T05:55:13.093Z - info: Site data built
+2019-10-31T05:56:02.576Z - info: [1:56:02 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:56:03.578Z - info: Rebuilding affected source files
+2019-10-31T05:56:03.592Z - info: Rebuilding 25 pages
+2019-10-31T05:56:14.295Z - info: Pages rebuilt
+2019-10-31T05:56:14.308Z - info: Site data built
+2019-10-31T05:56:24.626Z - info: [1:56:24 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:56:25.628Z - info: Rebuilding affected source files
+2019-10-31T05:56:25.631Z - info: Rebuilding 25 pages
+2019-10-31T05:56:35.776Z - info: Pages rebuilt
+2019-10-31T05:56:35.799Z - info: Site data built
+2019-10-31T05:56:55.704Z - info: [1:56:55 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:56:56.708Z - info: Rebuilding affected source files
+2019-10-31T05:56:56.712Z - info: Rebuilding 25 pages
+2019-10-31T05:57:06.849Z - info: Pages rebuilt
+2019-10-31T05:57:06.869Z - info: Site data built
+2019-10-31T05:58:01.526Z - info: [1:58:01 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T05:58:02.529Z - info: Rebuilding affected source files
+2019-10-31T05:58:02.532Z - info: Rebuilding 25 pages
+2019-10-31T05:58:12.478Z - info: Pages rebuilt
+2019-10-31T05:58:12.495Z - info: Site data built
+2019-10-31T06:00:52.949Z - info: [2:00:52 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T06:00:53.952Z - info: Rebuilding affected source files
+2019-10-31T06:00:53.955Z - info: Rebuilding 25 pages
+2019-10-31T06:01:05.025Z - info: Pages rebuilt
+2019-10-31T06:01:05.040Z - info: Site data built
+2019-10-31T06:01:11.890Z - info: [2:01:11 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T06:01:12.892Z - info: Rebuilding affected source files
+2019-10-31T06:01:12.896Z - info: Rebuilding 25 pages
+2019-10-31T06:01:20.324Z - info: [2:01:20 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T06:01:23.867Z - info: Pages rebuilt
+2019-10-31T06:01:23.890Z - info: Site data built
+2019-10-31T06:01:23.967Z - info: Rebuilding affected source files
+2019-10-31T06:01:23.971Z - info: Rebuilding 25 pages
+2019-10-31T06:01:34.448Z - info: Pages rebuilt
+2019-10-31T06:01:34.461Z - info: Site data built
+2019-10-31T06:02:26.514Z - info: [2:02:26 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-10-31T06:02:27.516Z - info: Rebuilding affected source files
+2019-10-31T06:02:27.520Z - info: Rebuilding 25 pages
+2019-10-31T06:02:37.527Z - info: Pages rebuilt
+2019-10-31T06:02:37.537Z - info: Site data built
+2019-10-31T06:04:02.411Z - info: [2:04:02 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+2019-10-31T06:04:03.414Z - info: Rebuilding affected source files
+2019-10-31T06:04:03.417Z - info: Rebuilding 9 pages
+2019-10-31T06:04:07.767Z - info: Pages rebuilt
+2019-10-31T06:04:07.777Z - info: Site data built
+2019-10-31T06:05:16.387Z - info: [2:05:16 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-testing.mbdf
+2019-10-31T06:05:17.392Z - info: Rebuilding affected source files
+2019-10-31T06:05:17.399Z - info: Rebuilding 9 pages
+2019-10-31T06:05:21.879Z - info: Pages rebuilt
+2019-10-31T06:05:21.889Z - info: Site data built
+2019-10-31T06:06:15.744Z - info: Website generation started at 2:06:12 PM
+2019-10-31T06:06:17.625Z - info: Building assets...

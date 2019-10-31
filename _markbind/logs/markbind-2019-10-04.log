@@ -1,0 +1,41 @@
+2019-10-04T06:06:58.090Z - info: Website generation started at 2:06:56 PM
+2019-10-04T06:06:59.415Z - info: Building assets...
+2019-10-04T06:07:00.704Z - info: Assets built
+2019-10-04T06:07:00.705Z - info: Generating pages...
+2019-10-04T06:08:06.160Z - info: Pages built
+2019-10-04T06:08:19.154Z - info: Website generation complete! Total build time: 82.229s
+2019-10-04T06:08:19.572Z - info: Serving "E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-10-04T06:08:19.573Z - info: Press CTRL+C to stop ...
+2019-10-04T06:08:19.607Z - info: Site data built
+2019-10-04T06:10:13.543Z - info: [2:10:13 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\se-book-adapted\config.njk
+2019-10-04T06:10:14.549Z - info: Assets built
+2019-10-04T06:11:36.663Z - info: [2:11:36 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\se-book-adapted\config.njk
+2019-10-04T06:11:37.667Z - info: Assets built
+2019-10-04T06:12:15.055Z - info: [2:12:15 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\se-book-adapted\config.njk
+2019-10-04T06:12:16.065Z - info: Assets built
+2019-10-04T06:12:17.102Z - info: [2:12:17 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\se-book-adapted\config.njk
+2019-10-04T06:12:18.110Z - info: Assets built
+2019-10-04T06:12:32.684Z - info: [2:12:32 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\se-book-adapted\config.njk
+2019-10-04T06:12:33.690Z - info: Assets built
+2019-10-04T06:12:52.378Z - info: [2:12:52 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\se-book-adapted\config.njk
+2019-10-04T06:12:53.382Z - info: Assets built
+2019-10-04T06:13:01.052Z - info: [2:13:01 PM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\se-book-adapted\config.njk
+2019-10-04T06:13:02.057Z - info: Assets built
+2019-10-04T06:15:17.243Z - info: Website generation started at 2:15:16 PM
+2019-10-04T06:15:18.418Z - info: Building assets...
+2019-10-04T06:15:19.477Z - info: Assets built
+2019-10-04T06:15:19.478Z - info: Generating pages...
+2019-10-04T06:16:22.317Z - info: Pages built
+2019-10-04T06:16:34.884Z - info: Website generation complete! Total build time: 78.749s
+2019-10-04T06:16:35.258Z - info: Serving "E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-10-04T06:16:35.258Z - info: Press CTRL+C to stop ...
+2019-10-04T06:16:35.283Z - info: Site data built
+2019-10-04T06:52:16.797Z - info: Website generation started at 2:52:15 PM
+2019-10-04T06:52:18.007Z - info: Building assets...
+2019-10-04T06:52:19.117Z - info: Assets built
+2019-10-04T06:52:19.119Z - info: Generating pages...
+2019-10-04T06:53:22.319Z - info: Pages built
+2019-10-04T06:53:34.569Z - info: Website generation complete! Total build time: 79.012s
+2019-10-04T06:53:34.570Z - info: Build success!
+2019-10-04T06:53:34.580Z - info: Site data built
+2019-10-04T06:54:07.230Z - info: Deployed!
