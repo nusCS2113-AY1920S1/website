@@ -8,22 +8,23 @@
 
 <p class="lead" style="color: purple"><md>:far-calendar-check: <include src="project-timeline.md#v14-overview" inline /></md></p>
 
-<!--
+
 
 **Summary of submissions**:
 
 Team/Individual Item | Name format | Upload to
 -------------------- | ----------- | ---------
 {{ icon_team }} Source code |  tag as `v1.4` | GitHub
-{{ icon_team }} Jar file |  `[team][product name].jar`<br>%%e.g. [M11-1][ContactsPlus].jar%% | LumiNUS
-{{ icon_team }} User Guide | `[TEAM_ID][product Name]UserGuide.pdf`<br>  %%e.g.[M11-1][Contacts Plus]UserGuide.pdf%% | LumiNUS
-{{ icon_team }} Developer Guide | `[TEAM_ID][product Name]DeveloperGuide.pdf`<br> %%e.g. [M11-1][Contacts Plus]DeveloperGuide.pdf%% | LumiNUS
-{{ icon_team }} Product Website | `README` page, `Ui.png`, `AboutUs` page | github.io
-{{ icon_individual }} Project Portfolio Page | `[TEAM_ID][Your Name]Portfolio.pdf`<br> %%e.g.[M11-1][John Doe]Portfolio.pdf%%<br>html version of PPP page on the product website | LumiNUS<br><br>github.io
+{{ icon_team }} Jar file |  `[team][product name].jar`<br>%%e.g. [AY1920S1-CS2113T-F10-3][ContactsPlus].jar%% | LumiNUS
+{{ icon_team }} User Guide | `[TEAM_ID][product Name]UserGuide.pdf`<br>  %%e.g.[AY1920S1-CS2113T-F10-3][Contacts Plus]UserGuide.pdf%% | LumiNUS
+{{ icon_team }} Developer Guide | `[TEAM_ID][product Name]DeveloperGuide.pdf`<br> %%e.g. [AY1920S1-CS2113T-F10-3][Contacts Plus]DeveloperGuide.pdf%% | LumiNUS
+{{ icon_team }} Product Website | `README` page, `Ui.png`, `AboutUs` page | GitHub
+{{ icon_individual }} Project Portfolio Page | `[TEAM_ID][Your Name]Portfolio.pdf`<br> %%e.g.[AY1920S1-CS2113T-F10-3][John Doe]PPP.pdf%% | LumiNUS
 
-* **Deadline** for all v1.4 submissions is Week 13 Sunday 23.59 unless stated otherwise.<br>
+* **Deadline** for all v1.4 submissions is Week 13 Monday 23.59 unless stated otherwise.<br>
 * Submit to LumiNUS folder we have set up, not to your project space.<br>
-  {{ module | lower }}T students: documents should be submitted to both modules. It's not enough to submit to CS2101 side only.
+  * **{{ module }}T students:** documents should be submitted to both modules. It's not enough to submit to CS2101 side only.
+  <br>
 * {{ icon_important_big_red }} **Penalty for late submission:**<br>
   ==-1 mark for missing the deadline (up to 2 hour of delay).==<br>
   -2 for an _extended delay_ (up to 24 hours late).<br>
@@ -32,7 +33,7 @@ Team/Individual Item | Name format | Upload to
   * For submissions done via LumiNUS, the submission time is the timestamp shown by LumiNUS.
   * When determining the late submission penalty, **we take the latest submission** even if the same exact file was submitted earlier. Do not submit the same file multiple times if you want to avoid unnecessary late submission penalties.
 * The whole team is penalized for problems in team submissions. Only the respective student is penalized for problems in individual submissions. 
-* {{ icon_important_big_red }} Please **follow submission instructions closely**. ==Any non-compliance will be penalized==. e.g. wrong file name, team member photos not suitable, etc.
+* {{ icon_important_big_red }} Please **follow submission instructions closely**. ==Any non-compliance will be penalized==. e.g. wrong file name, wrong file format, etc.
 * For pdf submissions, ensure the file is usable and hyperlinks in the file are correct. Problems in documents are considered bugs too %%&nbsp;e.g. broken links, outdated diagrams/instructions etc.%%.
 * **Do not update the repo during the 14 days after the deadline.** Get our permission first if you need to update the repo during that _freeze_ period. You can continue to evolve your repo after that.
 
@@ -64,7 +65,8 @@ Team/Individual Item | Name format | Upload to
 {{ embed_topic("project-deliverables.md#project-deliverables-ug", "Admin " + icon_embedding + " Project → Deliverables → User Guide", "v14-deliverableUg", "3") }}
 <p/>
 
-**Submission**: Convert the pdf (AB4 dev guide has some instructions on converting project docs to pdf) and upload to LumiNUS. See _summary of submissions_ above for the file name format.
+**Submission**: Submit the pdf file to LumiNUS. See _summary of submissions_ above for the file name format.
+  * If you have used `adoc` to write your documentation, ensure that all necessary pages are included in the rendered HTML file. Convert the HTML to PDF and submit the PDF on Luminus.
 
 
 ### v1.4 Developer Guide
@@ -110,7 +112,7 @@ Team/Individual Item | Name format | Upload to
 
 **Time/venue:** week 13 lecture slot
 
--->
+
 
 </div>
 </div>
