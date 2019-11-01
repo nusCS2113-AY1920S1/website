@@ -243,7 +243,7 @@ At the end of the project each student is required to submit a _Project Portfoli
 
 **During the session**:
 1. **Take note of your team to test**. Distributed via LumiNUS gradebook.
-1. Download the latest jar file from the team's GitHub page. ==Copy it to an empty folder==.
+1. Download the latest jar file from the team's GitHub page (if you haven't done yet). ==Copy it to an empty folder==.
 1. Confirm you are testing the allocated product by comparing the product UI with the UI screenshot seen in the project dashboard.
 
 <div id="project-deliverables-pe-testing-intructions">
@@ -258,7 +258,7 @@ At the end of the project each student is required to submit a _Project Portfoli
 * Launch the jar file using the java -jar command (do not use double-clicking).
 * **If the product doesn't work at all:** If the product fails catastrophically e.g., cannot even launch, you can test the fallback team allocated to you. But in this case ==you must inform us immediately during/after the session== so that we can send your bug reports to the correct team.
   * PE-D: Download the JAR file from their GitHub page
-  * PE: 1. Download from LumiNUS all files submitted by the team (i.e. jar file, User Guide, Developer Guide, and Project Portfolio Pages) into an empty folder.
+  * PE: Download from LumiNUS all files submitted by the team (i.e. jar file, User Guide, Developer Guide, and Project Portfolio Pages) into an empty folder.
 
 **What to test**:
 
@@ -282,8 +282,8 @@ At the end of the project each student is required to submit a _Project Portfoli
 * PE Dry Run (at **v1.3**): You can also post suggestions on how to improve the product. :bulb: Be diplomatic when reporting bugs or suggesting improvements. For example, instead of criticising the current behavior, simply suggest alternatives to consider.
 * PE (at **v1.4**): Do not post suggestions. But if a feature is missing a critical functionality that makes the feature less useful to the intended user, it can be reported as a bug.
   
-**How/where to report bugs**:  
-* {{ icon_important_big_red }} Post bugs as you find them %%(i.e., do not wait to post all bugs at the end)%% because the issue tracker will close exactly at the end of the allocated time.
+**How/where/when to report bugs**:  
+* {{ icon_important_big_red }} Post bugs as you find them %%(i.e., do not wait to post all bugs at the end)%% because bugs filed outside the testing duration will not be considered.
   * ==Do not use team ID in bug reports==. %%Reason: to prevent others copying your bug reports%%
  
 <div class="indented-level2">
@@ -318,7 +318,7 @@ At the end of the project each student is required to submit a _Project Portfoli
 **Bug report format**:
 
 * Each bug should be a separate issue.
-* Write good quality bug reports; ==poor quality or incorrect bug reports will not earn credit==.
+* Write good quality bug reports; ==poor quality (e.g., giving only screenshot with no description,  details incomplete, etc.,) or incorrect bug reports will not earn credit==.
 * Use a descriptive title.
 * Give a good description of the bug with ==steps to reproduce and screenshots==.
 * Assign exactly one `severity.*` label to the bug report. Bug report without a severity label are considered `severity.Low` (lower severity bugs earn lower credit).
@@ -452,7 +452,7 @@ At the end of the project each student is required to submit a _Project Portfoli
 
 #### Phase 2: Developer response phase
 
-Duration: The review period will start around 1 day after the PE (exact time to be announced) and will last until the following **Monday midnight**. However, you are recommended to finish this task ASAP, to minimize cutting into your exam preparation work.
+Duration: The review period will start around 1 day after the PE (exact time to be announced) and will last until the following **Tuesday midnight**. However, you are recommended to finish this task ASAP, to minimize cutting into your exam preparation work.
 
 Bug reviewing is recommended to be done as a team as some of the decisions need team consensus.
 
