@@ -19,7 +19,7 @@ Team/Individual Item | Name format | Upload to
 {{ icon_team }} User Guide | `[TEAM_ID][product Name]UserGuide.pdf`<br>  %%e.g.[AY1920S1-CS2113T-F10-3][Contacts Plus]UserGuide.pdf%% | LumiNUS
 {{ icon_team }} Developer Guide | `[TEAM_ID][product Name]DeveloperGuide.pdf`<br> %%e.g. [AY1920S1-CS2113T-F10-3][Contacts Plus]DeveloperGuide.pdf%% | LumiNUS
 {{ icon_team }} Product Website | `README` page, `Ui.png`, `AboutUs` page | GitHub
-{{ icon_individual }} Project Portfolio Page | `[TEAM_ID][Your Name]Portfolio.pdf`<br> %%e.g.[AY1920S1-CS2113T-F10-3][John Doe]PPP.pdf%% | LumiNUS
+{{ icon_individual }} Project Portfolio Page | `[TEAM_ID][Your Name]PPP.pdf`<br> %%e.g.[AY1920S1-CS2113T-F10-3][John Doe]PPP.pdf%% | LumiNUS
 
 * **Deadline** for all v1.4 submissions is Week 13 Monday 23.59 unless stated otherwise.<br>
 * Submit to LumiNUS folder we have set up, not to your project space.<br>
