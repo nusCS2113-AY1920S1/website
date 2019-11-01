@@ -1318,3 +1318,10 @@ Missing reference in E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-
 2019-10-31T08:26:43.611Z - info: Deployed!
 2019-10-31T08:28:44.540Z - info: Website generation started at 4:28:41 PM
 2019-10-31T08:28:46.166Z - info: Building assets...
+2019-10-31T08:28:47.906Z - info: Assets built
+2019-10-31T08:28:47.906Z - info: Generating pages...
+2019-10-31T08:29:58.104Z - info: Pages built
+2019-10-31T08:30:15.277Z - info: Website generation complete! Total build time: 93.769s
+2019-10-31T08:30:15.277Z - info: Build success!
+2019-10-31T08:30:15.289Z - info: Site data built
+2019-10-31T08:30:51.633Z - info: Deployed!
