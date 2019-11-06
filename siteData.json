@@ -3,12 +3,10 @@
   "pages": [
     {
       "headings": {
-        "week-11-oct-28": "Week 11 [Oct 28]",
-        "project": "Project",
-        "user-testing-session": "User testing session",
+        "week-12-nov-4": "Week 12 [Nov 4]",
         "demo-during-tutorial": "Demo during tutorial",
-        "mock-submissions-this-week": "(Mock) Submissions this week",
-        "faq-for-reposense": "FAQ for Reposense"
+        "mock-mcq": "Mock MCQ",
+        "prepare-testing-instructions": "Prepare testing instructions"
       },
       "title": "Home",
       "header": "header.md",
