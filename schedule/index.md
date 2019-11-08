@@ -38,7 +38,7 @@ head: scheduleHead.md
 -->
 
 
-{% set current_weeks = ["12"] %}
+{% set current_weeks = ["13"] %}
 
 
 {% set all_topics = [
