@@ -462,21 +462,82 @@ Bug reviewing is recommended to be done as a team as some of the decisions need 
 
 * **First, don't freak out if there are lot of bug reports.** Many can be duplicates and some can be _false positives_. In any case, we anticipate that all of these products will have some bugs and our penalty for bugs is not harsh. Furthermore, it depends on the severity of the bug. Some bug may not even be penalized.
 
+<tabs> 
+  <tab header="Using CATcher">
+
+<box type="info">
+
+* CATcher does not come with a UG, but the UI is fairly intuitive (there are tool tips too). Do post in the forum or ask in slack if you need any guidance with its usage.
+* Also note that CATcher hasn't been battle-tested for this phase, in particular, w.r.t. multiple team members editing the same issue concurrently. It is ideal if the team members get together and work through the issues together. If you think others might be editing the same issues at the same time, use the `Sync` button at the top to force-sync your view with the latest data from GitHub.
+</box>
+* Launch CATcher, and login to the profile `{{ module }}/T PE`. It will show all the bugs assigned to your team, divided into three sections:
+  1. `Issues Pending Responses` - Issues that your team has not processed yet.
+  1. `Issues Responded` - Your job is to get all issues to the second category.
+  1. `Faulty Issues` - e.g., Bugs marked as duplicates of each other, or causing circular _duplicate_ relationships. Fix the problem given so that no issues remain in this category.
+* Respond to the bug reports shown.
+</tab>
+<tab header="Not using CATcher">
+<div class="indented-less">
+
+<markdown>
+
+<box type="warning">
+
+Issues created for PE-D and PE need to be in a precise format for our grading scripts to work. Incorrectly-formatted responses will have to discarded. Therefore, you are strongly recommended to use CATcher for PE-D and PE activities. If you want to give your response via GitHub instead, **<span class="text-danger">please get our permission first</span>**.
+</box>
+
+* Go to the [dev-response issue tracker]({{ module_org }}/pe-dev-response)
+* Use `tutorial.*` and `team.*` labels to filter bug reports your team received.
+* **Do not edit the subject or the description.** Your response (if any) should be added as a comment.
+* Add a comment using the following exact template.
+  ```markdown
+  # Team's Response
+  {replace this with your response}
+  
+  ## Duplicate status (if any):
+  
+  ```
+  Here is an example:
+  ```markdown
+  # Team's Response
+
+  Yes this is a bug. But it is a duplicate.
+  * Changed the bug type because this is just a bug in the UG.
+  * Lowered the severity because users can still use the feature.
+  
+  ## Duplicate status (if any):
+  Duplicate of #67
+  ```
+* Do not close the bug report after you are done processing it.
+* Use the exact `Duplicate of #123` format to indicate duplicates.
+* There should be exactly one comment per issue. If there are multiple comments, the last one will be taken for processing.
+</markdown>
+</div>
+</tab>
+</tabs>
+
+<!--
 * **Do not edit the subject or the description.** Your response (if any) should be added as a comment.
 
 * You may (but not required to) close the bug report after you are done processing it, as a convenient means of separating the 'processed' issues from 'not yet processed' issues.
+-->
 
-* **If the bug is reported multiple times**, mark all copies EXCEPT one as duplicates using the `duplicate` tag (if the duplicates have different severity levels, you should ==keep the one with the highest severity==). In addition, ==use [this technique](https://help.github.com/articles/about-duplicate-issues-and-pull-requests/) to indicate which issue they are duplicates of==.  Duplicates can be omitted from processing steps given below.
+* **If a bug seems to be for a different product** (i.e. wrongly assigned to your team), let us know ASAP (email prof).
 
-* **If a bug seems to be for a different product** (i.e. wrongly assigned to your team), let us know (email prof).
+* **If the bug is reported multiple times**,
+  * Mark <span class="text-danger">all copies ==EXCEPT one==</span> as duplicates of the one left out (let's call that one the _original_) using the `duplicate` tag.
+  * If the duplicates have different severity levels, you should ==keep the one with the highest severity== as the _original_. But you can downgrade the severity of the original or the duplicates.
+  * For each group of duplicates, all duplicates should point to one _original_ i.e., no multiple levels of duplicates, and no cyclical duplication relationships.
+  * If the duplication status is eventually accepted, all duplicates will be assumed to have inherited the `type.*` and `severity.*` from the _original_.
+  
+  <p/>
 
-* **Decide if it is a real bug and apply ONLY one of these labels**.
+* **Apply exactly one of these labels** (if missing, we assign: `response.Accepted`)
 
 <div class="indented">
 <box>
 
-Response Labels:  
-==Apply exactly one of these. **If the label is missing, we assign `response.Accepted` by default.**==
+**Response** Labels:  
 * `response.Accepted`: You accept it as a bug.
 * `response.NotInScope`: It is a valid issue but not something the team should be penalized for e.g., it was not related to features delivered in v1.4.
 * `response.Rejected`: What tester treated as a bug is in fact the expected behavior. {{ icon_important_big_red }} The may lose marks for rejecting a bug without an explanation or using an unjustifiable explanation.
@@ -486,13 +547,10 @@ Response Labels:
 </box>
 </div>
 
-* If applicable, **decide the type of bug**. Bugs without `type.*` are considered `type.FunctionalityBug` by default (which are liable to a heavier penalty).
+* **Apply exactly one of these labels** (if missing, we assign: `type.FunctionalityBug`)
 
 <div class="indented">
 <box>
-
-
-==Apply exactly one of these. **If the label is missing, we assign `type.FunctionalityBug` by default.**==
 
 <span id="type-labels">
 
@@ -511,7 +569,7 @@ Response Labels:
 </box>
 </div>
 
-* **If you disagree with the original severity assigned to the bug**, you may change it to the correct level, in which case add a comment justifying the change. All such changes will be double-checked by the teaching team. You will lose marks for unreasonable lowering of severity.
+* **If you disagree with the original severity assigned to the bug**, you may change it to the correct level, in which case add a comment justifying the change. All such changes will be double-checked by the teaching team.
 
 <div class="indented">
   <include src="appendixE-gitHub.md#bug-severity" />
@@ -519,15 +577,16 @@ Response Labels:
 
 * **Decide who should fix the bug**. Use the `Assignees` field to assign the issue to that person(s). There is no need to actually fix the bug though. It's simply an indication/acceptance of responsibility. **If there is no assignee, we will distribute the penalty for that bug (if any) among all team members.**
   * If it is not easy to decide the assignee(s), we recommend (but not enforce) that the feature owner should be assigned bugs related to the feature, Reason: The feature owner should have defended the feature against bugs using automated tests and defensive coding techniques.
-* **Assign owners for the rejected bugs as well**. If the bug is incorrectly rejected, the penalty will apply to only the owner, if no owner is assigned, the penalty will be distributed to the team.
+  <p/>
+  
+* As far as possible, **choose the correct `type.*`, `severity.*`, and assignees even for bugs you are not accepting or for bugs that are marked as duplicates**. Reason: your _non-acceptance_  or duplication status may be rejected in a later phase, in which case we need to grade it as an accepted/non-duplicate bug.
+ <p/>
  
-* **Add an explanatory comment:** For all of the following cases, you must add a comment justifying your stance. Testers will get to respond to all those cases and will be double-checked by the teaching team in later phases. Indiscriminate/unreasonable dev/tester responses, if deemed as a case of trying to game the system, will be penalized.
+* **Justify your response.** For all of the following cases, ==you must add a comment justifying your stance==. Testers will get to respond to all those cases and will be double-checked by the teaching team in later phases. Indiscriminate/unreasonable dev/tester responses, if deemed as a case of trying to game the system, will be penalized.
   * downgrading severity
   * non-acceptance of a bug
   * changing the bug type
   * non-obvious duplicate
-
-* We recommend choosing `type.*`, `severity.*` and assignee even for bugs you are not accepting. Reason: your _non-acceptance_ may be rejected by the tutor later, in which case we need to grade it as an accepted bug.
 
 </tip-box>
 
