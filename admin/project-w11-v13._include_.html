@@ -759,29 +759,85 @@ method 2 ...
                   <tip-box>
                     <p><strong>Instructions for Reviewing Bug Reports</strong></p>
                     <ul>
+                      <li><strong>First, don't freak out if there are lot of bug reports.</strong> Many can be duplicates and some can be <em>false positives</em>. In any case, we anticipate that all of these products will have some bugs and our penalty for bugs is not harsh. Furthermore, it depends on the severity of the bug. Some bug may not even be penalized.</li>
+                    </ul>
+                    <tabs>
+                      <tab header="Using CATcher">
+                        <box type="info">
+                          <ul>
+                            <li>CATcher does not come with a UG, but the UI is fairly intuitive (there are tool tips too). Do post in the forum or ask in slack if you need any guidance with its usage.</li>
+                            <li>Also note that CATcher hasn't been battle-tested for this phase, in particular, w.r.t. multiple team members editing the same issue concurrently. It is ideal if the team members get together and work through the issues together. If you think others might be editing the same issues at the same time, use the <code>Sync</code> button at the top to force-sync your view with the latest data from GitHub.
+                            </li>
+                          </ul>
+                        </box>
+                        <li>Launch CATcher, and login to the profile <code>CS2113/T PE</code>. It will show all the bugs assigned to your team, divided into three sections:
+                          <ol>
+                            <li><code>Issues Pending Responses</code> - Issues that your team has not processed yet.</li>
+                            <li><code>Issues Responded</code> - Your job is to get all issues to the second category.</li>
+                            <li><code>Faulty Issues</code> - e.g., Bugs marked as duplicates of each other, or causing circular <em>duplicate</em> relationships. Fix the problem given so that no issues remain in this category.</li>
+                          </ol>
+                        </li>
+                        <li>Respond to the bug reports shown.
+                        </li>
+                      </tab>
+                      <tab header="Not using CATcher">
+
+                        <div class="indented-less">
+                          <div>
+                            <box type="warning">
+                              <p>Issues created for PE-D and PE need to be in a precise format for our grading scripts to work. Incorrectly-formatted responses will have to discarded. Therefore, you are strongly recommended to use CATcher for PE-D and PE activities. If you want to give your response via GitHub instead, <strong><span class="text-danger">please get our permission first</span></strong>.
+                              </p>
+                            </box>
+                            <ul>
+                              <li>Go to the <a href="https://github.com/nusCS2113-AY1920S1/pe-dev-response">dev-response issue tracker</a></li>
+                              <li>Use <code>tutorial.*</code> and <code>team.*</code> labels to filter bug reports your team received.</li>
+                              <li><strong>Do not edit the subject or the description.</strong> Your response (if any) should be added as a comment.</li>
+                              <li>Add a comment using the following exact template.
+                                <pre><code class="hljs markdown"><span class="hljs-section"># Team's Response</span>
+{replace this with your response}
+<p><span class="hljs-section">## Duplicate status (if any):</span></p>
+<p></p></code></pre>
+                                Here is an example:
+                                <pre><code class="hljs markdown"><span class="hljs-section"># Team's Response</span><p></p>
+<p>Yes this is a bug. But it is a duplicate.
+<span class="hljs-bullet">* </span>Changed the bug type because this is just a bug in the UG.
+<span class="hljs-bullet">* </span>Lowered the severity because users can still use the feature.</p>
+<p><span class="hljs-section">## Duplicate status (if any):</span>
+Duplicate of #67
+</p></code></pre>
+                                <p></p>
+                              </li>
+                              <li>Do not close the bug report after you are done processing it.</li>
+                              <li>Use the exact <code>Duplicate of #123</code> format to indicate duplicates.</li>
+                              <li>There should be exactly one comment per issue. If there are multiple comments, the last one will be taken for processing.
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </tab>
+                    </tabs>
+
+                    <ul>
                       <li>
-                        <p><strong>First, don't freak out if there are lot of bug reports.</strong> Many can be duplicates and some can be <em>false positives</em>. In any case, we anticipate that all of these products will have some bugs and our penalty for bugs is not harsh. Furthermore, it depends on the severity of the bug. Some bug may not even be penalized.</p>
+                        <p><strong>If a bug seems to be for a different product</strong> (i.e. wrongly assigned to your team), let us know ASAP (email prof).</p>
                       </li>
                       <li>
-                        <p><strong>Do not edit the subject or the description.</strong> Your response (if any) should be added as a comment.</p>
+                        <p><strong>If the bug is reported multiple times</strong>,</p>
+                        <ul>
+                          <li>Mark <span class="text-danger">all copies <mark>EXCEPT one</mark></span> as duplicates of the one left out (let's call that one the <em>original</em>) using the <code>duplicate</code> tag.</li>
+                          <li>If the duplicates have different severity levels, you should <mark>keep the one with the highest severity</mark> as the <em>original</em>. But you can downgrade the severity of the original or the duplicates.</li>
+                          <li>For each group of duplicates, all duplicates should point to one <em>original</em> i.e., no multiple levels of duplicates, and no cyclical duplication relationships.</li>
+                          <li>If the duplication status is eventually accepted, all duplicates will be assumed to have inherited the <code>type.*</code> and <code>severity.*</code> from the <em>original</em>.</li>
+                        </ul>
+                        <p></p>
                       </li>
                       <li>
-                        <p>You may (but not required to) close the bug report after you are done processing it, as a convenient means of separating the 'processed' issues from 'not yet processed' issues.</p>
-                      </li>
-                      <li>
-                        <p><strong>If the bug is reported multiple times</strong>, mark all copies EXCEPT one as duplicates using the <code>duplicate</code> tag (if the duplicates have different severity levels, you should <mark>keep the one with the highest severity</mark>). In addition, <mark>use <a href="https://help.github.com/articles/about-duplicate-issues-and-pull-requests/">this technique</a> to indicate which issue they are duplicates of</mark>. Duplicates can be omitted from processing steps given below.</p>
-                      </li>
-                      <li>
-                        <p><strong>If a bug seems to be for a different product</strong> (i.e. wrongly assigned to your team), let us know (email prof).</p>
-                      </li>
-                      <li>
-                        <p><strong>Decide if it is a real bug and apply ONLY one of these labels</strong>.</p>
+                        <p><strong>Apply exactly one of these labels</strong> (if missing, we assign: <code>response.Accepted</code>)</p>
                       </li>
                     </ul>
                     <div class="indented">
                       <box>
-                        <p>Response Labels:<br>
-                          <mark>Apply exactly one of these. <strong>If the label is missing, we assign <code>response.Accepted</code> by default.</strong></mark></p>
+                        <p><strong>Response</strong> Labels:</p>
                         <ul>
                           <li><code>response.Accepted</code>: You accept it as a bug.</li>
                           <li><code>response.NotInScope</code>: It is a valid issue but not something the team should be penalized for e.g., it was not related to features delivered in v1.4.</li>
@@ -792,11 +848,10 @@ method 2 ...
                       </box>
                     </div>
                     <ul>
-                      <li>If applicable, <strong>decide the type of bug</strong>. Bugs without <code>type.*</code> are considered <code>type.FunctionalityBug</code> by default (which are liable to a heavier penalty).</li>
+                      <li><strong>Apply exactly one of these labels</strong> (if missing, we assign: <code>type.FunctionalityBug</code>)</li>
                     </ul>
                     <div class="indented">
                       <box>
-                        <p><mark>Apply exactly one of these. <strong>If the label is missing, we assign <code>type.FunctionalityBug</code> by default.</strong></mark></p>
                         <span id="type-labels">
                           <tip-box>
                             <p><strong>Bug Type</strong> Labels:</p>
@@ -807,11 +862,10 @@ method 2 ...
                               <li><code>type.DocumentationBug</code>: A flaw in the documentation that can potentially affect the user <span class="dimmed">e.g., a missing step, a wrong instruction</span></li>
                             </ul>
                           </tip-box>
-                        </span>
-                      </box>
+                        </span></box>
                     </div>
                     <ul>
-                      <li><strong>If you disagree with the original severity assigned to the bug</strong>, you may change it to the correct level, in which case add a comment justifying the change. All such changes will be double-checked by the teaching team. You will lose marks for unreasonable lowering of severity.</li>
+                      <li><strong>If you disagree with the original severity assigned to the bug</strong>, you may change it to the correct level, in which case add a comment justifying the change. All such changes will be double-checked by the teaching team.</li>
                     </ul>
                     <div class="indented">
                       <div>
@@ -833,21 +887,21 @@ method 2 ...
                         <ul>
                           <li>If it is not easy to decide the assignee(s), we recommend (but not enforce) that the feature owner should be assigned bugs related to the feature, Reason: The feature owner should have defended the feature against bugs using automated tests and defensive coding techniques.</li>
                         </ul>
+                        <p></p>
                       </li>
                       <li>
-                        <p><strong>Assign owners for the rejected bugs as well</strong>. If the bug is incorrectly rejected, the penalty will apply to only the owner, if no owner is assigned, the penalty will be distributed to the team.</p>
+                        <p>As far as possible, <strong>choose the correct <code>type.*</code>, <code>severity.*</code>, and assignees even for bugs you are not accepting or for bugs that are marked as duplicates</strong>. Reason: your <em>non-acceptance</em> or duplication status may be rejected in a later phase, in which case we need to grade it as an accepted/non-duplicate bug.</p>
                       </li>
-                      <li>
-                        <p><strong>Add an explanatory comment:</strong> For all of the following cases, you must add a comment justifying your stance. Testers will get to respond to all those cases and will be double-checked by the teaching team in later phases. Indiscriminate/unreasonable dev/tester responses, if deemed as a case of trying to game the system, will be penalized.</p>
+                    </ul>
+                    <p></p>
+                    <ul>
+                      <li><strong>Justify your response.</strong> For all of the following cases, <mark>you must add a comment justifying your stance</mark>. Testers will get to respond to all those cases and will be double-checked by the teaching team in later phases. Indiscriminate/unreasonable dev/tester responses, if deemed as a case of trying to game the system, will be penalized.
                         <ul>
                           <li>downgrading severity</li>
                           <li>non-acceptance of a bug</li>
                           <li>changing the bug type</li>
                           <li>non-obvious duplicate</li>
                         </ul>
-                      </li>
-                      <li>
-                        <p>We recommend choosing <code>type.*</code>, <code>severity.*</code> and assignee even for bugs you are not accepting. Reason: your <em>non-acceptance</em> may be rejected by the tutor later, in which case we need to grade it as an accepted bug.</p>
                       </li>
                     </ul>
                   </tip-box>
