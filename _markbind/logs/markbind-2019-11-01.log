@@ -1,0 +1,32 @@
+2019-11-01T02:44:41.760Z - info: Website generation started at 10:44:38 AM
+2019-11-01T02:44:43.901Z - info: Building assets...
+2019-11-01T02:44:45.677Z - info: Assets built
+2019-11-01T02:44:45.678Z - info: Generating pages...
+2019-11-01T02:45:57.793Z - info: Pages built
+2019-11-01T02:46:12.280Z - info: Website generation complete! Total build time: 93.813s
+2019-11-01T02:46:12.639Z - info: Serving "E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-11-01T02:46:12.639Z - info: Press CTRL+C to stop ...
+2019-11-01T02:46:12.672Z - info: Site data built
+2019-11-01T02:47:42.154Z - info: [10:47:42 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\admin\project-deliverables.md
+2019-11-01T02:47:43.156Z - info: Rebuilding affected source files
+2019-11-01T02:47:43.162Z - info: Rebuilding 31 pages
+2019-11-01T02:47:58.613Z - info: Pages rebuilt
+2019-11-01T02:47:58.644Z - info: Site data built
+2019-11-01T02:57:09.034Z - info: Website generation started at 10:57:05 AM
+2019-11-01T02:57:10.692Z - info: Building assets...
+2019-11-01T02:57:12.380Z - info: Assets built
+2019-11-01T02:57:12.380Z - info: Generating pages...
+2019-11-01T02:58:29.539Z - info: Pages built
+2019-11-01T02:58:43.825Z - info: Website generation complete! Total build time: 98.17s
+2019-11-01T02:58:43.826Z - info: Build success!
+2019-11-01T02:58:43.837Z - info: Site data built
+2019-11-01T02:59:21.985Z - info: Deployed!
+2019-11-01T03:06:38.447Z - info: Website generation started at 11:06:35 AM
+2019-11-01T03:06:40.098Z - info: Building assets...
+2019-11-01T03:06:41.860Z - info: Assets built
+2019-11-01T03:06:41.860Z - info: Generating pages...
+2019-11-01T03:07:53.639Z - info: Pages built
+2019-11-01T03:08:11.327Z - info: Website generation complete! Total build time: 96.135s
+2019-11-01T03:08:11.327Z - info: Build success!
+2019-11-01T03:08:11.338Z - info: Site data built
+2019-11-01T03:08:45.412Z - info: Deployed!
