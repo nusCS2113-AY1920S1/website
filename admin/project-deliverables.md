@@ -601,7 +601,18 @@ Issues created for PE-D and PE need to be in a precise format for our grading sc
 
 - In this phase you will get to state whether you agree or disagree with the dev response to the bugs you reported.
 - This phase is optional. If you do not respond to a dev response, we'll assume that you agree with it.
-- Deadline: Reading week Wednesday 2359
+- Deadline: Reading week Thursday 2359 hrs
+* Procedure:
+  * Login to CATcher as usual (profile: `CS2113/T PE`).
+  * If a bug reported has been subjected to any of the below by the receiving team, CATcher will allow you to record your objections and the reason for the objection.
+    * not accepted
+    * severity downgraded
+    * bug type changed
+  * If you are not using CATcher, edit the comment posted by the bot.
+    * don't add any new comments.
+    * be careful not to remove any of the elements that are already present in the comment
+* As before, consider carefully before you object to a team response. ==If many of your objections were overruled by the teaching team later==, you will lose marks for not being able to evaluate a bug report properly.
+
 
 
 #### Phase 4: Moderation by the teaching team
