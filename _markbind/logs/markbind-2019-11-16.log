@@ -1,0 +1,103 @@
+2019-11-16T13:21:42.184Z - info: Website generation started at 9:21:40 PM
+2019-11-16T13:21:43.838Z - info: Building assets...
+2019-11-16T13:21:45.436Z - info: Assets built
+2019-11-16T13:21:45.437Z - info: Generating pages...
+2019-11-16T13:24:05.513Z - info: Pages built
+2019-11-16T13:24:43.659Z - info: Website generation complete! Total build time: 183.567s
+2019-11-16T13:24:43.766Z - info: Serving "D:\Teaching\CS2113\AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2019-11-16T13:24:43.768Z - info: Press CTRL+C to stop ...
+2019-11-16T13:24:43.796Z - info: Site data built
+2019-11-16T13:44:13.537Z - info: [9:44:13 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T13:44:14.545Z - info: Rebuilding affected source files
+2019-11-16T13:44:14.560Z - info: Rebuilding 31 pages
+2019-11-16T13:44:43.759Z - info: Pages rebuilt
+2019-11-16T13:44:43.794Z - info: Site data built
+2019-11-16T13:45:39.505Z - info: [9:45:39 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T13:45:40.511Z - info: Rebuilding affected source files
+2019-11-16T13:45:40.524Z - info: Rebuilding 29 pages
+2019-11-16T13:46:11.968Z - info: Pages rebuilt
+2019-11-16T13:46:12.026Z - info: Site data built
+2019-11-16T13:48:55.274Z - info: [9:48:55 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T13:48:56.290Z - info: Rebuilding affected source files
+2019-11-16T13:48:56.302Z - info: Rebuilding 29 pages
+2019-11-16T13:49:27.412Z - info: Pages rebuilt
+2019-11-16T13:49:27.469Z - info: Site data built
+2019-11-16T13:50:26.438Z - info: [9:50:26 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T13:50:27.439Z - info: Rebuilding affected source files
+2019-11-16T13:50:27.446Z - info: Rebuilding 29 pages
+2019-11-16T13:50:47.657Z - info: [9:50:47 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T13:51:01.185Z - info: Pages rebuilt
+2019-11-16T13:51:01.309Z - info: Site data built
+2019-11-16T13:51:01.591Z - info: Rebuilding affected source files
+2019-11-16T13:51:01.600Z - info: Rebuilding 29 pages
+2019-11-16T13:51:37.051Z - info: Pages rebuilt
+2019-11-16T13:51:37.080Z - info: Site data built
+2019-11-16T13:51:52.429Z - info: [9:51:52 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T13:51:53.445Z - info: Rebuilding affected source files
+2019-11-16T13:51:53.471Z - info: Rebuilding 29 pages
+2019-11-16T13:52:23.417Z - info: Pages rebuilt
+2019-11-16T13:52:23.444Z - info: Site data built
+2019-11-16T13:52:56.317Z - info: [9:52:56 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T13:52:57.324Z - info: Rebuilding affected source files
+2019-11-16T13:52:57.344Z - info: Rebuilding 29 pages
+2019-11-16T13:53:28.850Z - info: Pages rebuilt
+2019-11-16T13:53:28.883Z - info: Site data built
+2019-11-16T13:54:34.996Z - info: [9:54:34 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T13:54:36.000Z - info: Rebuilding affected source files
+2019-11-16T13:54:36.010Z - info: Rebuilding 29 pages
+2019-11-16T13:55:11.437Z - info: Pages rebuilt
+2019-11-16T13:55:11.480Z - info: [9:55:11 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T13:55:11.497Z - info: Site data built
+2019-11-16T13:55:12.482Z - info: Rebuilding affected source files
+2019-11-16T13:55:12.490Z - info: Rebuilding 29 pages
+2019-11-16T13:55:49.456Z - info: Pages rebuilt
+2019-11-16T13:55:49.494Z - info: [9:55:49 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T13:55:49.499Z - info: Site data built
+2019-11-16T13:55:50.497Z - info: Rebuilding affected source files
+2019-11-16T13:55:50.515Z - info: Rebuilding 29 pages
+2019-11-16T13:56:21.762Z - info: Pages rebuilt
+2019-11-16T13:56:21.793Z - info: Site data built
+2019-11-16T13:57:08.036Z - info: [9:57:08 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T13:57:09.041Z - info: Rebuilding affected source files
+2019-11-16T13:57:09.051Z - info: Rebuilding 29 pages
+2019-11-16T13:57:28.276Z - info: [9:57:28 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T13:57:41.587Z - info: Pages rebuilt
+2019-11-16T13:57:41.614Z - info: Site data built
+2019-11-16T13:57:41.708Z - info: Rebuilding affected source files
+2019-11-16T13:57:41.717Z - info: Rebuilding 29 pages
+2019-11-16T13:58:12.948Z - info: Pages rebuilt
+2019-11-16T13:58:12.972Z - info: Site data built
+2019-11-16T13:59:03.025Z - info: [9:59:03 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T13:59:04.029Z - info: Rebuilding affected source files
+2019-11-16T13:59:04.040Z - info: Rebuilding 29 pages
+2019-11-16T13:59:37.197Z - info: Pages rebuilt
+2019-11-16T13:59:37.227Z - info: Site data built
+2019-11-16T13:59:59.812Z - info: [9:59:59 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T14:00:00.818Z - info: Rebuilding affected source files
+2019-11-16T14:00:00.829Z - info: Rebuilding 29 pages
+2019-11-16T14:00:11.201Z - info: [10:00:11 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T14:00:34.994Z - info: Pages rebuilt
+2019-11-16T14:00:35.108Z - info: Site data built
+2019-11-16T14:00:35.237Z - info: Rebuilding affected source files
+2019-11-16T14:00:35.245Z - info: Rebuilding 29 pages
+2019-11-16T14:00:44.215Z - info: [10:00:44 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T14:01:11.082Z - info: Pages rebuilt
+2019-11-16T14:01:11.123Z - info: Site data built
+2019-11-16T14:01:11.237Z - info: Rebuilding affected source files
+2019-11-16T14:01:11.246Z - info: Rebuilding 29 pages
+2019-11-16T14:01:43.565Z - info: Pages rebuilt
+2019-11-16T14:01:43.596Z - info: Site data built
+2019-11-16T14:03:35.492Z - info: [10:03:35 PM] Reload for file change: D:\Teaching\CS2113\AY1920Sem1\website\admin\project-deliverables.md
+2019-11-16T14:03:36.495Z - info: Rebuilding affected source files
+2019-11-16T14:03:36.505Z - info: Rebuilding 29 pages
+2019-11-16T14:04:04.854Z - info: Pages rebuilt
+2019-11-16T14:04:04.881Z - info: Site data built
+2019-11-16T14:04:36.761Z - info: Website generation started at 10:04:35 PM
+2019-11-16T14:04:38.937Z - info: Building assets...
+2019-11-16T14:04:40.788Z - info: Assets built
+2019-11-16T14:04:40.789Z - info: Generating pages...
+2019-11-16T14:06:56.121Z - info: Pages built
+2019-11-16T14:07:27.413Z - info: Website generation complete! Total build time: 172.166s
+2019-11-16T14:07:27.414Z - info: Build success!
+2019-11-16T14:07:27.422Z - info: Site data built
+2019-11-16T14:07:56.123Z - info: Deployed!
