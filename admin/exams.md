@@ -7,7 +7,7 @@ The final exam has two parts:
 * Part 1: MCQ questions (30 minutes, 25 marks) 
 * Part 2: Essay questions (1 hour 30 min, 30 marks)
 
-Both papers will be given to you at the start but you need to **answer Part 1 first** (i.e. MCQ paper). It will be **collected 1 hour after the exam start time** (even if arrived late for the exam). You are free to start part 2 early if you finish Part 1 early.
+Both papers will be given to you at the start but you need to **answer Part 1 first** (i.e. MCQ paper). It will be **collected half an hour after the exam start time** (even if arrived late for the exam). You are free to start part 2 early if you finish Part 1 early.
 
 ## Final Exam: Part 1 (MCQ)
 
@@ -23,8 +23,8 @@ Each MCQ question gives you a statement to evaluate.
 
 
 Unless stated otherwise, the meaning of answer options are<br>
-**A**: Agree. If the question has multiple statements, ++agree with all of them++.<br>
-**B**: Disagree. If the question has multiple statements, ++disagree with at least one of them++<br>
+**A**: Agree/True. If the question has multiple statements, ++agree with all of them++.<br>
+**B**: Disagree/False. If the question has multiple statements, ++disagree with at least one of them++<br>
 **C**, **D**, **E**: Not used
 
 The exam paper has 50 questions. All questions carry equal marks.
@@ -45,10 +45,10 @@ Given the fast pace required by the paper, to be fair to all students, **you wil
 
 <div class="full-mode">
 
-You will be given OCR forms %%(i.e., bubble sheets)%% to indicate your answers for Part 1. As each OCR form can accommodate only 50 answers, you will be given 2 OCR forms. **Indicate your student number in both OCR forms**.
+You will be given OCR forms %%(i.e., bubble sheets)%% to indicate your answers for Part 1. **Indicate your student number in the OCR form**.
 </div>
 
-
+<!--
 Some questions will use ++underlines++ or ==highlighting== to draw your attention to a specific part of the question. That is because those parts are highly relevant to the answer and we don’t want you to miss the relevance of that part.
 
 <tip-box> 
@@ -60,12 +60,12 @@ Some questions will use ++underlines++ or ==highlighting== to draw your attentio
 The word ++can++ is underlined because the decision you need to make is whether the ABC _can or cannot_ be used to generate more test cases; the decision is not whether ABC can be used to generate _more or better_ test cases.
 
 </tip-box>
-
+-->
 
 **The exam paper is open-book**: you may bring any printed or written materials to the exam in hard copy format.
 However, given the fast pace required by Part 1, you will not have time left to refer notes during that part of the exam. 
 
-:bulb: **Mark the OCR form as you go**, rather than planning to transfer your answers to the OCR form near the end. %%&nbsp;Reason: Given there are 100 questions, it will be hard to estimate how much time you need to mass-transfer all answers to OCR forms.%%
+:bulb: **Mark the OCR form as you go**, rather than planning to transfer your answers to the OCR form near the end.
 
 :bulb: **Write the answer in the exam paper as well** when marking it in the OCR form. %%&nbsp;Reason: It will reduce the chance of missing a question. Furthermore, in case you missed a question, it will help you correct the OCR form quickly.%%
 
