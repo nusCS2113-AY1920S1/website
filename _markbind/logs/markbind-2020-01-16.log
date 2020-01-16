@@ -1,0 +1,48 @@
+2020-01-16T02:43:27.800Z - info: Website generation started at 10:43:26 AM
+2020-01-16T02:43:29.055Z - info: Building assets...
+2020-01-16T02:43:30.676Z - info: Assets built
+2020-01-16T02:43:30.677Z - info: Generating pages...
+2020-01-16T02:45:11.759Z - info: Pages built
+2020-01-16T02:45:32.091Z - info: Website generation complete! Total build time: 125.1s
+2020-01-16T02:45:42.558Z - info: Serving "E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2020-01-16T02:45:42.558Z - info: Press CTRL+C to stop ...
+2020-01-16T02:45:42.615Z - info: Site data built
+2020-01-16T03:02:22.345Z - info: Website generation started at 11:02:21 AM
+2020-01-16T03:02:23.878Z - info: Building assets...
+2020-01-16T03:02:25.488Z - info: Assets built
+2020-01-16T03:02:25.489Z - info: Generating pages...
+2020-01-16T03:04:18.306Z - info: Pages built
+2020-01-16T03:04:39.417Z - info: Website generation complete! Total build time: 137.904s
+2020-01-16T03:04:39.418Z - info: Build success!
+2020-01-16T03:04:39.430Z - info: Site data built
+2020-01-16T03:04:58.426Z - error: git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+2020-01-16T03:07:02.243Z - info: Website generation started at 11:07:01 AM
+2020-01-16T03:07:03.325Z - info: Building assets...
+2020-01-16T03:07:04.805Z - info: Assets built
+2020-01-16T03:07:04.806Z - info: Generating pages...
+2020-01-16T03:08:13.587Z - info: Website generation started at 11:08:13 AM
+2020-01-16T03:08:14.557Z - info: Building assets...
+2020-01-16T03:08:15.983Z - info: Assets built
+2020-01-16T03:08:15.984Z - info: Generating pages...
+2020-01-16T03:09:51.906Z - info: Pages built
+2020-01-16T03:10:12.549Z - info: Website generation complete! Total build time: 119.227s
+2020-01-16T03:10:22.980Z - info: Serving "E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_site" at http://127.0.0.1:8080
+2020-01-16T03:10:22.980Z - info: Press CTRL+C to stop ...
+2020-01-16T03:10:23.015Z - info: Site data built
+2020-01-16T03:18:07.012Z - info: [11:18:07 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\_markbind\headers\header.md
+2020-01-16T03:18:08.014Z - info: Rebuilding affected source files
+2020-01-16T03:18:08.036Z - info: Rebuilding 149 pages
+2020-01-16T03:19:14.875Z - info: Pages rebuilt
+2020-01-16T03:19:14.909Z - info: Site data built
+2020-01-16T03:20:26.136Z - info: [11:20:26 AM] Reload for file change: E:\Teaching\CS2113\CS2113-AY1920Sem1\website\index.md
+2020-01-16T03:20:27.137Z - info: Rebuilding affected source files
+2020-01-16T03:20:27.138Z - info: Rebuilding 1 pages
+2020-01-16T03:20:27.432Z - info: Pages rebuilt
+2020-01-16T03:20:27.443Z - info: Site data built
+2020-01-16T03:21:19.365Z - info: Website generation started at 11:21:18 AM
+2020-01-16T03:21:20.509Z - info: Building assets...

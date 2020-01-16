@@ -35,6 +35,7 @@
 <body data-spy="scroll" data-target="#page-nav" data-offset="100">
   <div id="app">
     <header>
+      <div class="w-100 p-1 bg-warning text-center"><span><strong>This site is from a past semester! The current version is <a href="http://www.comp.nus.edu.sg/~cs2113">here</a>.</strong></span></div>
       <navbar placement="top" class="temp-navbar">
         <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">CS2113/T <small>Aug '19</small></a>
         <div class="nav-link temp-dropdown-placeholder">Schedule</div>
@@ -892,11 +893,12 @@
                     <tab header="Not using CATcher">
 
                       <div class="indented-less">
-                        <div>
-                          <box type="warning">
-                            <p>Issues created for PE-D and PE need to be in a precise format for our grading scripts to work. Incorrectly-formatted responses will have to discarded. Therefore, you are strongly recommended to use CATcher for PE-D and PE activities. If you want to give your response via GitHub instead, <strong><span class="text-danger">please get our permission first</span></strong>.
-                            </p>
-                          </box>
+                        <div><span id="warning-use-catcher">
+                            <box type="warning">
+                              <p>Issues created for PE-D and PE need to be in a precise format for our grading scripts to work. Incorrectly-formatted responses will have to discarded. Therefore, you are strongly recommended to use CATcher for PE-D and PE activities. If you want to give your response via GitHub instead, <strong><span class="text-danger">please get our permission first</span></strong>.
+                              </p>
+                            </box>
+                          </span>
                           <ul>
                             <li>Go to the <a href="https://github.com/nusCS2113-AY1920S1/pe-dev-response">dev-response issue tracker</a></li>
                             <li>Use <code>tutorial.*</code> and <code>team.*</code> labels to filter bug reports your team received.</li>
@@ -1045,7 +1047,7 @@ Duplicate of #67
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Sun, 24 Nov 2019 14:14:04 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Thu, 16 Jan 2020 03:21:22 GMT</small></div>
     </footer>
   </div>
 </body>

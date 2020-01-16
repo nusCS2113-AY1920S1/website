@@ -35,6 +35,7 @@
 <body>
   <div id="app">
     <header>
+      <div class="w-100 p-1 bg-warning text-center"><span><strong>This site is from a past semester! The current version is <a href="http://www.comp.nus.edu.sg/~cs2113">here</a>.</strong></span></div>
       <navbar placement="top" class="temp-navbar">
         <a slot="brand" href="/website/index.html" title="Home" class="navbar-brand">CS2113/T <small>Aug '19</small></a>
         <div class="nav-link temp-dropdown-placeholder">Schedule</div>
@@ -807,11 +808,12 @@
                       <tab header="Not using CATcher">
 
                         <div class="indented-less">
-                          <div>
-                            <box type="warning">
-                              <p>Issues created for PE-D and PE need to be in a precise format for our grading scripts to work. Incorrectly-formatted responses will have to discarded. Therefore, you are strongly recommended to use CATcher for PE-D and PE activities. If you want to give your response via GitHub instead, <strong><span class="text-danger">please get our permission first</span></strong>.
-                              </p>
-                            </box>
+                          <div><span id="warning-use-catcher">
+                              <box type="warning">
+                                <p>Issues created for PE-D and PE need to be in a precise format for our grading scripts to work. Incorrectly-formatted responses will have to discarded. Therefore, you are strongly recommended to use CATcher for PE-D and PE activities. If you want to give your response via GitHub instead, <strong><span class="text-danger">please get our permission first</span></strong>.
+                                </p>
+                              </box>
+                            </span>
                             <ul>
                               <li>Go to the <a href="https://github.com/nusCS2113-AY1920S1/pe-dev-response">dev-response issue tracker</a></li>
                               <li>Use <code>tutorial.*</code> and <code>team.*</code> labels to filter bug reports your team received.</li>
@@ -1633,11 +1635,12 @@ Duplicate of #67
                   <tab header="Not using CATcher">
 
                     <div class="indented-less">
-                      <div>
-                        <box type="warning">
-                          <p>Issues created for PE-D and PE need to be in a precise format for our grading scripts to work. Incorrectly-formatted responses will have to discarded. Therefore, you are strongly recommended to use CATcher for PE-D and PE activities. If you want to give your response via GitHub instead, <strong><span class="text-danger">please get our permission first</span></strong>.
-                          </p>
-                        </box>
+                      <div><span id="warning-use-catcher">
+                          <box type="warning">
+                            <p>Issues created for PE-D and PE need to be in a precise format for our grading scripts to work. Incorrectly-formatted responses will have to discarded. Therefore, you are strongly recommended to use CATcher for PE-D and PE activities. If you want to give your response via GitHub instead, <strong><span class="text-danger">please get our permission first</span></strong>.
+                            </p>
+                          </box>
+                        </span>
                         <ul>
                           <li>Go to the <a href="https://github.com/nusCS2113-AY1920S1/pe-dev-response">dev-response issue tracker</a></li>
                           <li>Use <code>tutorial.*</code> and <code>team.*</code> labels to filter bug reports your team received.</li>
@@ -2664,10 +2667,57 @@ method 2 ...
             </modal>
             <h4 id="phase-3-tester-response">Phase 3: Tester response<a class="fa fa-anchor" href="#phase-3-tester-response"></a></h4>
             <ul>
+              <li>This phase is optional. If you do not respond to a dev response, we'll assume that you agree with it.
+                <br></li>
               <li>In this phase you will get to state whether you agree or disagree with the dev response to the bugs you reported.</li>
-              <li>This phase is optional. If you do not respond to a dev response, we'll assume that you agree with it.</li>
-              <li>Deadline: Reading week Wednesday 2359</li>
+              <li>If a bug reported has been subjected to any of the below by the receiving team, CATcher will allow you to record your objections and the reason for the objection.
+                <ul>
+                  <li>not accepted</li>
+                  <li>severity downgraded</li>
+                  <li>bug type changed</li>
+                </ul>
+              </li>
             </ul>
+            <ul>
+              <li>As before, consider carefully before you object to a team response. <mark>If many of your objections were overruled by the teaching team later</mark>, you will lose marks for not being able to evaluate a bug report properly.</li>
+            </ul>
+            <ul>
+              <li>Deadline: Reading week Thursday 2359 hrs</li>
+            </ul>
+
+            <div class="indented-level2">
+              <tabs>
+                <tab header="Using CATcher">
+                  <ul>
+                    <li>Login to CATcher as usual (profile: <code>CS2113/T PE</code>).</li>
+                    <li>For the issues listed, go to the details, and read the team's response.</li>
+                    <li>If you disagree with any of the items listed, tick on the <code>I disagree</code> tick box and enter your justification for the disagreement, and click <code>Save</code>.</li>
+                  </ul>
+                </tab>
+                <tab header="Not using CATcher">
+                  <div class="indented-less">
+                    <div>
+                      <div>
+                        <box type="warning">
+                          <p>Issues created for PE-D and PE need to be in a precise format for our grading scripts to work. Incorrectly-formatted responses will have to discarded. Therefore, you are strongly recommended to use CATcher for PE-D and PE activities. If you want to give your response via GitHub instead, <strong><span class="text-danger">please get our permission first</span></strong>.
+                          </p>
+                        </box>
+                      </div>
+                      <ul>
+                        <li>When the phase has been announced as open, go to your <code>pe</code> repo.</li>
+                        <li>For the issues listed, go to the details, and read the bot's comment containing the team's response.</li>
+                        <li>If you disagree with any of the items listed in that comment, tick on the <code>[ ] I disagree</code> tick box. <mark>Edit the comment (do not add a new comment)</mark> to replace the <code>[replace this with your reason]</code> with your reasoning. Here is an example:<br></li>
+                      </ul>
+                    </div>
+
+                    <pre><code class="hljs">Team chose ['response.IssueUnclear']
+- [x] I disagree
+**Reason for disagreement:** I think one can easily reproduce the problem by following the steps I gave.
+</code></pre>
+                  </div>
+                </tab>
+              </tabs>
+            </div>
             <h4 id="phase-4-moderation-by-the-teaching-team">Phase 4: Moderation by the teaching team<a class="fa fa-anchor" href="#phase-4-moderation-by-the-teaching-team"></a></h4>
             <ul>
               <li>In this phase tutors will look through all dev responses you objected to in the previous phase and decide on a final outcome.</li>
@@ -2682,7 +2732,7 @@ method 2 ...
     </div>
     <footer>
       <div class="text-center">
-        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Sun, 24 Nov 2019 14:14:04 GMT</small></div>
+        <small>This site was built with <a href="https://markbind.org/">MarkBind 2.5.3</a> at Thu, 16 Jan 2020 03:21:22 GMT</small></div>
     </footer>
   </div>
 </body>
